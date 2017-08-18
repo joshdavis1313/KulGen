@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EA2B5285-7DA9-4FBD-ADA8-0FC44235D43E}|Default">
+  <MonoDevelop.Ide.ItemProperties.KulGen.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CA75062-CFA4-4D3B-B008-CF710FC6361B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.KulGen.iOS>
+  <MonoDevelop.Ide.ItemProperties.KulGen.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.b305be96" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Droid/Source/Views/CombatTracker/CombatTrackerView.cs" Line="8" Column="50" />
+      <File FileName="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" Line="5" Column="25" />
+      <File FileName="Droid/Resources/menu/top_menu.xml" Line="6" Column="31" />
+      <File FileName="Droid/Resources/values/Styles.xml" Line="11" Column="62" />
+      <File FileName="Droid/Resources/values/Colors.xml" Line="7" Column="44" />
+      <File FileName="Droid/Source/Views/BaseView.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Gondor/shire/Shire.Android/Source/ShireMvx/ShirePresenter.cs" line="71" offsetX="516" offsetY="1050" expression="request" liveUpdate="False" />
+    <Watch file="../Gondor/Gondor.Android/Source/Views/InWorkout/InWorkoutView.cs" line="79" offsetX="906" offsetY="1170" expression="resumeQuitButtonsContainer.Visibility" liveUpdate="False" />
+    <Watch file="../Gondor/Gondor.Android/Source/Views/InWorkout/InWorkoutView.cs" line="80" offsetX="1043" offsetY="1185" expression="pauseContainer.Visibility" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
