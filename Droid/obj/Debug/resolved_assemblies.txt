@@ -16,6 +16,8 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Binding.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Core.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Droid.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Droid.FullFragging.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Droid.Shared.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.FieldBinding.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Localization.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Platform.dll
@@ -66,10 +68,10 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Mono.Security.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Net.Primitives.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll

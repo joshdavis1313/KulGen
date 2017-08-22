@@ -47,6 +47,27 @@ namespace KulGen.Droid
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView = global::KulGen.Droid.Resource.Styleable.MvxListView;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::KulGen.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
 			global::MvvmCross.Binding.Droid.Resource.Styleable.MvxListView_MvxItemTemplate = global::KulGen.Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxBind = global::KulGen.Droid.Resource.Attribute.MvxBind;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxDropDownItemTemplate = global::KulGen.Droid.Resource.Attribute.MvxDropDownItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxGroupItemTemplate = global::KulGen.Droid.Resource.Attribute.MvxGroupItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxItemTemplate = global::KulGen.Droid.Resource.Attribute.MvxItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxLang = global::KulGen.Droid.Resource.Attribute.MvxLang;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxSource = global::KulGen.Droid.Resource.Attribute.MvxSource;
+			global::MvvmCross.Droid.FullFragging.Resource.Attribute.MvxTemplate = global::KulGen.Droid.Resource.Attribute.MvxTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Id.MvvmCrossTagId = global::KulGen.Droid.Resource.Id.MvvmCrossTagId;
+			global::MvvmCross.Droid.FullFragging.Resource.Id.MvxBindingTagUnique = global::KulGen.Droid.Resource.Id.MvxBindingTagUnique;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxBinding = global::KulGen.Droid.Resource.Styleable.MvxBinding;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxBinding_MvxBind = global::KulGen.Droid.Resource.Styleable.MvxBinding_MvxBind;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxBinding_MvxLang = global::KulGen.Droid.Resource.Styleable.MvxBinding_MvxLang;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxControl = global::KulGen.Droid.Resource.Styleable.MvxControl;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxControl_MvxTemplate = global::KulGen.Droid.Resource.Styleable.MvxControl_MvxTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxExpandableListView = global::KulGen.Droid.Resource.Styleable.MvxExpandableListView;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate = global::KulGen.Droid.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxImageView = global::KulGen.Droid.Resource.Styleable.MvxImageView;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxImageView_MvxSource = global::KulGen.Droid.Resource.Styleable.MvxImageView_MvxSource;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxListView = global::KulGen.Droid.Resource.Styleable.MvxListView;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::KulGen.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
+			global::MvvmCross.Droid.FullFragging.Resource.Styleable.MvxListView_MvxItemTemplate = global::KulGen.Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
 			global::PCLCrypto.Resource.String.ApplicationName = global::KulGen.Droid.Resource.String.ApplicationName;
 			global::PCLCrypto.Resource.String.Hello = global::KulGen.Droid.Resource.String.Hello;
 			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::KulGen.Droid.Resource.String.ApplicationName;
@@ -2260,8 +2281,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0010
 			public const int MvxBindingTagUnique = 2131427344;
 			
-			// aapt resource value: 0x7f0b008b
-			public const int action0 = 2131427467;
+			// aapt resource value: 0x7f0b0092
+			public const int action0 = 2131427474;
 			
 			// aapt resource value: 0x7f0b0066
 			public const int action_bar = 2131427430;
@@ -2284,17 +2305,17 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0043
 			public const int action_bar_title = 2131427395;
 			
-			// aapt resource value: 0x7f0b0088
-			public const int action_container = 2131427464;
+			// aapt resource value: 0x7f0b008f
+			public const int action_container = 2131427471;
 			
 			// aapt resource value: 0x7f0b0067
 			public const int action_context_bar = 2131427431;
 			
-			// aapt resource value: 0x7f0b008f
-			public const int action_divider = 2131427471;
+			// aapt resource value: 0x7f0b0096
+			public const int action_divider = 2131427478;
 			
-			// aapt resource value: 0x7f0b0089
-			public const int action_image = 2131427465;
+			// aapt resource value: 0x7f0b0090
+			public const int action_image = 2131427472;
 			
 			// aapt resource value: 0x7f0b0005
 			public const int action_menu_divider = 2131427333;
@@ -2311,11 +2332,11 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0045
 			public const int action_mode_close_button = 2131427397;
 			
-			// aapt resource value: 0x7f0b008a
-			public const int action_text = 2131427466;
+			// aapt resource value: 0x7f0b0091
+			public const int action_text = 2131427473;
 			
-			// aapt resource value: 0x7f0b0098
-			public const int actions = 2131427480;
+			// aapt resource value: 0x7f0b009f
+			public const int actions = 2131427487;
 			
 			// aapt resource value: 0x7f0b0046
 			public const int activity_chooser_view_content = 2131427398;
@@ -2341,29 +2362,29 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0017
 			public const int bottom = 2131427351;
 			
-			// aapt resource value: 0x7f0b0075
-			public const int bottom_toolbar = 2131427445;
+			// aapt resource value: 0x7f0b0078
+			public const int bottom_toolbar = 2131427448;
 			
 			// aapt resource value: 0x7f0b004d
 			public const int buttonPanel = 2131427405;
 			
-			// aapt resource value: 0x7f0b0076
-			public const int button_toolbar_character = 2131427446;
+			// aapt resource value: 0x7f0b0079
+			public const int button_toolbar_character = 2131427449;
 			
-			// aapt resource value: 0x7f0b0078
-			public const int button_toolbar_equipment = 2131427448;
+			// aapt resource value: 0x7f0b007b
+			public const int button_toolbar_equipment = 2131427451;
+			
+			// aapt resource value: 0x7f0b007d
+			public const int button_toolbar_personality = 2131427453;
+			
+			// aapt resource value: 0x7f0b007c
+			public const int button_toolbar_spells = 2131427452;
 			
 			// aapt resource value: 0x7f0b007a
-			public const int button_toolbar_personality = 2131427450;
+			public const int button_toolbar_stats = 2131427450;
 			
-			// aapt resource value: 0x7f0b0079
-			public const int button_toolbar_spells = 2131427449;
-			
-			// aapt resource value: 0x7f0b0077
-			public const int button_toolbar_stats = 2131427447;
-			
-			// aapt resource value: 0x7f0b008c
-			public const int cancel_action = 2131427468;
+			// aapt resource value: 0x7f0b0093
+			public const int cancel_action = 2131427475;
 			
 			// aapt resource value: 0x7f0b0018
 			public const int center = 2131427352;
@@ -2377,8 +2398,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b005d
 			public const int checkbox = 2131427421;
 			
-			// aapt resource value: 0x7f0b0094
-			public const int chronometer = 2131427476;
+			// aapt resource value: 0x7f0b009b
+			public const int chronometer = 2131427483;
 			
 			// aapt resource value: 0x7f0b0024
 			public const int clip_horizontal = 2131427364;
@@ -2404,23 +2425,32 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0049
 			public const int default_activity_button = 2131427401;
 			
-			// aapt resource value: 0x7f0b007f
-			public const int design_bottom_sheet = 2131427455;
-			
 			// aapt resource value: 0x7f0b0086
-			public const int design_menu_item_action_area = 2131427462;
+			public const int design_bottom_sheet = 2131427462;
 			
-			// aapt resource value: 0x7f0b0085
-			public const int design_menu_item_action_area_stub = 2131427461;
+			// aapt resource value: 0x7f0b008d
+			public const int design_menu_item_action_area = 2131427469;
 			
-			// aapt resource value: 0x7f0b0084
-			public const int design_menu_item_text = 2131427460;
+			// aapt resource value: 0x7f0b008c
+			public const int design_menu_item_action_area_stub = 2131427468;
 			
-			// aapt resource value: 0x7f0b0083
-			public const int design_navigation_view = 2131427459;
+			// aapt resource value: 0x7f0b008b
+			public const int design_menu_item_text = 2131427467;
+			
+			// aapt resource value: 0x7f0b008a
+			public const int design_navigation_view = 2131427466;
 			
 			// aapt resource value: 0x7f0b0034
 			public const int disableHome = 2131427380;
+			
+			// aapt resource value: 0x7f0b0075
+			public const int edit_character_name = 2131427445;
+			
+			// aapt resource value: 0x7f0b0077
+			public const int edit_initiative = 2131427447;
+			
+			// aapt resource value: 0x7f0b0076
+			public const int edit_player_name = 2131427446;
 			
 			// aapt resource value: 0x7f0b0068
 			public const int edit_query = 2131427432;
@@ -2428,8 +2458,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b001b
 			public const int end = 2131427355;
 			
-			// aapt resource value: 0x7f0b009e
-			public const int end_padder = 2131427486;
+			// aapt resource value: 0x7f0b00a5
+			public const int end_padder = 2131427493;
 			
 			// aapt resource value: 0x7f0b0011
 			public const int enterAlways = 2131427345;
@@ -2446,8 +2476,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b005c
 			public const int expanded_menu = 2131427420;
 			
-			// aapt resource value: 0x7f0b007b
-			public const int fab_add = 2131427451;
+			// aapt resource value: 0x7f0b0082
+			public const int fab_add = 2131427458;
 			
 			// aapt resource value: 0x7f0b0026
 			public const int fill = 2131427366;
@@ -2470,8 +2500,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b004b
 			public const int icon = 2131427403;
 			
-			// aapt resource value: 0x7f0b0099
-			public const int icon_group = 2131427481;
+			// aapt resource value: 0x7f0b00a0
+			public const int icon_group = 2131427488;
 			
 			// aapt resource value: 0x7f0b0040
 			public const int ifRoom = 2131427392;
@@ -2479,47 +2509,47 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0048
 			public const int image = 2131427400;
 			
-			// aapt resource value: 0x7f0b0095
-			public const int info = 2131427477;
+			// aapt resource value: 0x7f0b009c
+			public const int info = 2131427484;
 			
 			// aapt resource value: 0x7f0b000c
 			public const int item_touch_helper_previous_elevation = 2131427340;
 			
-			// aapt resource value: 0x7f0b007d
-			public const int largeLabel = 2131427453;
+			// aapt resource value: 0x7f0b0084
+			public const int largeLabel = 2131427460;
 			
 			// aapt resource value: 0x7f0b001d
 			public const int left = 2131427357;
 			
-			// aapt resource value: 0x7f0b009a
-			public const int line1 = 2131427482;
+			// aapt resource value: 0x7f0b00a1
+			public const int line1 = 2131427489;
 			
-			// aapt resource value: 0x7f0b009c
-			public const int line3 = 2131427484;
+			// aapt resource value: 0x7f0b00a3
+			public const int line3 = 2131427491;
 			
 			// aapt resource value: 0x7f0b0032
 			public const int listMode = 2131427378;
 			
+			// aapt resource value: 0x7f0b0081
+			public const int list_combat = 2131427457;
+			
 			// aapt resource value: 0x7f0b004a
 			public const int list_item = 2131427402;
 			
-			// aapt resource value: 0x7f0b00a1
-			public const int masked = 2131427489;
+			// aapt resource value: 0x7f0b00a8
+			public const int masked = 2131427496;
 			
-			// aapt resource value: 0x7f0b008e
-			public const int media_actions = 2131427470;
+			// aapt resource value: 0x7f0b0095
+			public const int media_actions = 2131427477;
 			
-			// aapt resource value: 0x7f0b00a5
-			public const int menu_help = 2131427493;
+			// aapt resource value: 0x7f0b00ab
+			public const int menu_help = 2131427499;
 			
-			// aapt resource value: 0x7f0b00a2
-			public const int menu_sort = 2131427490;
+			// aapt resource value: 0x7f0b00a9
+			public const int menu_sort = 2131427497;
 			
-			// aapt resource value: 0x7f0b00a4
-			public const int menu_upgrade = 2131427492;
-			
-			// aapt resource value: 0x7f0b00a3
-			public const int menu_zero = 2131427491;
+			// aapt resource value: 0x7f0b00aa
+			public const int menu_upgrade = 2131427498;
 			
 			// aapt resource value: 0x7f0b003d
 			public const int middle = 2131427389;
@@ -2530,8 +2560,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b002d
 			public const int multiply = 2131427373;
 			
-			// aapt resource value: 0x7f0b0082
-			public const int navigation_header_container = 2131427458;
+			// aapt resource value: 0x7f0b0089
+			public const int navigation_header_container = 2131427465;
 			
 			// aapt resource value: 0x7f0b0041
 			public const int never = 2131427393;
@@ -2542,14 +2572,14 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b002a
 			public const int normal = 2131427370;
 			
+			// aapt resource value: 0x7f0b009e
+			public const int notification_background = 2131427486;
+			
+			// aapt resource value: 0x7f0b0098
+			public const int notification_main_column = 2131427480;
+			
 			// aapt resource value: 0x7f0b0097
-			public const int notification_background = 2131427479;
-			
-			// aapt resource value: 0x7f0b0091
-			public const int notification_main_column = 2131427473;
-			
-			// aapt resource value: 0x7f0b0090
-			public const int notification_main_column_container = 2131427472;
+			public const int notification_main_column_container = 2131427479;
 			
 			// aapt resource value: 0x7f0b0022
 			public const int parallax = 2131427362;
@@ -2572,11 +2602,11 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b001e
 			public const int right = 2131427358;
 			
-			// aapt resource value: 0x7f0b0096
-			public const int right_icon = 2131427478;
+			// aapt resource value: 0x7f0b009d
+			public const int right_icon = 2131427485;
 			
-			// aapt resource value: 0x7f0b0092
-			public const int right_side = 2131427474;
+			// aapt resource value: 0x7f0b0099
+			public const int right_side = 2131427481;
 			
 			// aapt resource value: 0x7f0b002e
 			public const int screen = 2131427374;
@@ -2641,14 +2671,14 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0038
 			public const int showTitle = 2131427384;
 			
-			// aapt resource value: 0x7f0b007c
-			public const int smallLabel = 2131427452;
+			// aapt resource value: 0x7f0b0083
+			public const int smallLabel = 2131427459;
 			
-			// aapt resource value: 0x7f0b0081
-			public const int snackbar_action = 2131427457;
+			// aapt resource value: 0x7f0b0088
+			public const int snackbar_action = 2131427464;
 			
-			// aapt resource value: 0x7f0b0080
-			public const int snackbar_text = 2131427456;
+			// aapt resource value: 0x7f0b0087
+			public const int snackbar_text = 2131427463;
 			
 			// aapt resource value: 0x7f0b0015
 			public const int snap = 2131427349;
@@ -2671,8 +2701,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b001f
 			public const int start = 2131427359;
 			
-			// aapt resource value: 0x7f0b008d
-			public const int status_bar_latest_event_content = 2131427469;
+			// aapt resource value: 0x7f0b0094
+			public const int status_bar_latest_event_content = 2131427476;
 			
 			// aapt resource value: 0x7f0b0060
 			public const int submenuarrow = 2131427424;
@@ -2683,11 +2713,11 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0033
 			public const int tabMode = 2131427379;
 			
-			// aapt resource value: 0x7f0b009d
-			public const int text = 2131427485;
+			// aapt resource value: 0x7f0b00a4
+			public const int text = 2131427492;
 			
-			// aapt resource value: 0x7f0b009b
-			public const int text2 = 2131427483;
+			// aapt resource value: 0x7f0b00a2
+			public const int text2 = 2131427490;
 			
 			// aapt resource value: 0x7f0b0054
 			public const int textSpacerNoButtons = 2131427412;
@@ -2695,8 +2725,17 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0053
 			public const int textSpacerNoTitle = 2131427411;
 			
-			// aapt resource value: 0x7f0b0087
-			public const int text_input_password_toggle = 2131427463;
+			// aapt resource value: 0x7f0b0080
+			public const int text_health = 2131427456;
+			
+			// aapt resource value: 0x7f0b007e
+			public const int text_initiative = 2131427454;
+			
+			// aapt resource value: 0x7f0b008e
+			public const int text_input_password_toggle = 2131427470;
+			
+			// aapt resource value: 0x7f0b007f
+			public const int text_name = 2131427455;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int textinput_counter = 2131427328;
@@ -2704,8 +2743,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0001
 			public const int textinput_error = 2131427329;
 			
-			// aapt resource value: 0x7f0b0093
-			public const int time = 2131427475;
+			// aapt resource value: 0x7f0b009a
+			public const int time = 2131427482;
 			
 			// aapt resource value: 0x7f0b004c
 			public const int title = 2131427404;
@@ -2722,11 +2761,11 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0058
 			public const int topPanel = 2131427416;
 			
-			// aapt resource value: 0x7f0b009f
-			public const int toptoolbar = 2131427487;
+			// aapt resource value: 0x7f0b00a6
+			public const int toptoolbar = 2131427494;
 			
-			// aapt resource value: 0x7f0b007e
-			public const int touch_outside = 2131427454;
+			// aapt resource value: 0x7f0b0085
+			public const int touch_outside = 2131427461;
 			
 			// aapt resource value: 0x7f0b000d
 			public const int transition_current_scene = 2131427341;
@@ -2743,8 +2782,8 @@ namespace KulGen.Droid
 			// aapt resource value: 0x7f0b0002
 			public const int view_offset_helper = 2131427330;
 			
-			// aapt resource value: 0x7f0b00a0
-			public const int visible = 2131427488;
+			// aapt resource value: 0x7f0b00a7
+			public const int visible = 2131427495;
 			
 			// aapt resource value: 0x7f0b0042
 			public const int withText = 2131427394;
@@ -2887,115 +2926,121 @@ namespace KulGen.Droid
 			public const int abc_select_dialog_material = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
-			public const int BottomToolbar = 2130968603;
+			public const int add_combat_item_layout = 2130968603;
 			
 			// aapt resource value: 0x7f04001c
-			public const int CombatTrackerLayout = 2130968604;
+			public const int bottom_toolbar = 2130968604;
 			
 			// aapt resource value: 0x7f04001d
-			public const int design_bottom_navigation_item = 2130968605;
+			public const int combat_item = 2130968605;
 			
 			// aapt resource value: 0x7f04001e
-			public const int design_bottom_sheet_dialog = 2130968606;
+			public const int combat_tracker_layout = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_layout_snackbar = 2130968607;
+			public const int design_bottom_navigation_item = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_layout_snackbar_include = 2130968608;
+			public const int design_bottom_sheet_dialog = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_layout_tab_icon = 2130968609;
+			public const int design_layout_snackbar = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_layout_tab_text = 2130968610;
+			public const int design_layout_snackbar_include = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_menu_item_action_area = 2130968611;
+			public const int design_layout_tab_icon = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_navigation_item = 2130968612;
+			public const int design_layout_tab_text = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int design_navigation_item_header = 2130968613;
+			public const int design_menu_item_action_area = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int design_navigation_item_separator = 2130968614;
+			public const int design_navigation_item = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int design_navigation_item_subheader = 2130968615;
+			public const int design_navigation_item_header = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int design_navigation_menu = 2130968616;
+			public const int design_navigation_item_separator = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int design_navigation_menu_item = 2130968617;
+			public const int design_navigation_item_subheader = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int design_text_input_password_icon = 2130968618;
+			public const int design_navigation_menu = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int notification_action = 2130968619;
+			public const int design_navigation_menu_item = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int notification_action_tombstone = 2130968620;
+			public const int design_text_input_password_icon = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int notification_media_action = 2130968621;
+			public const int notification_action = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_media_cancel_action = 2130968622;
+			public const int notification_action_tombstone = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_template_big_media = 2130968623;
+			public const int notification_media_action = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_template_big_media_custom = 2130968624;
+			public const int notification_media_cancel_action = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_template_big_media_narrow = 2130968625;
+			public const int notification_template_big_media = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_big_media_narrow_custom = 2130968626;
+			public const int notification_template_big_media_custom = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_custom_big = 2130968627;
+			public const int notification_template_big_media_narrow = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_icon_group = 2130968628;
+			public const int notification_template_big_media_narrow_custom = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_lines_media = 2130968629;
+			public const int notification_template_custom_big = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_media = 2130968630;
+			public const int notification_template_icon_group = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_media_custom = 2130968631;
+			public const int notification_template_lines_media = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_part_chronometer = 2130968632;
+			public const int notification_template_media = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int notification_template_part_time = 2130968633;
+			public const int notification_template_media_custom = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_item_material = 2130968634;
+			public const int notification_template_part_chronometer = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_multichoice_material = 2130968635;
+			public const int notification_template_part_time = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int select_dialog_singlechoice_material = 2130968636;
+			public const int select_dialog_item_material = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int SplashScreen = 2130968637;
+			public const int select_dialog_multichoice_material = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int support_simple_spinner_dropdown_item = 2130968638;
+			public const int select_dialog_singlechoice_material = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int TopToolbar = 2130968639;
+			public const int SplashScreen = 2130968639;
+			
+			// aapt resource value: 0x7f040040
+			public const int support_simple_spinner_dropdown_item = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int top_toolbar = 2130968641;
 			
 			static Layout()
 			{

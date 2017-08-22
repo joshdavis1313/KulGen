@@ -1,3 +1,6 @@
+/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.App.config
+/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache
+/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/KulGen.dll.config
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/KulGen.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/KulGen.pdb
@@ -17,11 +20,6 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLitePCLRaw.core.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/System.Net.Http.Extensions.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/System.Net.Http.Primitives.dll
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Platform.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Core.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Binding.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Localization.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.FieldBinding.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Newtonsoft.Json.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/System.Net.Http.Extensions.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/System.Net.Http.Primitives.xml
@@ -30,8 +28,8 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.Abstractions.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.Abstractions.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.xml
-/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.App.config
-/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Localization.dll.mdb

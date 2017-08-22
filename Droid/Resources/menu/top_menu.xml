@@ -3,11 +3,7 @@
   <item
        android:id="@+id/menu_sort"
        android:showAsAction="never"
-       android:title="Sort" />
-  <item
-       android:id="@+id/menu_zero"
-       android:showAsAction="never"
-       android:title="0Hp?" />
+       android:title="Options" />
   <item
        android:id="@+id/menu_upgrade"
        android:showAsAction="never"

@@ -107,6 +107,8 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Binding.Droid.dll",
 		"MvvmCross.Core.dll",
 		"MvvmCross.Droid.dll",
+		"MvvmCross.Droid.FullFragging.dll",
+		"MvvmCross.Droid.Shared.dll",
 		"MvvmCross.FieldBinding.dll",
 		"MvvmCross.Localization.dll",
 		"MvvmCross.Platform.dll",

@@ -1,3 +1,7 @@
+KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
+KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
+KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
+kulgen.droid.source.mvxbindings.MvxListViewAdapter_1;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
 KulGen.Droid.Source.Views.BaseView, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.BaseView
 KulGen.Droid.Source.Views.BaseView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.BaseView
 KulGen.Droid.Source.Views.BaseView;md5b080e29214788936adecfb0fd8f33ccb.BaseView
@@ -18,6 +22,22 @@ KulGen.Droid.Source.Views.NavigationBarView`2, KulGen.Droid;md5b080e29214788936a
 KulGen.Droid.Source.Views.NavigationBarView`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
 KulGen.Droid.Source.Views.NavigationBarView`2;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
 kulgen.droid.source.views.NavigationBarView_2;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment
+kulgen.droid.source.views.dialogs.BaseDialogFragment;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`1, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_1
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_1
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`1;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_1
+kulgen.droid.source.views.dialogs.BaseDialogFragment_1;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_1
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`2, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_2
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_2
+KulGen.Droid.Source.Views.Dialogs.BaseDialogFragment`2;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_2
+kulgen.droid.source.views.dialogs.BaseDialogFragment_2;md5e1ce8c7ef0155c87bc96b995679d8040.BaseDialogFragment_2
+KulGen.Droid.Source.Views.Dialogs.AddCombatItemView, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatItemView
+KulGen.Droid.Source.Views.Dialogs.AddCombatItemView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatItemView
+KulGen.Droid.Source.Views.Dialogs.AddCombatItemView;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatItemView
+kulgen.droid.source.views.dialogs.AddCombatItemView;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatItemView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
@@ -186,6 +206,70 @@ MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid;mvvmcross.droid.servi
 MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.services.MvxIntentService
 MvvmCross.Droid.Services.MvxIntentService;mvvmcross.droid.services.MvxIntentService
 mvvmcross.droid.services.MvxIntentService;mvvmcross.droid.services.MvxIntentService
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity
+mvvmcross.droid.fullfragging.MvxTabsFragmentActivity;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity/TabFactory, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity+TabFactory, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.FullFragging.MvxTabsFragmentActivity.TabFactory;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity_TabFactory
+mvvmcross.droid.fullfragging.MvxTabsFragmentActivity_TabFactory;mvvmcross.droid.fullfragging.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.FullFragging.Views.MvxActivity, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.views.MvxActivity
+MvvmCross.Droid.FullFragging.Views.MvxActivity, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.views.MvxActivity
+MvvmCross.Droid.FullFragging.Views.MvxActivity;mvvmcross.droid.fullfragging.views.MvxActivity
+mvvmcross.droid.fullfragging.views.MvxActivity;mvvmcross.droid.fullfragging.views.MvxActivity
+MvvmCross.Droid.FullFragging.Views.MvxActivity`1, MvvmCross.Droid.FullFragging;md5d4b30cb825df585d090b84a4ec555c95.MvxActivity_1
+MvvmCross.Droid.FullFragging.Views.MvxActivity`1, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5d4b30cb825df585d090b84a4ec555c95.MvxActivity_1
+MvvmCross.Droid.FullFragging.Views.MvxActivity`1;md5d4b30cb825df585d090b84a4ec555c95.MvxActivity_1
+mvvmcross.droid.fullfragging.views.MvxActivity_1;md5d4b30cb825df585d090b84a4ec555c95.MvxActivity_1
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.MvxDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.MvxDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment;mvvmcross.droid.fullfragging.fragments.MvxDialogFragment
+mvvmcross.droid.fullfragging.fragments.MvxDialogFragment;mvvmcross.droid.fullfragging.fragments.MvxDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment`1, MvvmCross.Droid.FullFragging;md5688a4746e2f573c083c49e80b7f4e36c.MvxDialogFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment`1, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5688a4746e2f573c083c49e80b7f4e36c.MvxDialogFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxDialogFragment`1;md5688a4746e2f573c083c49e80b7f4e36c.MvxDialogFragment_1
+mvvmcross.droid.fullfragging.fragments.MvxDialogFragment_1;md5688a4746e2f573c083c49e80b7f4e36c.MvxDialogFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.MvxFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.MvxFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment;mvvmcross.droid.fullfragging.fragments.MvxFragment
+mvvmcross.droid.fullfragging.fragments.MvxFragment;mvvmcross.droid.fullfragging.fragments.MvxFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment`1, MvvmCross.Droid.FullFragging;md5688a4746e2f573c083c49e80b7f4e36c.MvxFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment`1, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5688a4746e2f573c083c49e80b7f4e36c.MvxFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxFragment`1;md5688a4746e2f573c083c49e80b7f4e36c.MvxFragment_1
+mvvmcross.droid.fullfragging.fragments.MvxFragment_1;md5688a4746e2f573c083c49e80b7f4e36c.MvxFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment;mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment
+mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment;mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment`1, MvvmCross.Droid.FullFragging;md5688a4746e2f573c083c49e80b7f4e36c.MvxPreferenceFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment`1, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5688a4746e2f573c083c49e80b7f4e36c.MvxPreferenceFragment_1
+MvvmCross.Droid.FullFragging.Fragments.MvxPreferenceFragment`1;md5688a4746e2f573c083c49e80b7f4e36c.MvxPreferenceFragment_1
+mvvmcross.droid.fullfragging.fragments.MvxPreferenceFragment_1;md5688a4746e2f573c083c49e80b7f4e36c.MvxPreferenceFragment_1
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceDialogFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceDialogFragment
+mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceDialogFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment
+mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceListFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceListFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourceListFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceListFragment
+mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceListFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourcePreferenceFragment, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourcePreferenceFragment, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.FullFragging.Fragments.EventSource.MvxEventSourcePreferenceFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourcePreferenceFragment
+mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourcePreferenceFragment;mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity, MvvmCross.Droid.FullFragging;mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity;mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity
+mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity;mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity`1, MvvmCross.Droid.FullFragging;md5bc24a46e04b3958954ecb526d9cdfa3a.MvxCachingFragmentActivity_1
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity`1, MvvmCross.Droid.FullFragging, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md5bc24a46e04b3958954ecb526d9cdfa3a.MvxCachingFragmentActivity_1
+MvvmCross.Droid.FullFragging.Caching.MvxCachingFragmentActivity`1;md5bc24a46e04b3958954ecb526d9cdfa3a.MvxCachingFragmentActivity_1
+mvvmcross.droid.fullfragging.caching.MvxCachingFragmentActivity_1;md5bc24a46e04b3958954ecb526d9cdfa3a.MvxCachingFragmentActivity_1
 MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid;md56033267efeafb767f5e962308490006c.MvxJavaContainer
 MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null;md56033267efeafb767f5e962308490006c.MvxJavaContainer
 MvvmCross.Platform.Droid.MvxJavaContainer;md56033267efeafb767f5e962308490006c.MvxJavaContainer
