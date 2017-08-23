@@ -3,19 +3,23 @@
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.KulGen.iOS>
   <MonoDevelop.Ide.ItemProperties.KulGen.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.b305be96" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Source/Views/Dialogs/BaseDialogFragment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KulGen/Source/LocalSettings.cs">
     <Files>
-      <File FileName="KulGen/Source/ViewModels/BaseViewModel.cs" Line="49" Column="1" />
-      <File FileName="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" Line="30" Column="24" />
-      <File FileName="KulGen/Source/ViewModels/Dialogs/AddCombatItemViewModel.cs" Line="7" Column="2" />
-      <File FileName="Droid/Source/Views/Dialogs/AddCombatItemView.cs" Line="8" Column="53" />
-      <File FileName="Droid/Source/Views/Dialogs/BaseDialogFragment.cs" Line="12" Column="54" />
+      <File FileName="KulGen/Source/ViewModels/BaseViewModel.cs" Line="18" Column="4" />
+      <File FileName="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" Line="19" Column="47" />
+      <File FileName="Droid/Source/Views/CombatTracker/CombatTrackerView.cs" Line="51" Column="4" />
+      <File FileName="Droid/Source/Views/CombatTracker/AddCombatantView.cs" Line="60" Column="4" />
+      <File FileName="KulGen/Source/ViewModels/CombatTracker/AddCombatantViewModel.cs" Line="33" Column="35" />
+      <File FileName="KulGen/Source/DataModels/Combatant.cs" Line="15" Column="10" />
+      <File FileName="KulGen/Source/LocalSettings.cs" Line="19" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/joshua.davis/Sites/KulGen/Droid/Source/ListAdapter/CombatListAdapter.cs" relfile="Droid/Source/ListAdapter/CombatListAdapter.cs" line="24" column="1" />
+      <Breakpoint file="/Users/joshua.davis/Sites/KulGen/KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" relfile="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" line="28" column="39" />
+      <Breakpoint file="/Users/joshua.davis/Sites/KulGen/KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" relfile="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" line="21" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>

@@ -4,7 +4,6 @@ using Android.Content.PM;
 using Android.Support.Design.Widget;
 using Android.Widget;
 using KulGen.Source.ViewModels.CombatTracker;
-using MvvmCross.Binding.Droid.Views;
 
 namespace KulGen.Droid.Source.Views.CombatTracker
 {
@@ -37,7 +36,7 @@ namespace KulGen.Droid.Source.Views.CombatTracker
 
 		public override bool OnCreateOptionsMenu(Android.Views.IMenu menu)
 		{
-			MenuInflater.Inflate (Resource.Menu.top_menu, menu);
+			MenuInflater.Inflate (Resource.Menu.combat_tracker_menu, menu);
 			return base.OnCreateOptionsMenu (menu);
 		}
 
@@ -49,6 +48,12 @@ namespace KulGen.Droid.Source.Views.CombatTracker
 		void AddCharacter(object sender, EventArgs e)
 		{
 			ViewModel.AddCombatItem.Execute(null);
+		}
+
+		protected override void OnResume()
+		{
+			ViewModel.UpdateCombatantList.Execute(null);
+			base.OnResume();
 		}
 	}
 }

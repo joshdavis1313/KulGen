@@ -2,7 +2,7 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.FullFragging/library_project_imports/res</ResolvedResourceDirectory>
@@ -15,13 +15,14 @@
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Design/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v4/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView/library_project_imports/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.FullFragging/library_project_imports/assets</ResolvedAssetDirectory>
@@ -34,10 +35,11 @@
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Xamarin.Android.Support.v4/library_project_imports/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Microsoft.WindowsAzure.Mobile.Ext.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.FullFragging.stamp</ResolvedResourceDirectoryStamp>
@@ -50,9 +52,10 @@
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

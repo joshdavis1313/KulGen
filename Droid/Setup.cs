@@ -4,6 +4,9 @@ using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform.Platform;
 using Microsoft.WindowsAzure.MobileServices;
 using MvvmCross.FieldBinding;
+using MvvmCross.Droid.Views;
+using MvvmCross.Droid.Shared.Presenter;
+using MvvmCross.Platform;
 
 namespace KulGen.Droid
 {

@@ -7,6 +7,7 @@ namespace KulGen.Core
 	{
 		public static async Task SharedSetup()
 		{
+
 			var settings = await LocalSettings.LoadLocalSettings ();
 			Mvx.RegisterSingleton<ILocalSettings> (settings);
 		}

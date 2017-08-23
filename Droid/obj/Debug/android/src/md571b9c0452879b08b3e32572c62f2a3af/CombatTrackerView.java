@@ -12,6 +12,7 @@ public class CombatTrackerView
 		__md_methods = 
 			"n_onCreateOptionsMenu:(Landroid/view/Menu;)Z:GetOnCreateOptionsMenu_Landroid_view_Menu_Handler\n" +
 			"n_onOptionsItemSelected:(Landroid/view/MenuItem;)Z:GetOnOptionsItemSelected_Landroid_view_MenuItem_Handler\n" +
+			"n_onResume:()V:GetOnResumeHandler\n" +
 			"";
 		mono.android.Runtime.register ("KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", CombatTrackerView.class, __md_methods);
 	}
@@ -39,6 +40,14 @@ public class CombatTrackerView
 	}
 
 	private native boolean n_onOptionsItemSelected (android.view.MenuItem p0);
+
+
+	public void onResume ()
+	{
+		n_onResume ();
+	}
+
+	private native void n_onResume ();
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

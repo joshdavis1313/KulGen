@@ -3,19 +3,19 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-	<LinearLayout
-	    android:layout_width="match_parent"
-	    android:layout_height="match_parent"
-		android:orientation="vertical">
-	    <include
-	        layout="@layout/top_toolbar" />
-	    <Mvx.MvxListView
-	        android:id="@+id/list_combat"
-	        android:layout_width="match_parent"
-	        android:layout_height="wrap_content"
-    		app:MvxItemTemplate="@layout/combat_item"
-    		app:MvxBind="ItemsSource CombatTrackerList; ItemLongClick OnCombatItemClicked" />
-	</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include
+            layout="@layout/top_toolbar" />
+        <Mvx.MvxListView
+            android:id="@+id/list_combat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:MvxItemTemplate="@layout/combat_item"
+            app:MvxBind="ItemsSource CombatantList; ItemLongClick OnCombatItemClicked" />
+    </LinearLayout>
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab_add"
         android:layout_width="wrap_content"

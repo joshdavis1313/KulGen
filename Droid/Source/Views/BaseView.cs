@@ -1,5 +1,6 @@
 ﻿using Android.Content;
 using Android.OS;
+using KulGen.Source.ViewModels;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Droid.Views;

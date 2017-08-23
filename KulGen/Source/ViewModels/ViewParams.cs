@@ -5,7 +5,7 @@ using MvvmCross.Core.ViewModels;
 
 namespace KulGen.Source.ViewModels
 {
-	public class ShireViewParams
+	public class ViewParams
 	{
 		public const string ChildViewModel = "childViewModel";
 		public const string DialogViewModel = "dialogViewModel";
