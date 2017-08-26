@@ -3,7 +3,10 @@ using Android.App;
 using Android.Content.PM;
 using Android.Support.Design.Widget;
 using Android.Widget;
+using KulGen.Droid.Source.Adapters;
 using KulGen.Source.ViewModels.CombatTracker;
+using MvvmCross.Binding.Droid.BindingContext;
+using MvvmCross.Binding.Droid.Views;
 
 namespace KulGen.Droid.Source.Views.CombatTracker
 {
@@ -17,20 +20,28 @@ namespace KulGen.Droid.Source.Views.CombatTracker
 	{
 		protected override int LayoutResId => Resource.Layout.combat_tracker_layout;
 
+		MvxListView combatantList;
+
 		protected override void OnInitializeComponents()
 		{
 			base.OnInitializeComponents ();
 
-			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
+			var toolbar = FindViewById<Toolbar>(Resource.Id.toptoolbar);
+			var fab = FindViewById<FloatingActionButton>(Resource.Id.fab_add);
+			combatantList = FindViewById<MvxListView>(Resource.Id.list_combat);
+
+			combatantList.Adapter = new CombatantListAdapter(this, (IMvxAndroidBindingContext)this.BindingContext);
+
 			SetActionBar (toolbar);
 			ActionBar.Title = "Combat Tracker";
 
-			var fab = FindViewById<FloatingActionButton> (Resource.Id.fab_add);
 			fab.Click += AddCharacter;
 		}
 
 		protected override void SetupBindings(MvvmCross.Binding.BindingContext.MvxFluentBindingDescriptionSet<CombatTrackerView, CombatTrackerViewModel> bindingSet)
 		{
+			bindingSet.Bind(combatantList).For(x => x.ItemsSource).To(vm => vm.CombatantList);
+			bindingSet.Bind(combatantList).For(combatantList.ItemClickEvent()).To(vm => vm.EditItem);
 			base.SetupBindings (bindingSet);
 		}
 

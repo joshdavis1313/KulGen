@@ -119,8 +119,6 @@ class MonoPackageManager_Resources {
 		"PInvoke.Kernel32.dll",
 		"PInvoke.NCrypt.dll",
 		"PInvoke.Windows.Core.dll",
-		"SQLite.Net.dll",
-		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"SQLitePCLRaw.batteries_green.dll",
 		"SQLitePCLRaw.batteries_v2.dll",
 		"SQLitePCLRaw.core.dll",
@@ -144,6 +142,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.v7.RecyclerView.dll",
 		"Xamarin.Android.Support.Vector.Drawable.dll",
 		"Plugin.Settings.Abstractions.dll",
+		"SQLite-net.dll",
 		"Plugin.Settings.dll",
 		"Microsoft.WindowsAzure.Mobile.dll",
 	};

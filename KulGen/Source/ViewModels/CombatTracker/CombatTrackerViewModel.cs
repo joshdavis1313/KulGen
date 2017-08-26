@@ -1,12 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.ObjectModel;
 using System.Windows.Input;
 using KulGen.Core;
-using KulGen.Source.ViewModels.Dialogs;
+using KulGen.Source.DataModels;
 using MvvmCross.Core.ViewModels;
-using Smash.Source.DataModels;
 
 namespace KulGen.Source.ViewModels.CombatTracker
 {
@@ -14,18 +10,29 @@ namespace KulGen.Source.ViewModels.CombatTracker
 	{
 		public ICommand AddCombatItem { get { return new MvxCommand(DoAddCombatItem); } }
 		public ICommand UpdateCombatantList { get { return new MvxCommand(DoUpdateCombatantList); } }
+		public ICommand EditItem { get { return new MvxCommand<Combatant>(DoEditItem); } }
 
-		public ObservableCollection<Combatant> CombatantList { get; private set; }
+		public ObservableCollection<Combatant> CombatantList { get; }
 
 		public CombatTrackerViewModel(ILocalSettings settings) : base (settings)
 		{
-			var combatantsList = settings.CombatantsList.OrderBy(x => x.Initiative).ToList();
-			CombatantList = new ObservableCollection<Combatant>(combatantsList);
+			CombatantList = new ObservableCollection<Combatant>();
 		}
 
-		public void OnCombatItemClicked(Combatant combatitem)
+		public void DoEditItem(Combatant combatant)
 		{
-			
+			var navObj = new EditCombatantViewModel.NavObject
+			{
+				Id = combatant.ID,
+				Name = combatant.Name,
+				PlayerName = combatant.PlayerName,
+				Initiative = combatant.Initiative,
+				Health = combatant.Health,
+				ArmorClass = combatant.ArmorClass,
+				PassivePerception = combatant.PassivePerception
+			};
+
+			ShowViewModel<EditCombatantViewModel>(navObj);
 		}
 
 		void DoAddCombatItem()
@@ -35,10 +42,10 @@ namespace KulGen.Source.ViewModels.CombatTracker
 
 		void DoUpdateCombatantList()
 		{
-			if (settings.NewCombatant != null)
+			CombatantList.Clear();
+			foreach(Combatant c in settings.SQLiteDatabase.Table<Combatant>())
 			{
-				CombatantList.Add(settings.NewCombatant);
-				settings.NewCombatant = null;
+				CombatantList.Add(c);
 			}
 		}
 	}

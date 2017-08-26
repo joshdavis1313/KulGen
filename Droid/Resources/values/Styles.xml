@@ -12,6 +12,9 @@
         <item name="android:colorAccent">@color/darkred</item>
         <item name="android:textColorSecondary">@color/white</item>
     </style>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    	<item name="actionMenuTextColor">@color/white</item>
+    </style>
 
     <style name="BottomToolbarButtons">
         <item name="android:layout_width">0dp</item>
@@ -23,29 +26,56 @@
         <item name="android:scaleType">fitCenter</item>
     </style>
 
+    <!-- Combat Tracker -->
+    <style name="CombatItemContainer">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="CombatItemStatTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">8dp</item>
+    </style>
+    <style name="CombatItemStat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+    </style>
 
+	<!-- Add Combatant -->
     <style name="AddCombatantLayout">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_marginLeft">10dp</item>
-        <item name="android:layout_marginRight">10dp</item>
         <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="AddCombatantStatContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
     </style>
     <style name="AddCombatantTextView">
         <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_height">20dp</item>
         <item name="android:textSize">16dp</item>
         <item name="android:paddingRight">10dp</item>
     </style>
     <style name="AddCombatantEditText">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
         <item name="android:textSize">16dp</item>
         <item name="android:paddingRight">10dp</item>
-        <item name="android:backgroundTint">@color/lightgrey</item>
+        <item name="android:backgroundTint">@color/darkgrey</item>
         <item name="android:imeOptions">actionNext</item>
         <item name="android:textCursorDrawable">@null</item>
         <item name="android:maxLines">1</item>
+    </style>
+    <style name="AddCombatantEditText.Stat">
+        <item name="android:inputType">number</item>
+        <item name="android:maxLength">2</item>
+        <item name="android:gravity">center_horizontal</item>
     </style>
 </resources>

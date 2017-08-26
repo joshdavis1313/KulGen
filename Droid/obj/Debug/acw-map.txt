@@ -1,3 +1,7 @@
+KulGen.Droid.Source.Adapters.CombatantListAdapter, KulGen.Droid;md56934742926eb7942980773b19ddb62ae.CombatantListAdapter
+KulGen.Droid.Source.Adapters.CombatantListAdapter, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56934742926eb7942980773b19ddb62ae.CombatantListAdapter
+KulGen.Droid.Source.Adapters.CombatantListAdapter;md56934742926eb7942980773b19ddb62ae.CombatantListAdapter
+kulgen.droid.source.adapters.CombatantListAdapter;md56934742926eb7942980773b19ddb62ae.CombatantListAdapter
 KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
 KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
 KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
@@ -26,6 +30,10 @@ KulGen.Droid.Source.Views.Dialogs.AddCombatantView, KulGen.Droid;md5e1ce8c7ef015
 KulGen.Droid.Source.Views.Dialogs.AddCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatantView
 KulGen.Droid.Source.Views.Dialogs.AddCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatantView
 kulgen.droid.source.views.dialogs.AddCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatantView
+KulGen.Droid.Source.Views.Dialogs.EditCombatantView, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
+KulGen.Droid.Source.Views.Dialogs.EditCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
+KulGen.Droid.Source.Views.Dialogs.EditCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
+kulgen.droid.source.views.dialogs.EditCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
 KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView

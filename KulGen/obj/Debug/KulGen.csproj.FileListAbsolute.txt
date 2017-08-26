@@ -11,7 +11,7 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Newtonsoft.Json.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.Abstractions.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.dll
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite.Net.dll
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLitePCLRaw.batteries_green.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLitePCLRaw.batteries_v2.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLitePCLRaw.core.dll
@@ -30,6 +30,8 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Binding.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Localization.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.FieldBinding.pdb
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.pdb
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.App.config
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.CoreCompileInputs.cache

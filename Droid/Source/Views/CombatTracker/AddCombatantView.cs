@@ -1,7 +1,8 @@
-﻿using Android.App;
+﻿using System;
+using Android.App;
 using Android.Content.PM;
 using Android.Widget;
-using KulGen.Source.ViewModels.Dialogs;
+using KulGen.Source.ViewModels.CombatTracker;
 using MvvmCross.Binding.BindingContext;
 
 namespace KulGen.Droid.Source.Views.Dialogs
@@ -17,7 +18,7 @@ namespace KulGen.Droid.Source.Views.Dialogs
 		EditText editCharacterName;
 		EditText editPlayerName;
 		EditText editInitiative;
-		EditText editMaxHealth;
+		EditText editHealth;
 		EditText editPassivePerception;
 		EditText editArmorClass;
 
@@ -28,13 +29,20 @@ namespace KulGen.Droid.Source.Views.Dialogs
 			editCharacterName = FindViewById<EditText>(Resource.Id.edit_character_name);
 			editPlayerName = FindViewById<EditText>(Resource.Id.edit_player_name);
 			editInitiative = FindViewById<EditText>(Resource.Id.edit_initiative);
-			editMaxHealth = FindViewById<EditText>(Resource.Id.edit_max_health);
+			editHealth = FindViewById<EditText>(Resource.Id.edit_max_health);
 			editPassivePerception = FindViewById<EditText>(Resource.Id.edit_perception);
 			editArmorClass = FindViewById<EditText>(Resource.Id.edit_armor);
 
 			var toolbar = FindViewById<Toolbar>(Resource.Id.toptoolbar);
 			SetActionBar(toolbar);
 			ActionBar.Title = "Add Combatant";
+
+			editCharacterName.Click += ClearText;
+			editPlayerName.Click += ClearText;
+			editInitiative.Click += ClearText;
+			editHealth.Click += ClearText;
+			editPassivePerception.Click += ClearText;
+			editArmorClass.Click += ClearText;
 		}
 
 		protected override void SetupBindings(MvxFluentBindingDescriptionSet<AddCombatantView, AddCombatantViewModel> bindingSet)
@@ -42,7 +50,7 @@ namespace KulGen.Droid.Source.Views.Dialogs
 			bindingSet.Bind(editCharacterName).For(x => x.Text).To(vm => vm.CharacterName);
 			bindingSet.Bind(editPlayerName).For(x => x.Text).To(vm => vm.PlayerName);
 			bindingSet.Bind(editInitiative).For(x => x.Text).To(vm => vm.Initiative).WithConversion("StringToIntConverter");
-			bindingSet.Bind(editMaxHealth).For(x => x.Text).To(vm => vm.MaxHealth).WithConversion("StringToIntConverter");
+			bindingSet.Bind(editHealth).For(x => x.Text).To(vm => vm.Health).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editPassivePerception).For(x => x.Text).To(vm => vm.PassivePerception).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editArmorClass).For(x => x.Text).To(vm => vm.ArmorClass).WithConversion("StringToIntConverter");
 		}
@@ -57,6 +65,12 @@ namespace KulGen.Droid.Source.Views.Dialogs
 		{
 			ViewModel.AddClicked.Execute(null);
 			return base.OnOptionsItemSelected(item);
+		}
+
+		private void ClearText(object sender, EventArgs e)
+		{
+			var editText = (EditText)sender;
+			editText.Text = "";
 		}
 	}
 }

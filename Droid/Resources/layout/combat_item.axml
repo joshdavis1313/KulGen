@@ -2,43 +2,58 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:local="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical">
-	<View
-	    android:layout_width="match_parent"
-	    android:layout_height="2dp"
-		android:background="@color/superlightgrey"/>
-	<LinearLayout 
-	    android:layout_width="match_parent"
-	    android:layout_height="wrap_content"
-	    android:orientation="horizontal"
-	    android:layout_margin="10dp">
-	    <TextView
-			android:id="@+id/text_initiative"
-	        android:layout_width="match_parent"
-	        android:layout_height="wrap_content"
-	        android:layout_weight="1"
-	        android:textSize="20sp"
-	        android:gravity="start"
-	        android:text="12"
-			local:MvxBind="Text Initiative" />
-	    <TextView
-			android:id="@+id/text_name"
-	        android:layout_width="match_parent"
-	        android:layout_height="wrap_content"
-	        android:layout_weight="1"
-	        android:textSize="20sp"
-	        android:gravity="center"
-	        android:text="Billy Bob"
-			local:MvxBind="Text Name"  />
-	    <TextView
-			android:id="@+id/text_health"
-	        android:layout_width="match_parent"
-	        android:layout_height="wrap_content"
-	        android:layout_weight="1"
-	        android:textSize="20sp"
-	        android:gravity="end"
-	        android:text="52"
-			local:MvxBind="Text Health"  />
-	</LinearLayout>
+    android:layout_height="50dp"
+    android:orientation="horizontal">
+    <LinearLayout
+        style="@style/CombatItemContainer">
+        <TextView
+            style="@style/CombatItemStatTitle"
+            android:id="@+id/text_initiative_title"
+            android:text="Init" />
+        <TextView
+            style="@style/CombatItemStat"
+            local:MvxBind="Text Initiative" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/CombatItemContainer"
+        android:layout_weight="4">
+        <TextView
+            style="@style/CombatItemStat"
+            android:text="Character Name"
+            local:MvxBind="Text Name" />
+        <TextView
+            style="@style/CombatItemStatTitle"
+            android:text="Monster"
+            local:MvxBind="Text PlayerName" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/CombatItemContainer">
+        <TextView
+            style="@style/CombatItemStatTitle"
+            android:id="@+id/text_ac_title"
+            android:text="AC" />
+        <TextView
+            style="@style/CombatItemStat"
+            local:MvxBind="Text ArmorClass" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/CombatItemContainer">
+        <TextView
+            style="@style/CombatItemStatTitle"
+            android:id="@+id/text_pp_title"
+            android:text="PP" />
+        <TextView
+            style="@style/CombatItemStat"
+            local:MvxBind="Text PassivePerception" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/CombatItemContainer">
+        <TextView
+            style="@style/CombatItemStatTitle"
+            android:id="@+id/text_health_title"
+            android:text="HP" />
+        <TextView
+            style="@style/CombatItemStat"
+            local:MvxBind="Text Health" />
+    </LinearLayout>
 </LinearLayout>

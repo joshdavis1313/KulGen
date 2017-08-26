@@ -16,7 +16,7 @@
     <item>
         <shape>
             <solid
-                android:color="@color/superlightgrey" />
+                android:color="@color/lightgrey" />
             <corners
                 android:radius="2dp" />
             <padding

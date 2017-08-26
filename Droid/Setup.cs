@@ -7,6 +7,9 @@ using MvvmCross.FieldBinding;
 using MvvmCross.Droid.Views;
 using MvvmCross.Droid.Shared.Presenter;
 using MvvmCross.Platform;
+using System;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace KulGen.Droid
 {
@@ -27,7 +30,9 @@ namespace KulGen.Droid
 
 			CurrentPlatform.Init ();
 
-			await Core.Setup.SharedSetup ();
+			string dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Personal),"appofmanythings.db3");
+
+			await Core.Setup.SharedSetup (dbPath);
 
 			SetupComplete.Value = true;
 		}

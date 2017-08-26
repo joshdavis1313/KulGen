@@ -3,6 +3,10 @@
   <item
        android:id="@+id/menu_sort"
        android:showAsAction="never"
+       android:title="Clear" />
+  <item
+       android:id="@+id/menu_sort"
+       android:showAsAction="never"
        android:title="Options" />
   <item
        android:id="@+id/menu_upgrade"

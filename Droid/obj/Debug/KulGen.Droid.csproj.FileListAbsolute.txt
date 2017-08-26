@@ -1,3 +1,4 @@
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.Droid.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/com.FancyDevs.App_Of_Many_Things.apk
@@ -22,8 +23,6 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/PInvoke.Kernel32.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/PInvoke.NCrypt.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/PInvoke.Windows.Core.dll
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite.Net.dll
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLitePCLRaw.core.dll
@@ -47,6 +46,7 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.Abstractions.dll
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.dll.config
@@ -69,7 +69,9 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Localization.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Localization.dll.mdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.Shared.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.Shared.dll.mdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.FullFragging.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.FullFragging.dll.mdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.FieldBinding.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.FieldBinding.dll.mdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.FieldBinding.pdb
@@ -83,8 +85,9 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.Abstractions.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.Abstractions.xml
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.xml
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.pdb
@@ -108,7 +111,7 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/combat_item.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/add_combatant_layout.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/menu/add_combatant_menu.xml
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/edit_combatant_layout.xml
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/menu/edit_combatant_menu.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/R.cs.flag
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/uploadflags.txt
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.Shared.dll.mdb
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Droid.FullFragging.dll.mdb

@@ -9,7 +9,6 @@
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/PCLCrypto/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2/library_project_imports/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/res</ResolvedResourceDirectory>
@@ -29,7 +28,6 @@
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/PCLCrypto/library_project_imports/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2/library_project_imports/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/__library_projects__/SQLitePCLRaw.core/library_project_imports/assets</ResolvedAssetDirectory>
@@ -46,7 +44,6 @@
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/__library_projects__/SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>

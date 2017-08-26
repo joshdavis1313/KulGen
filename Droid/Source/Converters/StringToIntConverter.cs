@@ -2,7 +2,7 @@
 using System.Globalization;
 using MvvmCross.Platform.Converters;
 
-namespace Smash.Converters
+namespace KulGen.Droid.Source.Converters
 {
 	public class StringToIntConverter : MvxValueConverter<string, int>
     {
