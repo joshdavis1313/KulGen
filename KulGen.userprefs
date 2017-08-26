@@ -2,11 +2,14 @@
   <MonoDevelop.Ide.ItemProperties.KulGen.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8CA75062-CFA4-4D3B-B008-CF710FC6361B">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.KulGen.iOS>
-  <MonoDevelop.Ide.ItemProperties.KulGen.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.b305be96" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Source/Views/CombatTracker/AddCombatantView.cs">
+  <MonoDevelop.Ide.ItemProperties.KulGen.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs">
     <Files>
-      <File FileName="Droid/Resources/values/Styles.xml" Line="15" Column="30" />
-      <File FileName="Droid/Source/Views/CombatTracker/AddCombatantView.cs" Line="31" Column="18" />
+      <File FileName="Droid/Resources/values/Styles.xml" Line="17" Column="26" />
+      <File FileName="Droid/Source/Views/CombatTracker/AddCombatantView.cs" Line="29" Column="79" />
+      <File FileName="Droid/Source/Views/CombatTracker/EditCombatantView.cs" Line="1" Column="1" />
+      <File FileName="Droid/Source/Views/CombatTracker/CombatTrackerView.cs" Line="1" Column="1" />
+      <File FileName="KulGen/Source/ViewModels/CombatTracker/CombatTrackerViewModel.cs" Line="46" Column="98" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

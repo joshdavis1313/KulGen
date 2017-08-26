@@ -222,8 +222,8 @@
     <AndroidResource Include="Resources\layout\combat_item.axml" />
     <AndroidResource Include="Resources\layout\add_combatant_layout.xml" />
     <AndroidResource Include="Resources\menu\add_combatant_menu.xml" />
-    <AndroidResource Include="Resources\layout\edit_combatant_layout.xml" />
     <AndroidResource Include="Resources\menu\edit_combatant_menu.xml" />
+    <AndroidResource Include="Resources\layout\edit_combatant_layout.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />

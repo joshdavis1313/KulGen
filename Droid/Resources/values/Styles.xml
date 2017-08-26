@@ -14,6 +14,7 @@
     </style>
     <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
     	<item name="actionMenuTextColor">@color/white</item>
+    	<item name="android:actionMenuTextColor">@color/white</item>
     </style>
 
     <style name="BottomToolbarButtons">

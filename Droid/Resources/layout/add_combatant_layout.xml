@@ -9,17 +9,17 @@
         layout="@layout/top_toolbar" />
     <TextView
         style="@style/AddCombatantTextView"
-        android:text="Character Name" />
+        android:text="Combatant Name" />
     <EditText
         style="@style/AddCombatantEditText"
-        android:id="@+id/edit_character_name"
+        android:id="@+id/add_character_name"
         android:inputType="text" />
     <TextView
         style="@style/AddCombatantTextView"
         android:text="Player Name" />
     <EditText
         style="@style/AddCombatantEditText"
-        android:id="@+id/edit_player_name"
+        android:id="@+id/add_player_name"
         android:inputType="text" />
     <LinearLayout
         android:layout_width="match_parent"
@@ -33,7 +33,7 @@
                 android:text="Initiative" />
             <EditText
                 style="@style/AddCombatantEditText.Stat"
-                android:id="@+id/edit_initiative" />
+                android:id="@+id/add_initiative" />
         </LinearLayout>
         <LinearLayout
             style="@style/AddCombatantStatContainer">
@@ -42,7 +42,7 @@
                 android:text="Perception" />
             <EditText
                 style="@style/AddCombatantEditText.Stat"
-                android:id="@+id/edit_perception" />
+                android:id="@+id/add_perception" />
         </LinearLayout>
         <LinearLayout
             style="@style/AddCombatantStatContainer">
@@ -51,7 +51,7 @@
                 android:text="Armor Class" />
             <EditText
                 style="@style/AddCombatantEditText.Stat"
-                android:id="@+id/edit_armor" />
+                android:id="@+id/add_armor" />
         </LinearLayout>
     </LinearLayout>
     <TextView
@@ -59,7 +59,7 @@
         android:text="Max Health" />
     <EditText
         style="@style/AddCombatantEditText"
-        android:id="@+id/edit_max_health"
+        android:id="@+id/add_max_health"
         android:inputType="number"
         android:maxLength="4" />
 </LinearLayout>

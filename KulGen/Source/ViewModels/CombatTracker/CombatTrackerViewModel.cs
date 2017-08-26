@@ -43,7 +43,7 @@ namespace KulGen.Source.ViewModels.CombatTracker
 		void DoUpdateCombatantList()
 		{
 			CombatantList.Clear();
-			foreach(Combatant c in settings.SQLiteDatabase.Table<Combatant>())
+			foreach (Combatant c in settings.SQLiteDatabase.Table<Combatant>().OrderBy(x => x.Initiative))
 			{
 				CombatantList.Add(c);
 			}
