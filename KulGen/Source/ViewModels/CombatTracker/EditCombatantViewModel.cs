@@ -12,7 +12,7 @@ namespace KulGen.Source.ViewModels.CombatTracker
 		public readonly INC<string> CharacterName = new NC<string>();
 		public readonly INC<string> PlayerName = new NC<string>();
 		public readonly INC<int> Initiative = new NC<int>();
-		public readonly INC<int> CurrentHealth = new NC<int>();
+		public readonly INC<int> MaxHealth = new NC<int>();
 		public readonly INC<int> ArmorClass = new NC<int>();
 		public readonly INC<int> PassivePerception = new NC<int>();
 
@@ -33,7 +33,7 @@ namespace KulGen.Source.ViewModels.CombatTracker
 				CharacterName.Value = nav.Name;
 				PlayerName.Value = nav.PlayerName;
 				Initiative.Value = nav.Initiative;
-				CurrentHealth.Value = nav.Health;
+				MaxHealth.Value = nav.MaxHealth;
 				ArmorClass.Value = nav.ArmorClass;
 				PassivePerception.Value = nav.PassivePerception;
 			}
@@ -47,7 +47,7 @@ namespace KulGen.Source.ViewModels.CombatTracker
 				Name = CharacterName.Value,
 				PlayerName = PlayerName.Value,
 				Initiative = Initiative.Value,
-				Health = CurrentHealth.Value,
+				MaxHealth = MaxHealth.Value,
 				ArmorClass = ArmorClass.Value,
 				PassivePerception = PassivePerception.Value
 			};
@@ -74,7 +74,6 @@ namespace KulGen.Source.ViewModels.CombatTracker
 			public string PlayerName { get; set; }
 			public int Initiative { get; set; }
 			public int MaxHealth { get; set; }
-			public int Health { get; set; }
 			public int ArmorClass { get; set; }
 			public int PassivePerception { get; set; }
 		}

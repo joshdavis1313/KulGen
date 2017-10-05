@@ -22,6 +22,8 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Platform.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Platform.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Plugins.FieldBinding.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Plugins.Visibility.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/MvvmCross.Plugins.Visibility.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/PCLCrypto.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/PInvoke.BCrypt.dll
@@ -66,12 +68,12 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Mono.Security.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/SQLite-net.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Globalization.dll
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Microsoft.WindowsAzure.Mobile.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll

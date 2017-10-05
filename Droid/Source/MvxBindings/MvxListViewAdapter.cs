@@ -86,5 +86,16 @@ namespace KulGen.Droid.Source.MvxBindings
 		{
 			return GetView(position, convertView, parent, GetTemplateIdForPosition(position));
 		}
+
+		protected override IMvxListItemView CreateBindableView(object dataContext, ViewGroup parent, int templateId)
+		{
+			var obj = dataContext as T;
+			if (obj == null)
+			{
+				throw new ArgumentException($"Invalid dataContext type! Expected: {typeof(T)}, Actual: {dataContext?.GetType()}!");
+			}
+
+			return CreateViewBasedOnInfo(obj, templateId);
+		}
 	}
 }

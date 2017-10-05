@@ -8,6 +8,7 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.FieldBinding.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Localization.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Platform.dll
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Plugins.Visibility.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Newtonsoft.Json.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.Abstractions.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.dll
@@ -25,15 +26,16 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Plugin.Settings.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Microsoft.WindowsAzure.Mobile.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.pdb
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.xml
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Platform.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Core.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Binding.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Localization.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.FieldBinding.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.pdb
-/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/SQLite-net.xml
+/Users/joshua.davis/Sites/KulGen/KulGen/bin/Debug/MvvmCross.Plugins.Visibility.pdb
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.App.config
-/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.pdb
+/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache

@@ -1,11 +1,16 @@
-﻿using System;
-using Android.App;
+﻿using Android.App;
 using Android.Content.PM;
+using Android.Runtime;
+using Android.Support.Design.Widget;
+using Android.Support.V4.App;
+using Android.Support.V4.View;
+using Android.Views;
 using Android.Widget;
+using KulGen.Droid.Source.Adapters;
 using KulGen.Source.ViewModels.CombatTracker;
 using MvvmCross.Binding.BindingContext;
 
-namespace KulGen.Droid.Source.Views.Dialogs
+namespace KulGen.Droid.Source.Views.AddCombatants
 {
 	[Activity(
 		LaunchMode = LaunchMode.SingleTask,
@@ -21,6 +26,7 @@ namespace KulGen.Droid.Source.Views.Dialogs
 		EditText editHealth;
 		EditText editPassivePerception;
 		EditText editArmorClass;
+		EditText editCreateNumber;
 
 		protected override int LayoutResId => Resource.Layout.add_combatant_layout;
 
@@ -32,6 +38,7 @@ namespace KulGen.Droid.Source.Views.Dialogs
 			editHealth = FindViewById<EditText>(Resource.Id.add_max_health);
 			editPassivePerception = FindViewById<EditText>(Resource.Id.add_perception);
 			editArmorClass = FindViewById<EditText>(Resource.Id.add_armor);
+			editCreateNumber = FindViewById<EditText>(Resource.Id.create_number);
 
 			var toolbar = FindViewById<Toolbar>(Resource.Id.toptoolbar);
 			SetActionBar(toolbar);
@@ -46,15 +53,16 @@ namespace KulGen.Droid.Source.Views.Dialogs
 			bindingSet.Bind(editHealth).For(x => x.Text).To(vm => vm.Health).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editPassivePerception).For(x => x.Text).To(vm => vm.PassivePerception).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editArmorClass).For(x => x.Text).To(vm => vm.ArmorClass).WithConversion("StringToIntConverter");
+			bindingSet.Bind(editCreateNumber).For(x => x.Text).To(vm => vm.CreateNumber).WithConversion("StringToIntConverter");
 		}
 
-		public override bool OnCreateOptionsMenu(Android.Views.IMenu menu)
+		public override bool OnCreateOptionsMenu(IMenu menu)
 		{
 			MenuInflater.Inflate(Resource.Menu.add_combatant_menu, menu);
 			return base.OnCreateOptionsMenu(menu);
 		}
 
-		public override bool OnOptionsItemSelected(Android.Views.IMenuItem item)
+		public override bool OnOptionsItemSelected(IMenuItem item)
 		{
 			ViewModel.AddClicked.Execute(null);
 			return base.OnOptionsItemSelected(item);

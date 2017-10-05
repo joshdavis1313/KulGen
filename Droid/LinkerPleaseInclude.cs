@@ -33,11 +33,11 @@ namespace KulGen.Droid
             view.Click += (s, e) => view.ContentDescription = view.ContentDescription + "";
         }
 
-        public void Include(TextView text)
-        {
-            text.AfterTextChanged += (sender, args) => text.Text = "" + text.Text;
-            text.Hint = "" + text.Hint;
-        }
+		public void Include(TextView text)
+		{
+			text.AfterTextChanged += (sender, args) => text.Text = "" + text.Text;
+			text.Hint = "" + text.Hint;
+		}
         
         public void Include(CheckedTextView text)
         {

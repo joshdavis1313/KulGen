@@ -43,7 +43,7 @@ namespace KulGen.Droid.Source.Views.Dialogs
 			bindingSet.Bind(editCharacterName).For(x => x.Text).To(vm => vm.CharacterName);
 			bindingSet.Bind(editPlayerName).For(x => x.Text).To(vm => vm.PlayerName);
 			bindingSet.Bind(editInitiative).For(x => x.Text).To(vm => vm.Initiative).WithConversion("StringToIntConverter");
-			bindingSet.Bind(editMaxHealth).For(x => x.Text).To(vm => vm.CurrentHealth).WithConversion("StringToIntConverter");
+			bindingSet.Bind(editMaxHealth).For(x => x.Text).To(vm => vm.MaxHealth).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editPassivePerception).For(x => x.Text).To(vm => vm.PassivePerception).WithConversion("StringToIntConverter");
 			bindingSet.Bind(editArmorClass).For(x => x.Text).To(vm => vm.ArmorClass).WithConversion("StringToIntConverter");
 		}

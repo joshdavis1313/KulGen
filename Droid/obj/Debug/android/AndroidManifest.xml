@@ -11,7 +11,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5e1ce8c7ef0155c87bc96b995679d8040.AddCombatantView" />
+    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView" />
     <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView" />
     <activity android:label="Combat Tracker" android:launchMode="singleTask" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView" />
     <activity android:label="Web Authenticator" android:name="md581ea35436e69ff6296ba639950f061de.FormAuthenticatorActivity" />

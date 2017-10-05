@@ -1,4 +1,3 @@
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/KulGen.Droid.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/com.FancyDevs.App_Of_Many_Things.apk
@@ -88,6 +87,7 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.xml
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csprojResolveAssemblyReference.cache
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/KulGen.Droid.pdb
@@ -111,7 +111,15 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/combat_item.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/add_combatant_layout.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/menu/add_combatant_menu.xml
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/edit_combatant_layout.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/menu/edit_combatant_menu.xml
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/edit_combatant_layout.xml
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/drawable/ic_increase_health.png
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/drawable/ic_combat.png
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/R.cs.flag
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/uploadflags.txt
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll.mdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll.mdb

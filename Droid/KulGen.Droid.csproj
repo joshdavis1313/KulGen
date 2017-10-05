@@ -170,6 +170,12 @@
     <Reference Include="Microsoft.WindowsAzure.Mobile.SQLiteStore">
       <HintPath>..\packages\Microsoft.Azure.Mobile.Client.SQLiteStore.3.1.0\lib\portable-win+net45+wp8+wpa81+monotouch10+monoandroid10+xamarinios10\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll</HintPath>
     </Reference>
+    <Reference Include="MvvmCross.Plugins.Visibility">
+      <HintPath>..\packages\MvvmCross.Plugin.Visibility.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.Visibility.dll</HintPath>
+    </Reference>
+    <Reference Include="MvvmCross.Plugins.Visibility.Droid">
+      <HintPath>..\packages\MvvmCross.Plugin.Visibility.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.Visibility.Droid.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KulGen\KulGen.csproj">
@@ -190,11 +196,16 @@
     <Compile Include="Source\Views\CombatTracker\CombatTrackerView.cs" />
     <Compile Include="Source\MvxBindings\IMvxListItem.cs" />
     <Compile Include="Source\MvxBindings\MvxListViewAdapter.cs" />
-    <Compile Include="Source\Views\CombatTracker\AddCombatantView.cs" />
-    <Compile Include="Source\Converters\StringToIntConverter.cs" />
+    <Compile Include="Source\Converters\IntToStringConverter.cs" />
     <Compile Include="Bootstrap\FieldBindingPluginBootstrap.cs" />
     <Compile Include="Source\Views\CombatTracker\EditCombatantView.cs" />
     <Compile Include="Source\Adapters\CombatantListAdapter.cs" />
+    <Compile Include="Source\Adapters\CombatListItem.cs" />
+    <Compile Include="Source\Converters\StringToIntConverter.cs" />
+    <Compile Include="Source\Views\AddCombatants\AddCombatantView.cs" />
+    <Compile Include="Source\Converters\VisibilityGoneValueConverter.cs" />
+    <Compile Include="Bootstrap\VisibilityPluginBootstrap.cs" />
+    <Compile Include="Source\Views\AddCombatants\AddMonsterView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -224,6 +235,8 @@
     <AndroidResource Include="Resources\menu\add_combatant_menu.xml" />
     <AndroidResource Include="Resources\menu\edit_combatant_menu.xml" />
     <AndroidResource Include="Resources\layout\edit_combatant_layout.xml" />
+    <AndroidResource Include="Resources\drawable\ic_increase_health.png" />
+    <AndroidResource Include="Resources\drawable\ic_combat.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
@@ -234,6 +247,8 @@
     <Folder Include="Resources\menu\" />
     <Folder Include="Source\Converters\" />
     <Folder Include="Source\Adapters\" />
+    <Folder Include="Source\Views\AddCombatants\" />
+    <Folder Include="Source\Views\Dialogs\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />

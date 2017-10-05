@@ -113,6 +113,8 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Platform.dll",
 		"MvvmCross.Platform.Droid.dll",
 		"MvvmCross.Plugins.FieldBinding.dll",
+		"MvvmCross.Plugins.Visibility.dll",
+		"MvvmCross.Plugins.Visibility.Droid.dll",
 		"Newtonsoft.Json.dll",
 		"PCLCrypto.dll",
 		"PInvoke.BCrypt.dll",

@@ -1,7 +1,9 @@
 ﻿using System;
 using Android.App;
+using Android.Content;
 using Android.Content.PM;
 using Android.Support.Design.Widget;
+using Android.Views;
 using Android.Widget;
 using KulGen.Droid.Source.Adapters;
 using KulGen.Source.ViewModels.CombatTracker;
@@ -22,15 +24,15 @@ namespace KulGen.Droid.Source.Views.CombatTracker
 
 		MvxListView combatantList;
 
-		protected override void OnInitializeComponents()
+		protected override void OnInitializeComponents ()
 		{
 			base.OnInitializeComponents ();
 
-			var toolbar = FindViewById<Toolbar>(Resource.Id.toptoolbar);
-			var fab = FindViewById<FloatingActionButton>(Resource.Id.fab_add);
-			combatantList = FindViewById<MvxListView>(Resource.Id.list_combat);
+			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
+			var fab = FindViewById<FloatingActionButton> (Resource.Id.fab_add);
+			combatantList = FindViewById<MvxListView> (Resource.Id.list_combat);
 
-			combatantList.Adapter = new CombatantListAdapter(this, (IMvxAndroidBindingContext)this.BindingContext);
+			combatantList.Adapter = new CombatantAdapter (this, BindingContext as IMvxAndroidBindingContext);
 
 			SetActionBar (toolbar);
 			ActionBar.Title = "Combat Tracker";
@@ -38,33 +40,39 @@ namespace KulGen.Droid.Source.Views.CombatTracker
 			fab.Click += AddCharacter;
 		}
 
-		protected override void SetupBindings(MvvmCross.Binding.BindingContext.MvxFluentBindingDescriptionSet<CombatTrackerView, CombatTrackerViewModel> bindingSet)
+		protected override void SetupBindings (MvvmCross.Binding.BindingContext.MvxFluentBindingDescriptionSet<CombatTrackerView, CombatTrackerViewModel> bindingSet)
 		{
-			bindingSet.Bind(combatantList).For(x => x.ItemsSource).To(vm => vm.CombatantList);
-			bindingSet.Bind(combatantList).For(combatantList.ItemClickEvent()).To(vm => vm.EditItem);
+			bindingSet.Bind (combatantList).For (x => x.ItemsSource).To (vm => vm.CombatantList);
+			bindingSet.Bind (combatantList).For (combatantList.ItemClickEvent ()).To (vm => vm.EditItem);
 			base.SetupBindings (bindingSet);
 		}
 
-		public override bool OnCreateOptionsMenu(Android.Views.IMenu menu)
+		public override bool OnCreateOptionsMenu (IMenu menu)
 		{
 			MenuInflater.Inflate (Resource.Menu.combat_tracker_menu, menu);
 			return base.OnCreateOptionsMenu (menu);
 		}
 
-		public override bool OnOptionsItemSelected(Android.Views.IMenuItem item)
+		public override bool OnOptionsItemSelected (IMenuItem item)
 		{
+			switch (item.ItemId) {
+				case Resource.Id.menu_clear:
+					ViewModel.ClearCombatants.Execute (null);
+					break;
+			}
+
 			return base.OnOptionsItemSelected (item);
 		}
 
-		void AddCharacter(object sender, EventArgs e)
+		void AddCharacter (object sender, EventArgs e)
 		{
-			ViewModel.AddCombatItem.Execute(null);
+			ViewModel.AddCombatItem.Execute (null);
 		}
 
-		protected override void OnResume()
+		protected override void OnResume ()
 		{
-			ViewModel.UpdateCombatantList.Execute(null);
-			base.OnResume();
+			ViewModel.UpdateCombatantList.Execute (null);
+			base.OnResume ();
 		}
 	}
 }
