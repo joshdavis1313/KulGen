@@ -5,15 +5,15 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="App Of Many Things" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon_main" android:debuggable="true">
-    <activity android:icon="@drawable/icon_main" android:label="App Of Many Things" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5b080e29214788936adecfb0fd8f33ccb.SplashScreen">
+    <activity android:icon="@drawable/icon_main" android:label="App Of Many Things" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5e34008f5777ddf9409b48bba2e83e364.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView" />
-    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView" />
-    <activity android:label="Combat Tracker" android:launchMode="singleTask" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView" />
+    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md551293d8de10ce2c2dd58b398e717dc2b.EditCombatantView" />
+    <activity android:launchMode="singleTask" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md51f6f9a0c2417f765d48180ff61926e68.AddCombatantView" />
+    <activity android:label="Combat Tracker" android:launchMode="singleTask" android:screenOrientation="portrait" android:theme="@style/Theme.Main" android:name="md5ff80878c71f771cdf25186743c14592d.CombatTrackerView" />
     <activity android:label="Web Authenticator" android:name="md581ea35436e69ff6296ba639950f061de.FormAuthenticatorActivity" />
     <activity android:label="Web Authenticator" android:name="md581ea35436e69ff6296ba639950f061de.WebAuthenticatorActivity" />
     <receiver android:name="md581ea35436e69ff6296ba639950f061de.CustomTabsActionsBroadcastReceiver" />

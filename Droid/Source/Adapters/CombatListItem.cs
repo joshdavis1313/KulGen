@@ -4,11 +4,11 @@ using Android.Content;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using KulGen.Droid.Source.MvxBindings;
-using KulGen.Source.Adapters;
+using KulGen.Droid.MvxBindings;
+using KulGen.Adapters;
 using MvvmCross.Binding.BindingContext;
 
-namespace KulGen.Droid.Source.Adapters
+namespace KulGen.Droid.Adapters
 {
 	public class CombatListItem : LinearLayout, IMvxListItem
 	{

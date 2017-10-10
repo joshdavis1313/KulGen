@@ -3,17 +3,19 @@
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.KulGen.iOS>
   <MonoDevelop.Ide.ItemProperties.KulGen.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.b305be96" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KulGen/Source/ViewModels/AddCombatants/AddMonsterViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Source/Views/CombatTracker/CombatTrackerView.cs">
     <Files>
-      <File FileName="Droid/Resources/values/Styles.xml" Line="79" Column="55" />
-      <File FileName="Droid/Source/Adapters/CombatantListAdapter.cs" Line="40" Column="95" />
-      <File FileName="Droid/Source/Views/AddCombatants/AddMonsterView.cs" Line="48" Column="86" />
-      <File FileName="KulGen/Source/ViewModels/AddCombatants/AddMonsterViewModel.cs" Line="8" Column="49" />
+      <File FileName="Droid/Resources/values/Styles.xml" Line="51" Column="55" />
+      <File FileName="Droid/Resources/values/Dimens.xml" Line="2" Column="12" />
+      <File FileName="Droid/Source/Views/CombatTracker/CombatTrackerView.cs" Line="31" Column="62" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/joshua.davis/Sites/KulGen/Droid/Source/Converters/RadioIdToBoolConverter.cs" relfile="Droid/Source/Converters/RadioIdToBoolConverter.cs" line="11" column="1" />
+      <Breakpoint file="/Users/joshua.davis/Sites/KulGen/Droid/Source/Converters/RadioIdToBoolConverter.cs" relfile="Droid/Source/Converters/RadioIdToBoolConverter.cs" line="22" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../Gondor/shire/Shire.Android/Source/ShireMvx/ShirePresenter.cs" line="71" offsetX="516" offsetY="1050" expression="request" liveUpdate="False" />

@@ -1,7 +1,7 @@
 ﻿using MvvmCross.Binding.BindingContext;
 using MvvmCross.Binding.Droid.Views;
 
-namespace KulGen.Droid.Source.MvxBindings
+namespace KulGen.Droid.MvxBindings
 {
 	public interface IMvxListItem : IMvxBindingContextOwner, IMvxListItemView
 	{

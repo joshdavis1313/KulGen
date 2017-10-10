@@ -1,13 +1,14 @@
 ﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Windows.Input;
 using KulGen.Core;
-using KulGen.Source.Adapters;
-using KulGen.Source.DataModels;
+using KulGen.Adapters;
+using KulGen.DataModels;
+using KulGen.ViewModels.AddCombatants;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.FieldBinding;
+using KulGen.ViewModels.EditCombatants;
 
-namespace KulGen.Source.ViewModels.CombatTracker
+namespace KulGen.ViewModels.CombatTracker
 {
 	public class CombatTrackerViewModel : NavigationBarViewModel
 	{
@@ -25,8 +26,10 @@ namespace KulGen.Source.ViewModels.CombatTracker
 			var navObj = new EditCombatantViewModel.NavObject {
 				Id = combatant.ID,
 				Name = combatant.Name,
+				IsPlayer = combatant.IsPlayer,
 				PlayerName = combatant.PlayerName,
 				Initiative = combatant.Initiative,
+				Health = combatant.Health,
 				MaxHealth = combatant.Health,
 				ArmorClass = combatant.ArmorClass,
 				PassivePerception = combatant.PassivePerception

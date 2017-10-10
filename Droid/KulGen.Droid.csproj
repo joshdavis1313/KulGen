@@ -198,14 +198,13 @@
     <Compile Include="Source\MvxBindings\MvxListViewAdapter.cs" />
     <Compile Include="Source\Converters\IntToStringConverter.cs" />
     <Compile Include="Bootstrap\FieldBindingPluginBootstrap.cs" />
-    <Compile Include="Source\Views\CombatTracker\EditCombatantView.cs" />
     <Compile Include="Source\Adapters\CombatantListAdapter.cs" />
     <Compile Include="Source\Adapters\CombatListItem.cs" />
     <Compile Include="Source\Converters\StringToIntConverter.cs" />
     <Compile Include="Source\Views\AddCombatants\AddCombatantView.cs" />
     <Compile Include="Source\Converters\VisibilityGoneValueConverter.cs" />
     <Compile Include="Bootstrap\VisibilityPluginBootstrap.cs" />
-    <Compile Include="Source\Views\AddCombatants\AddMonsterView.cs" />
+    <Compile Include="Source\Views\EditCombatants\EditCombatantView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -236,7 +235,9 @@
     <AndroidResource Include="Resources\menu\edit_combatant_menu.xml" />
     <AndroidResource Include="Resources\layout\edit_combatant_layout.xml" />
     <AndroidResource Include="Resources\drawable\ic_increase_health.png" />
+    <AndroidResource Include="Resources\values\Dimens.xml" />
     <AndroidResource Include="Resources\drawable\ic_combat.png" />
+    <AndroidResource Include="Resources\drawable\ic_combat_2.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
@@ -248,7 +249,7 @@
     <Folder Include="Source\Converters\" />
     <Folder Include="Source\Adapters\" />
     <Folder Include="Source\Views\AddCombatants\" />
-    <Folder Include="Source\Views\Dialogs\" />
+    <Folder Include="Source\Views\EditCombatants\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />

@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Windows.Input;
 using KulGen.Core;
-using KulGen.Source.DataModels;
-using KulGen.Source.ViewModels;
-using KulGen.Source.ViewModels.CombatTracker;
+using KulGen.DataModels;
+using KulGen.ViewModels;
+using KulGen.ViewModels.CombatTracker;
+using KulGen.ViewModels.EditCombatants;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.FieldBinding;
 
-namespace KulGen.Source.Adapters
+namespace KulGen.Adapters
 {
 	public class CombatListItemModel : BaseViewModel
 	{
@@ -24,7 +25,7 @@ namespace KulGen.Source.Adapters
 		public readonly INC<int> ArmorClass = new NC<int> ();
 		public readonly INC<int> PassivePerception = new NC<int> ();
 		public readonly INC<int> Health = new NC<int> ();
-		public readonly INC<int> Damage = new NC<int> ();
+		public readonly INC<int> Damage = new NC<int> (1);
 		public readonly INC<bool> ShowCombatWindow = new NC<bool> (false);
 
 		Combatant combatant;
@@ -34,11 +35,15 @@ namespace KulGen.Source.Adapters
 			this.combatant = combatant;
 			Initiative.Value = combatant.Initiative;
 			CharacterName.Value = combatant.Name;
-			PlayerName.Value = combatant.PlayerName;
 			ArmorClass.Value = combatant.ArmorClass;
 			PassivePerception.Value = combatant.PassivePerception;
 			Health.Value = combatant.Health;
-			Damage.Value = 1;
+
+			if (combatant.IsPlayer) {
+				PlayerName.Value = combatant.PlayerName;
+			} else {
+				PlayerName.Value = "NPC";
+			}
 		}
 
 		public void DoEditItem ()
@@ -46,9 +51,11 @@ namespace KulGen.Source.Adapters
 			var navObj = new EditCombatantViewModel.NavObject {
 				Id = combatant.ID,
 				Name = combatant.Name,
+				IsPlayer = combatant.IsPlayer,
 				PlayerName = combatant.PlayerName,
 				Initiative = combatant.Initiative,
 				MaxHealth = combatant.MaxHealth,
+				Health = Health.Value,
 				ArmorClass = combatant.ArmorClass,
 				PassivePerception = combatant.PassivePerception
 			};
@@ -58,6 +65,7 @@ namespace KulGen.Source.Adapters
 
 		void DoShowHideCombatWindow ()
 		{
+			Damage.Value = 1;
 			if (ShowCombatWindow.Value == true) {
 				ShowCombatWindow.Value = false;
 			} else {
@@ -78,13 +86,21 @@ namespace KulGen.Source.Adapters
 		void DoUpdateHealth ()
 		{
 			Health.Value = Health.Value - Damage.Value;
+			UpdateCombatantHealth ();
 			DoShowHideCombatWindow ();
 		}
 
 		void DoSetMaxHealth ()
 		{
 			Health.Value = combatant.MaxHealth;
+			UpdateCombatantHealth ();
 			DoShowHideCombatWindow ();
+		}
+
+		void UpdateCombatantHealth ()
+		{
+			combatant.Health = Health.Value;
+			settings.SQLiteDatabase.Update (combatant);
 		}
 	}
 }

@@ -7,5 +7,5 @@
   <item
        android:id="@+id/menu_delete"
        android:showAsAction="always"
-       android:title="Delete" />
+       android:title="Kill" />
 </menu>

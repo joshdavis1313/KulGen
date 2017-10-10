@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -7,46 +7,41 @@
     android:gravity="center_horizontal">
     <include
         layout="@layout/top_toolbar" />
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:orientation="horizontal"
-        android:padding="5dp"
+    <RadioGroup
+        style="@style/AddCombatantLayout"
+        android:id="@+id/radio_player_npc"
         android:background="@color/white">
+        <RadioButton
+            android:id="@+id/radio_player"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/primary_color"
+            android:text="Player" />
+        <RadioButton
+            android:id="@+id/radio_npc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NPC"
+            android:buttonTint="@color/primary_color"
+            android:checked="true" />
+    </RadioGroup>
+    <LinearLayout
+        style="@style/AddCombatantLayout"
+        android:background="@color/secondary_color">
         <TextView
             style="@style/AddCombatantTextView"
             android:text="Combatant Name" />
         <EditText
             style="@style/AddCombatantEditText"
             android:id="@+id/add_character_name"
-            android:inputType="text" />
+            android:inputType="textCapSentences" />
     </LinearLayout>
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:orientation="horizontal"
-        android:padding="5dp"
-        android:background="@color/lightgrey">
-        <TextView
-            style="@style/AddCombatantTextView"
-            android:text="Player Name" />
-        <EditText
-            style="@style/AddCombatantEditText"
-            android:id="@+id/add_player_name"
-            android:inputType="text" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:orientation="horizontal"
-        android:gravity="center"
+        style="@style/AddCombatantLayout"
         android:background="@color/white">
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:layout_weight="1"
-            android:orientation="horizontal"
-            android:padding="5dp">
+            style="@style/AddCombatantLayout"
+            android:layout_weight="1">
             <TextView
                 style="@style/AddCombatantTextView"
                 android:text="Initiative" />
@@ -55,11 +50,8 @@
                 android:id="@+id/add_initiative" />
         </LinearLayout>
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:orientation="horizontal"
-            android:layout_weight="1"
-            android:padding="5dp">
+            style="@style/AddCombatantLayout"
+            android:layout_weight="1">
             <TextView
                 style="@style/AddCombatantTextView"
                 android:text="Max Health" />
@@ -70,17 +62,11 @@
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:orientation="horizontal"
-        android:gravity="center"
-        android:background="@color/lightgrey">
+        style="@style/AddCombatantLayout"
+        android:background="@color/secondary_color">
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:layout_weight="1"
-            android:orientation="horizontal"
-            android:padding="5dp">
+            style="@style/AddCombatantLayout"
+            android:layout_weight="1">
             <TextView
                 style="@style/AddCombatantTextView"
                 android:text="Perception" />
@@ -89,11 +75,8 @@
                 android:id="@+id/add_perception" />
         </LinearLayout>
         <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:layout_weight="1"
-            android:orientation="horizontal"
-            android:padding="5dp">
+            style="@style/AddCombatantLayout"
+            android:layout_weight="1">
             <TextView
                 style="@style/AddCombatantTextView"
                 android:text="Armor Class" />
@@ -102,10 +85,27 @@
                 android:id="@+id/add_armor" />
         </LinearLayout>
     </LinearLayout>
-    <TextView
-        style="@style/AddCombatantTextView"
-        android:text="Number To Create" />
-    <EditText
-        style="@style/AddCombatantEditText.Stat"
-        android:id="@+id/create_number" />
+    <LinearLayout
+        style="@style/AddCombatantLayout"
+        android:id="@+id/layout_add_create_number"
+        android:background="@color/white">
+        <TextView
+            style="@style/AddCombatantTextView"
+            android:text="Number To Create" />
+        <EditText
+            style="@style/AddCombatantEditText.Stat"
+            android:id="@+id/add_create_number" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/AddCombatantLayout"
+        android:id="@+id/layout_add_player_name"
+        android:background="@color/white">
+        <TextView
+            style="@style/AddCombatantTextView"
+            android:text="Player Name" />
+        <EditText
+            style="@style/AddCombatantEditText"
+            android:id="@+id/add_player_name"
+            android:inputType="textCapSentences" />
+    </LinearLayout>
 </LinearLayout>

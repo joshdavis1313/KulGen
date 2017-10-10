@@ -16,6 +16,8 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Platform.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Platform.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.FieldBinding.dll
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Newtonsoft.Json.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/PCLCrypto.dll
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/PInvoke.BCrypt.dll
@@ -82,6 +84,10 @@
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Validation.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Microsoft.Azure.Mobile.Client.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll.mdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.pdb
+/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll.mdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.Abstractions.pdb
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/Plugin.Settings.Abstractions.xml
 /Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/SQLite-net.pdb
@@ -114,12 +120,8 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/menu/edit_combatant_menu.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/layout/edit_combatant_layout.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/drawable/ic_increase_health.png
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/values/dimens.xml
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/drawable/ic_combat.png
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/res/drawable/ic_combat_2.png
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/R.cs.flag
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/uploadflags.txt
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.pdb
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.pdb
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.dll.mdb
-/Users/joshua.davis/Sites/KulGen/Droid/bin/Debug/MvvmCross.Plugins.Visibility.Droid.dll.mdb

@@ -2,7 +2,7 @@
 using Android.Content.PM;
 using MvvmCross.Droid.Views;
 
-namespace KulGen.Droid.Source.Views
+namespace KulGen.Droid.Views
 {
 	[Activity(
 		Label = "App Of Many Things"

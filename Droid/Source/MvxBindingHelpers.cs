@@ -1,7 +1,7 @@
 ﻿using Android.Views;
 using Android.Widget;
 
-namespace KulGen.Droid.Source
+namespace KulGen.Droid
 {
 	public static class MvxBindingHelpers
 	{

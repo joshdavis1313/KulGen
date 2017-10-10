@@ -3,7 +3,7 @@ using KulGen.Core;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.FieldBinding;
 
-namespace KulGen.Source.ViewModels
+namespace KulGen.ViewModels
 {
 	public class BaseViewModel : MvxViewModel
 	{

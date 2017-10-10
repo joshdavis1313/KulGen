@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -9,7 +9,7 @@ using Android.Views;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Binding.Droid.Views;
 
-namespace KulGen.Droid.Source.MvxBindings
+namespace KulGen.Droid.MvxBindings
 {
 	public abstract class MvxListViewAdapter<T> : MvxAdapter where T : class
 	{

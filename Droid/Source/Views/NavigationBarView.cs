@@ -1,7 +1,7 @@
-﻿using KulGen.Source.ViewModels;
+﻿using KulGen.ViewModels;
 using MvvmCross.Binding.BindingContext;
 
-namespace KulGen.Droid.Source.Views
+namespace KulGen.Droid.Views
 {
 	public abstract class NavigationBarView<TView, TViewModel> : BaseView<TView, TViewModel>
         where TView : class, IMvxBindingContextOwner

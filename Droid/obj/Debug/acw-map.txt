@@ -1,47 +1,47 @@
-KulGen.Droid.Source.Adapters.CombatantAdapter, KulGen.Droid;md56934742926eb7942980773b19ddb62ae.CombatantAdapter
-KulGen.Droid.Source.Adapters.CombatantAdapter, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56934742926eb7942980773b19ddb62ae.CombatantAdapter
-KulGen.Droid.Source.Adapters.CombatantAdapter;md56934742926eb7942980773b19ddb62ae.CombatantAdapter
-kulgen.droid.source.adapters.CombatantAdapter;md56934742926eb7942980773b19ddb62ae.CombatantAdapter
-KulGen.Droid.Source.Adapters.CombatListItem, KulGen.Droid;md56934742926eb7942980773b19ddb62ae.CombatListItem
-KulGen.Droid.Source.Adapters.CombatListItem, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56934742926eb7942980773b19ddb62ae.CombatListItem
-KulGen.Droid.Source.Adapters.CombatListItem;md56934742926eb7942980773b19ddb62ae.CombatListItem
-kulgen.droid.source.adapters.CombatListItem;md56934742926eb7942980773b19ddb62ae.CombatListItem
-KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
-KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
-KulGen.Droid.Source.MvxBindings.MvxListViewAdapter`1;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
-kulgen.droid.source.mvxbindings.MvxListViewAdapter_1;md5f0bdb3c61c86dcd5f2eea12d318086e4.MvxListViewAdapter_1
-KulGen.Droid.Source.Views.BaseView, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.BaseView
-KulGen.Droid.Source.Views.BaseView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.BaseView
-KulGen.Droid.Source.Views.BaseView;md5b080e29214788936adecfb0fd8f33ccb.BaseView
-kulgen.droid.source.views.BaseView;md5b080e29214788936adecfb0fd8f33ccb.BaseView
-KulGen.Droid.Source.Views.BaseView`1, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.BaseView_1
-KulGen.Droid.Source.Views.BaseView`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.BaseView_1
-KulGen.Droid.Source.Views.BaseView`1;md5b080e29214788936adecfb0fd8f33ccb.BaseView_1
-kulgen.droid.source.views.BaseView_1;md5b080e29214788936adecfb0fd8f33ccb.BaseView_1
-KulGen.Droid.Source.Views.BaseView`2, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.BaseView_2
-KulGen.Droid.Source.Views.BaseView`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.BaseView_2
-KulGen.Droid.Source.Views.BaseView`2;md5b080e29214788936adecfb0fd8f33ccb.BaseView_2
-kulgen.droid.source.views.BaseView_2;md5b080e29214788936adecfb0fd8f33ccb.BaseView_2
-KulGen.Droid.Source.Views.SplashScreen, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.SplashScreen
-KulGen.Droid.Source.Views.SplashScreen, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.SplashScreen
-KulGen.Droid.Source.Views.SplashScreen;md5b080e29214788936adecfb0fd8f33ccb.SplashScreen
-kulgen.droid.source.views.SplashScreen;md5b080e29214788936adecfb0fd8f33ccb.SplashScreen
-KulGen.Droid.Source.Views.NavigationBarView`2, KulGen.Droid;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
-KulGen.Droid.Source.Views.NavigationBarView`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
-KulGen.Droid.Source.Views.NavigationBarView`2;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
-kulgen.droid.source.views.NavigationBarView_2;md5b080e29214788936adecfb0fd8f33ccb.NavigationBarView_2
-KulGen.Droid.Source.Views.AddCombatants.AddCombatantView, KulGen.Droid;md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView
-KulGen.Droid.Source.Views.AddCombatants.AddCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView
-KulGen.Droid.Source.Views.AddCombatants.AddCombatantView;md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView
-kulgen.droid.source.views.addcombatants.AddCombatantView;md5fc3bb831b26842a5ac61ba9d8c0b924b.AddCombatantView
-KulGen.Droid.Source.Views.Dialogs.EditCombatantView, KulGen.Droid;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
-KulGen.Droid.Source.Views.Dialogs.EditCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
-KulGen.Droid.Source.Views.Dialogs.EditCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
-kulgen.droid.source.views.dialogs.EditCombatantView;md5e1ce8c7ef0155c87bc96b995679d8040.EditCombatantView
-KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
-KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
-KulGen.Droid.Source.Views.CombatTracker.CombatTrackerView;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
-kulgen.droid.source.views.combattracker.CombatTrackerView;md571b9c0452879b08b3e32572c62f2a3af.CombatTrackerView
+KulGen.Droid.Adapters.CombatantAdapter, KulGen.Droid;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
+KulGen.Droid.Adapters.CombatantAdapter, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
+KulGen.Droid.Adapters.CombatantAdapter;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
+kulgen.droid.adapters.CombatantAdapter;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
+KulGen.Droid.Adapters.CombatListItem, KulGen.Droid;md59aa2384071be1d7482b8b35776a05c29.CombatListItem
+KulGen.Droid.Adapters.CombatListItem, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59aa2384071be1d7482b8b35776a05c29.CombatListItem
+KulGen.Droid.Adapters.CombatListItem;md59aa2384071be1d7482b8b35776a05c29.CombatListItem
+kulgen.droid.adapters.CombatListItem;md59aa2384071be1d7482b8b35776a05c29.CombatListItem
+KulGen.Droid.MvxBindings.MvxListViewAdapter`1, KulGen.Droid;md5e15f8a7ab15e000a461cd358d60dd155.MvxListViewAdapter_1
+KulGen.Droid.MvxBindings.MvxListViewAdapter`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e15f8a7ab15e000a461cd358d60dd155.MvxListViewAdapter_1
+KulGen.Droid.MvxBindings.MvxListViewAdapter`1;md5e15f8a7ab15e000a461cd358d60dd155.MvxListViewAdapter_1
+kulgen.droid.mvxbindings.MvxListViewAdapter_1;md5e15f8a7ab15e000a461cd358d60dd155.MvxListViewAdapter_1
+KulGen.Droid.Views.BaseView, KulGen.Droid;md5e34008f5777ddf9409b48bba2e83e364.BaseView
+KulGen.Droid.Views.BaseView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e34008f5777ddf9409b48bba2e83e364.BaseView
+KulGen.Droid.Views.BaseView;md5e34008f5777ddf9409b48bba2e83e364.BaseView
+kulgen.droid.views.BaseView;md5e34008f5777ddf9409b48bba2e83e364.BaseView
+KulGen.Droid.Views.BaseView`1, KulGen.Droid;md5e34008f5777ddf9409b48bba2e83e364.BaseView_1
+KulGen.Droid.Views.BaseView`1, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e34008f5777ddf9409b48bba2e83e364.BaseView_1
+KulGen.Droid.Views.BaseView`1;md5e34008f5777ddf9409b48bba2e83e364.BaseView_1
+kulgen.droid.views.BaseView_1;md5e34008f5777ddf9409b48bba2e83e364.BaseView_1
+KulGen.Droid.Views.BaseView`2, KulGen.Droid;md5e34008f5777ddf9409b48bba2e83e364.BaseView_2
+KulGen.Droid.Views.BaseView`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e34008f5777ddf9409b48bba2e83e364.BaseView_2
+KulGen.Droid.Views.BaseView`2;md5e34008f5777ddf9409b48bba2e83e364.BaseView_2
+kulgen.droid.views.BaseView_2;md5e34008f5777ddf9409b48bba2e83e364.BaseView_2
+KulGen.Droid.Views.SplashScreen, KulGen.Droid;md5e34008f5777ddf9409b48bba2e83e364.SplashScreen
+KulGen.Droid.Views.SplashScreen, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e34008f5777ddf9409b48bba2e83e364.SplashScreen
+KulGen.Droid.Views.SplashScreen;md5e34008f5777ddf9409b48bba2e83e364.SplashScreen
+kulgen.droid.views.SplashScreen;md5e34008f5777ddf9409b48bba2e83e364.SplashScreen
+KulGen.Droid.Views.NavigationBarView`2, KulGen.Droid;md5e34008f5777ddf9409b48bba2e83e364.NavigationBarView_2
+KulGen.Droid.Views.NavigationBarView`2, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e34008f5777ddf9409b48bba2e83e364.NavigationBarView_2
+KulGen.Droid.Views.NavigationBarView`2;md5e34008f5777ddf9409b48bba2e83e364.NavigationBarView_2
+kulgen.droid.views.NavigationBarView_2;md5e34008f5777ddf9409b48bba2e83e364.NavigationBarView_2
+KulGen.Droid.Views.EditCombatants.EditCombatantView, KulGen.Droid;md551293d8de10ce2c2dd58b398e717dc2b.EditCombatantView
+KulGen.Droid.Views.EditCombatants.EditCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md551293d8de10ce2c2dd58b398e717dc2b.EditCombatantView
+KulGen.Droid.Views.EditCombatants.EditCombatantView;md551293d8de10ce2c2dd58b398e717dc2b.EditCombatantView
+kulgen.droid.views.editcombatants.EditCombatantView;md551293d8de10ce2c2dd58b398e717dc2b.EditCombatantView
+KulGen.Droid.Views.AddCombatants.AddCombatantView, KulGen.Droid;md51f6f9a0c2417f765d48180ff61926e68.AddCombatantView
+KulGen.Droid.Views.AddCombatants.AddCombatantView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51f6f9a0c2417f765d48180ff61926e68.AddCombatantView
+KulGen.Droid.Views.AddCombatants.AddCombatantView;md51f6f9a0c2417f765d48180ff61926e68.AddCombatantView
+kulgen.droid.views.addcombatants.AddCombatantView;md51f6f9a0c2417f765d48180ff61926e68.AddCombatantView
+KulGen.Droid.Views.CombatTracker.CombatTrackerView, KulGen.Droid;md5ff80878c71f771cdf25186743c14592d.CombatTrackerView
+KulGen.Droid.Views.CombatTracker.CombatTrackerView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ff80878c71f771cdf25186743c14592d.CombatTrackerView
+KulGen.Droid.Views.CombatTracker.CombatTrackerView;md5ff80878c71f771cdf25186743c14592d.CombatTrackerView
+kulgen.droid.views.combattracker.CombatTrackerView;md5ff80878c71f771cdf25186743c14592d.CombatTrackerView
 Android.Support.CustomTabs.Chromium.SharedUtilities._MobileServices.CustomTabActivityHelper, Microsoft.Azure.Mobile.Client;md54c4b48a882a4c6b363ccb67bdb21d5b2.CustomTabActivityHelper
 Android.Support.CustomTabs.Chromium.SharedUtilities._MobileServices.CustomTabActivityHelper, Microsoft.Azure.Mobile.Client, Version=4.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md54c4b48a882a4c6b363ccb67bdb21d5b2.CustomTabActivityHelper
 Android.Support.CustomTabs.Chromium.SharedUtilities._MobileServices.CustomTabActivityHelper;md54c4b48a882a4c6b363ccb67bdb21d5b2.CustomTabActivityHelper

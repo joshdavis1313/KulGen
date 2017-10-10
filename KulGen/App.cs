@@ -1,4 +1,4 @@
-using KulGen.Source.ViewModels.CombatTracker;
+﻿using KulGen.ViewModels.CombatTracker;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform.IoC;
 

@@ -1,12 +1,13 @@
 ﻿using SQLite;
 
-namespace KulGen.Source.DataModels
+namespace KulGen.DataModels
 {
 	public class Combatant
 	{
 		[PrimaryKey, AutoIncrement]
 		public int ID { get; set; }
 		public string Name { get; set; }
+		public bool IsPlayer { get; set; }
 		public string PlayerName { get; set; }
 		public int MaxHealth { get; set; }
 		public int Health { get; set; }

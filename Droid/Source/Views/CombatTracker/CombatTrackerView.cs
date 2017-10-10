@@ -5,12 +5,12 @@ using Android.Content.PM;
 using Android.Support.Design.Widget;
 using Android.Views;
 using Android.Widget;
-using KulGen.Droid.Source.Adapters;
-using KulGen.Source.ViewModels.CombatTracker;
+using KulGen.Droid.Adapters;
+using KulGen.ViewModels.CombatTracker;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Binding.Droid.Views;
 
-namespace KulGen.Droid.Source.Views.CombatTracker
+namespace KulGen.Droid.Views.CombatTracker
 {
 	[Activity (
 		Label = "Combat Tracker",

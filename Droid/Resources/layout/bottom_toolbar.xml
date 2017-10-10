@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -6,13 +6,13 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="@color/black" />
+        android:background="@color/primary_color" />
     <LinearLayout
         android:id="@+id/bottom_toolbar"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:orientation="horizontal"
-        android:background="@color/darkred">
+        android:background="@color/primary_color">
         <ImageButton
             style="@style/BottomToolbarButtons"
             android:id="@+id/button_toolbar_character" />

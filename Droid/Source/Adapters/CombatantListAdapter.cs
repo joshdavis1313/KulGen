@@ -5,12 +5,12 @@ using Android.Graphics;
 using Android.Runtime;
 using Android.Support.V4.Content;
 using Android.Views;
-using KulGen.Droid.Source.MvxBindings;
-using KulGen.Source.Adapters;
+using KulGen.Droid.MvxBindings;
+using KulGen.Adapters;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Binding.Droid.Views;
 
-namespace KulGen.Droid.Source.Adapters
+namespace KulGen.Droid.Adapters
 {
 	public class CombatantAdapter : MvxListViewAdapter<CombatListItemModel>
 	{
@@ -37,7 +37,7 @@ namespace KulGen.Droid.Source.Adapters
 			}
 
 			if (position % 2 == 1) {
-				view.SetBackgroundColor(new Color(ContextCompat.GetColor(context, Resource.Color.lightgrey)));
+				view.SetBackgroundColor(new Color(ContextCompat.GetColor(context, Resource.Color.secondary_color)));
 			} else {
 				view.SetBackgroundColor(Color.White);
 			}

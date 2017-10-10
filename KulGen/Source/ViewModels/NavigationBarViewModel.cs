@@ -1,6 +1,6 @@
 ﻿using KulGen.Core;
 
-namespace KulGen.Source.ViewModels
+namespace KulGen.ViewModels
 {
 	public class NavigationBarViewModel : BaseViewModel
 	{

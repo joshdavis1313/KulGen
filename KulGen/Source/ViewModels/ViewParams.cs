@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using KulGen.Source.ViewModels;
+using KulGen.ViewModels;
 using MvvmCross.Core.ViewModels;
 
-namespace KulGen.Source.ViewModels
+namespace KulGen.ViewModels
 {
 	public class ViewParams
 	{

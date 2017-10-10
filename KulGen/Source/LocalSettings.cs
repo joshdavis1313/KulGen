@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using KulGen.Source.DataModels;
+using KulGen.DataModels;
 using SQLite;
 
 namespace KulGen.Core
