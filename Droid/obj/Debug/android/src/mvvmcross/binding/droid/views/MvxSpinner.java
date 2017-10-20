@@ -15,7 +15,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0)
 	{
 		super (p0);
 		if (getClass () == MvxSpinner.class)
@@ -23,7 +23,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1)
 	{
 		super (p0, p1);
 		if (getClass () == MvxSpinner.class)
@@ -31,7 +31,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);
 		if (getClass () == MvxSpinner.class)
@@ -39,7 +39,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)
 	{
 		super (p0, p1, p2, p3);
 		if (getClass () == MvxSpinner.class)
@@ -47,7 +47,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3, int p4) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3, int p4)
 	{
 		super (p0, p1, p2, p3, p4);
 		if (getClass () == MvxSpinner.class)
@@ -55,7 +55,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3, int p4, android.content.res.Resources.Theme p5) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3, int p4, android.content.res.Resources.Theme p5)
 	{
 		super (p0, p1, p2, p3, p4, p5);
 		if (getClass () == MvxSpinner.class)
@@ -63,7 +63,7 @@ public class MvxSpinner
 	}
 
 
-	public MvxSpinner (android.content.Context p0, int p1) throws java.lang.Throwable
+	public MvxSpinner (android.content.Context p0, int p1)
 	{
 		super (p0, p1);
 		if (getClass () == MvxSpinner.class)

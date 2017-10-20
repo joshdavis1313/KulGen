@@ -2725,13 +2725,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f02006f;
-        public static final int avd_hide_password_2=0x7f020070;
-        public static final int avd_hide_password_3=0x7f020071;
+        public static final int avd_hide_password_1=0x7f020071;
+        public static final int avd_hide_password_2=0x7f020072;
+        public static final int avd_hide_password_3=0x7f020073;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f020072;
-        public static final int avd_show_password_2=0x7f020073;
-        public static final int avd_show_password_3=0x7f020074;
+        public static final int avd_show_password_1=0x7f020074;
+        public static final int avd_show_password_2=0x7f020075;
+        public static final int avd_show_password_3=0x7f020076;
         public static final int design_bottom_navigation_item_background=0x7f020055;
         public static final int design_fab_background=0x7f020056;
         public static final int design_ic_visibility=0x7f020057;
@@ -2742,27 +2742,29 @@ containing a value of this type.
         public static final int ic_combat=0x7f02005c;
         public static final int ic_combat_2=0x7f02005d;
         public static final int ic_fab_add_circle=0x7f02005e;
-        public static final int ic_increase_health=0x7f02005f;
-        public static final int icon_main=0x7f020060;
-        public static final int navigation_empty_icon=0x7f020061;
-        public static final int notification_action_background=0x7f020062;
-        public static final int notification_bg=0x7f020063;
-        public static final int notification_bg_low=0x7f020064;
-        public static final int notification_bg_low_normal=0x7f020065;
-        public static final int notification_bg_low_pressed=0x7f020066;
-        public static final int notification_bg_normal=0x7f020067;
-        public static final int notification_bg_normal_pressed=0x7f020068;
-        public static final int notification_icon_background=0x7f020069;
-        public static final int notification_template_icon_bg=0x7f02006d;
-        public static final int notification_template_icon_low_bg=0x7f02006e;
-        public static final int notification_tile_bg=0x7f02006a;
-        public static final int notify_panel_notification_icon_bg=0x7f02006b;
-        public static final int toolbar_button=0x7f02006c;
+        public static final int ic_fab_uncheck=0x7f02005f;
+        public static final int ic_increase_health=0x7f020060;
+        public static final int ic_toolbar=0x7f020061;
+        public static final int icon_main=0x7f020062;
+        public static final int navigation_empty_icon=0x7f020063;
+        public static final int notification_action_background=0x7f020064;
+        public static final int notification_bg=0x7f020065;
+        public static final int notification_bg_low=0x7f020066;
+        public static final int notification_bg_low_normal=0x7f020067;
+        public static final int notification_bg_low_pressed=0x7f020068;
+        public static final int notification_bg_normal=0x7f020069;
+        public static final int notification_bg_normal_pressed=0x7f02006a;
+        public static final int notification_icon_background=0x7f02006b;
+        public static final int notification_template_icon_bg=0x7f02006f;
+        public static final int notification_template_icon_low_bg=0x7f020070;
+        public static final int notification_tile_bg=0x7f02006c;
+        public static final int notify_panel_notification_icon_bg=0x7f02006d;
+        public static final int toolbar_button=0x7f02006e;
     }
     public static final class id {
         public static final int MvvmCrossTagId=0x7f08000f;
         public static final int MvxBindingTagUnique=0x7f080010;
-        public static final int action0=0x7f0800b5;
+        public static final int action0=0x7f0800c1;
         public static final int action_bar=0x7f080066;
         public static final int action_bar_activity_content=0x7f080001;
         public static final int action_bar_container=0x7f080065;
@@ -2770,17 +2772,17 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f080002;
         public static final int action_bar_subtitle=0x7f080044;
         public static final int action_bar_title=0x7f080043;
-        public static final int action_container=0x7f0800b2;
+        public static final int action_container=0x7f0800be;
         public static final int action_context_bar=0x7f080067;
-        public static final int action_divider=0x7f0800b9;
-        public static final int action_image=0x7f0800b3;
+        public static final int action_divider=0x7f0800c5;
+        public static final int action_image=0x7f0800bf;
         public static final int action_menu_divider=0x7f080003;
         public static final int action_menu_presenter=0x7f080004;
         public static final int action_mode_bar=0x7f080063;
         public static final int action_mode_bar_stub=0x7f080062;
         public static final int action_mode_close_button=0x7f080045;
-        public static final int action_text=0x7f0800b4;
-        public static final int actions=0x7f0800c2;
+        public static final int action_text=0x7f0800c0;
+        public static final int actions=0x7f0800ce;
         public static final int activity_chooser_view_content=0x7f080046;
         public static final int add=0x7f080020;
         public static final int add_armor=0x7f08007d;
@@ -2803,49 +2805,51 @@ containing a value of this type.
         public static final int button_toolbar_personality=0x7f080087;
         public static final int button_toolbar_spells=0x7f080086;
         public static final int button_toolbar_stats=0x7f080084;
-        public static final int cancel_action=0x7f0800b6;
+        public static final int cancel_action=0x7f0800c2;
         public static final int center=0x7f080032;
         public static final int center_horizontal=0x7f080033;
         public static final int center_vertical=0x7f080034;
-        public static final int change_health_amount=0x7f080097;
-        public static final int change_health_max_health=0x7f080099;
-        public static final int change_health_minus=0x7f080096;
-        public static final int change_health_plus=0x7f080098;
-        public static final int change_health_title=0x7f080095;
-        public static final int change_health_update=0x7f08009a;
+        public static final int change_health_amount=0x7f080098;
+        public static final int change_health_max_health=0x7f08009a;
+        public static final int change_health_minus=0x7f080097;
+        public static final int change_health_plus=0x7f080099;
+        public static final int change_health_title=0x7f080096;
+        public static final int change_health_update=0x7f08009b;
         public static final int checkbox=0x7f08005d;
-        public static final int chronometer=0x7f0800be;
+        public static final int checkbox_initiative=0x7f08008a;
+        public static final int chronometer=0x7f0800ca;
         public static final int clip_horizontal=0x7f08003b;
         public static final int clip_vertical=0x7f08003c;
         public static final int collapseActionView=0x7f080026;
-        public static final int container=0x7f08009f;
+        public static final int container=0x7f0800a1;
         public static final int contentPanel=0x7f080050;
-        public static final int coordinator=0x7f0800a0;
+        public static final int coordinator=0x7f0800a2;
         public static final int custom=0x7f080057;
         public static final int customPanel=0x7f080056;
         public static final int decor_content_parent=0x7f080064;
         public static final int default_activity_button=0x7f080049;
-        public static final int design_bottom_sheet=0x7f0800a2;
-        public static final int design_menu_item_action_area=0x7f0800a9;
-        public static final int design_menu_item_action_area_stub=0x7f0800a8;
-        public static final int design_menu_item_text=0x7f0800a7;
-        public static final int design_navigation_view=0x7f0800a6;
+        public static final int design_bottom_sheet=0x7f0800a4;
+        public static final int design_menu_item_action_area=0x7f0800ab;
+        public static final int design_menu_item_action_area_stub=0x7f0800aa;
+        public static final int design_menu_item_text=0x7f0800a9;
+        public static final int design_navigation_view=0x7f0800a8;
         public static final int disableHome=0x7f080014;
-        public static final int edit_armor=0x7f0800af;
-        public static final int edit_character_name=0x7f0800ab;
-        public static final int edit_initiative=0x7f0800ac;
-        public static final int edit_max_health=0x7f0800ad;
-        public static final int edit_perception=0x7f0800ae;
-        public static final int edit_player_name=0x7f0800b1;
+        public static final int edit_armor=0x7f0800b1;
+        public static final int edit_character_name=0x7f0800ad;
+        public static final int edit_initiative=0x7f0800ae;
+        public static final int edit_max_health=0x7f0800af;
+        public static final int edit_perception=0x7f0800b0;
+        public static final int edit_player_name=0x7f0800b3;
         public static final int edit_query=0x7f080068;
         public static final int end=0x7f080023;
-        public static final int end_padder=0x7f0800c8;
+        public static final int end_padder=0x7f0800d4;
         public static final int enterAlways=0x7f08002c;
         public static final int enterAlwaysCollapsed=0x7f08002d;
         public static final int exitUntilCollapsed=0x7f08002e;
         public static final int expand_activities_button=0x7f080047;
         public static final int expanded_menu=0x7f08005c;
-        public static final int fab_add=0x7f08009c;
+        public static final int fab_add=0x7f08009d;
+        public static final int fab_clear_checkboxes=0x7f08009e;
         public static final int fill=0x7f08003d;
         public static final int fill_horizontal=0x7f08003e;
         public static final int fill_vertical=0x7f080035;
@@ -2853,55 +2857,64 @@ containing a value of this type.
         public static final int home=0x7f080005;
         public static final int homeAsUp=0x7f080015;
         public static final int icon=0x7f08004b;
-        public static final int icon_group=0x7f0800c3;
+        public static final int icon_group=0x7f0800cf;
         public static final int ifRoom=0x7f080027;
         public static final int image=0x7f080048;
-        public static final int img_combat_window=0x7f080093;
-        public static final int info=0x7f0800bf;
+        public static final int img_combat_window=0x7f080094;
+        public static final int info=0x7f0800cb;
         public static final int item_touch_helper_previous_elevation=0x7f080000;
-        public static final int largeLabel=0x7f08009e;
+        public static final int largeLabel=0x7f0800a0;
         public static final int layout_add_create_number=0x7f08007e;
         public static final int layout_add_player_name=0x7f080080;
-        public static final int layout_edit_box=0x7f080088;
-        public static final int layout_edit_player_name=0x7f0800b0;
-        public static final int layout_expand_combat=0x7f080094;
+        public static final int layout_edit_box=0x7f08008b;
+        public static final int layout_edit_player_name=0x7f0800b2;
+        public static final int layout_expand_combat=0x7f080095;
         public static final int left=0x7f080036;
-        public static final int line1=0x7f0800c4;
-        public static final int line3=0x7f0800c6;
+        public static final int line1=0x7f0800d0;
+        public static final int line3=0x7f0800d2;
         public static final int listMode=0x7f080011;
-        public static final int list_combat=0x7f08009b;
+        public static final int list_combat=0x7f08009c;
         public static final int list_item=0x7f08004a;
-        public static final int masked=0x7f0800cb;
-        public static final int media_actions=0x7f0800b8;
-        public static final int menu_add=0x7f0800cc;
-        public static final int menu_clear=0x7f0800cd;
-        public static final int menu_delete=0x7f0800d2;
-        public static final int menu_help=0x7f0800d0;
-        public static final int menu_options=0x7f0800ce;
-        public static final int menu_update=0x7f0800d1;
-        public static final int menu_upgrade=0x7f0800cf;
+        public static final int masked=0x7f0800d7;
+        public static final int media_actions=0x7f0800c4;
+        public static final int menu_add=0x7f0800d8;
+        public static final int menu_clear=0x7f0800d9;
+        public static final int menu_delete=0x7f0800dc;
+        public static final int menu_options=0x7f0800da;
+        public static final int menu_options_save=0x7f0800dd;
+        public static final int menu_update=0x7f0800db;
         public static final int middle=0x7f080024;
         public static final int mini=0x7f080040;
+        public static final int multi_npc_custom=0x7f0800bd;
+        public static final int multi_npc_custom_layout=0x7f0800bc;
         public static final int multiply=0x7f08001b;
-        public static final int navigation_header_container=0x7f0800a5;
+        public static final int navigation_header_container=0x7f0800a7;
         public static final int never=0x7f080028;
         public static final int none=0x7f080016;
         public static final int normal=0x7f080012;
-        public static final int notification_background=0x7f0800c1;
-        public static final int notification_main_column=0x7f0800bb;
-        public static final int notification_main_column_container=0x7f0800ba;
+        public static final int notification_background=0x7f0800cd;
+        public static final int notification_main_column=0x7f0800c7;
+        public static final int notification_main_column_container=0x7f0800c6;
         public static final int parallax=0x7f080039;
         public static final int parentPanel=0x7f08004f;
         public static final int pin=0x7f08003a;
         public static final int progress_circular=0x7f080006;
         public static final int progress_horizontal=0x7f080007;
         public static final int radio=0x7f08005f;
+        public static final int radio_alpha=0x7f0800ba;
+        public static final int radio_asc=0x7f0800b6;
+        public static final int radio_checkbox=0x7f0800b7;
+        public static final int radio_custom=0x7f0800bb;
+        public static final int radio_desc=0x7f0800b5;
+        public static final int radio_desc_asc=0x7f0800b4;
         public static final int radio_npc=0x7f080078;
+        public static final int radio_num=0x7f0800b9;
+        public static final int radio_num_alpha_custom=0x7f0800b8;
         public static final int radio_player=0x7f080077;
         public static final int radio_player_npc=0x7f080076;
         public static final int right=0x7f080037;
-        public static final int right_icon=0x7f0800c0;
-        public static final int right_side=0x7f0800bc;
+        public static final int right_icon=0x7f0800cc;
+        public static final int right_side=0x7f0800c8;
         public static final int screen=0x7f08001c;
         public static final int scroll=0x7f08002f;
         public static final int scrollIndicatorDown=0x7f080055;
@@ -2923,9 +2936,9 @@ containing a value of this type.
         public static final int showCustom=0x7f080017;
         public static final int showHome=0x7f080018;
         public static final int showTitle=0x7f080019;
-        public static final int smallLabel=0x7f08009d;
-        public static final int snackbar_action=0x7f0800a4;
-        public static final int snackbar_text=0x7f0800a3;
+        public static final int smallLabel=0x7f08009f;
+        public static final int snackbar_action=0x7f0800a6;
+        public static final int snackbar_text=0x7f0800a5;
         public static final int snap=0x7f080030;
         public static final int spacer=0x7f08004e;
         public static final int split_action_bar=0x7f080008;
@@ -2933,41 +2946,41 @@ containing a value of this type.
         public static final int src_in=0x7f08001e;
         public static final int src_over=0x7f08001f;
         public static final int start=0x7f080038;
-        public static final int status_bar_latest_event_content=0x7f0800b7;
+        public static final int status_bar_latest_event_content=0x7f0800c3;
         public static final int submenuarrow=0x7f080060;
         public static final int submit_area=0x7f080071;
         public static final int tabMode=0x7f080013;
-        public static final int text=0x7f0800c7;
-        public static final int text2=0x7f0800c5;
+        public static final int text=0x7f0800d3;
+        public static final int text2=0x7f0800d1;
         public static final int textSpacerNoButtons=0x7f080054;
         public static final int textSpacerNoTitle=0x7f080053;
-        public static final int text_ac_title=0x7f08008d;
-        public static final int text_armor_class=0x7f08008e;
-        public static final int text_character_name=0x7f08008b;
-        public static final int text_health=0x7f080092;
-        public static final int text_health_title=0x7f080091;
-        public static final int text_initiative=0x7f08008a;
-        public static final int text_initiative_title=0x7f080089;
-        public static final int text_input_password_toggle=0x7f0800aa;
-        public static final int text_passive_perception=0x7f080090;
-        public static final int text_player_name=0x7f08008c;
-        public static final int text_pp_title=0x7f08008f;
+        public static final int text_ac_title=0x7f08008e;
+        public static final int text_armor_class=0x7f08008f;
+        public static final int text_character_name=0x7f08008c;
+        public static final int text_health=0x7f080093;
+        public static final int text_health_title=0x7f080092;
+        public static final int text_initiative=0x7f080089;
+        public static final int text_initiative_title=0x7f080088;
+        public static final int text_input_password_toggle=0x7f0800ac;
+        public static final int text_passive_perception=0x7f080091;
+        public static final int text_player_name=0x7f08008d;
+        public static final int text_pp_title=0x7f080090;
         public static final int textinput_counter=0x7f08000c;
         public static final int textinput_error=0x7f08000d;
-        public static final int time=0x7f0800bd;
+        public static final int time=0x7f0800c9;
         public static final int title=0x7f08004c;
         public static final int titleDividerNoCustom=0x7f08005b;
         public static final int title_template=0x7f080059;
         public static final int top=0x7f08002b;
         public static final int topPanel=0x7f080058;
-        public static final int toptoolbar=0x7f0800c9;
-        public static final int touch_outside=0x7f0800a1;
+        public static final int toptoolbar=0x7f0800d5;
+        public static final int touch_outside=0x7f0800a3;
         public static final int transition_current_scene=0x7f08000a;
         public static final int transition_scene_layoutid_cache=0x7f08000b;
         public static final int up=0x7f080009;
         public static final int useLogo=0x7f08001a;
         public static final int view_offset_helper=0x7f08000e;
-        public static final int visible=0x7f0800ca;
+        public static final int visible=0x7f0800d6;
         public static final int webview=0x7f080075;
         public static final int withText=0x7f080029;
         public static final int wrap_content=0x7f080021;
@@ -3031,32 +3044,34 @@ containing a value of this type.
         public static final int design_navigation_menu_item=0x7f04002c;
         public static final int design_text_input_password_icon=0x7f04002d;
         public static final int edit_combatant_layout=0x7f04002e;
-        public static final int notification_action=0x7f04002f;
-        public static final int notification_action_tombstone=0x7f040030;
-        public static final int notification_media_action=0x7f040031;
-        public static final int notification_media_cancel_action=0x7f040032;
-        public static final int notification_template_big_media=0x7f040033;
-        public static final int notification_template_big_media_custom=0x7f040034;
-        public static final int notification_template_big_media_narrow=0x7f040035;
-        public static final int notification_template_big_media_narrow_custom=0x7f040036;
-        public static final int notification_template_custom_big=0x7f040037;
-        public static final int notification_template_icon_group=0x7f040038;
-        public static final int notification_template_lines_media=0x7f040039;
-        public static final int notification_template_media=0x7f04003a;
-        public static final int notification_template_media_custom=0x7f04003b;
-        public static final int notification_template_part_chronometer=0x7f04003c;
-        public static final int notification_template_part_time=0x7f04003d;
-        public static final int select_dialog_item_material=0x7f04003e;
-        public static final int select_dialog_multichoice_material=0x7f04003f;
-        public static final int select_dialog_singlechoice_material=0x7f040040;
-        public static final int splashscreen=0x7f040041;
-        public static final int support_simple_spinner_dropdown_item=0x7f040042;
-        public static final int top_toolbar=0x7f040043;
+        public static final int main_options_layout=0x7f04002f;
+        public static final int notification_action=0x7f040030;
+        public static final int notification_action_tombstone=0x7f040031;
+        public static final int notification_media_action=0x7f040032;
+        public static final int notification_media_cancel_action=0x7f040033;
+        public static final int notification_template_big_media=0x7f040034;
+        public static final int notification_template_big_media_custom=0x7f040035;
+        public static final int notification_template_big_media_narrow=0x7f040036;
+        public static final int notification_template_big_media_narrow_custom=0x7f040037;
+        public static final int notification_template_custom_big=0x7f040038;
+        public static final int notification_template_icon_group=0x7f040039;
+        public static final int notification_template_lines_media=0x7f04003a;
+        public static final int notification_template_media=0x7f04003b;
+        public static final int notification_template_media_custom=0x7f04003c;
+        public static final int notification_template_part_chronometer=0x7f04003d;
+        public static final int notification_template_part_time=0x7f04003e;
+        public static final int select_dialog_item_material=0x7f04003f;
+        public static final int select_dialog_multichoice_material=0x7f040040;
+        public static final int select_dialog_singlechoice_material=0x7f040041;
+        public static final int splashscreen=0x7f040042;
+        public static final int support_simple_spinner_dropdown_item=0x7f040043;
+        public static final int top_toolbar=0x7f040044;
     }
     public static final class menu {
         public static final int add_combatant_menu=0x7f0f0000;
         public static final int combat_tracker_menu=0x7f0f0001;
         public static final int edit_combatant_menu=0x7f0f0002;
+        public static final int main_options_menu=0x7f0f0003;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;
@@ -3109,13 +3124,13 @@ containing a value of this type.
         public static final int title_activity_webview=0x7f09002b;
     }
     public static final class style {
-        public static final int AddCombatantEditText=0x7f0a0186;
-        public static final int AddCombatantEditText_Stat=0x7f0a0187;
+        public static final int AddEditCombatantEditText=0x7f0a0186;
+        public static final int AddEditCombatantEditText_Stat=0x7f0a0187;
         /**  Add Combatant 
          */
-        public static final int AddCombatantLayout=0x7f0a0183;
-        public static final int AddCombatantStatContainer=0x7f0a0184;
-        public static final int AddCombatantTextView=0x7f0a0185;
+        public static final int AddEditCombatantLayout=0x7f0a0183;
+        public static final int AddEditCombatantStatContainer=0x7f0a0184;
+        public static final int AddEditCombatantTextView=0x7f0a0185;
         public static final int AlertDialog_AppCompat=0x7f0a009f;
         public static final int AlertDialog_AppCompat_Light=0x7f0a00a0;
         public static final int Animation_AppCompat_Dialog=0x7f0a00a1;
@@ -3283,6 +3298,10 @@ containing a value of this type.
         public static final int CombatItemHealthMinusPlusButton=0x7f0a0182;
         public static final int CombatItemStat=0x7f0a0180;
         public static final int CombatItemStatTitle=0x7f0a017f;
+        public static final int OptionRadioGroup=0x7f0a0189;
+        /**  Options Menu 
+         */
+        public static final int OptionsSectionLayout=0x7f0a0188;
         public static final int Platform_AppCompat=0x7f0a001e;
         public static final int Platform_AppCompat_Light=0x7f0a001f;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f0a0085;
@@ -3513,35 +3532,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.FancyDevs.App_Of_Many_Things:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.FancyDevs.App_Of_Many_Things:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.FancyDevs.App_Of_Many_Things:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.FancyDevs.App_Of_Many_Things:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.FancyDevs.App_Of_Many_Things:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.FancyDevs.App_Of_Many_Things:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.FancyDevs.App_Of_Many_Things:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.FancyDevs.App_Of_Many_Things:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.FancyDevs.App_Of_Many_Things:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.FancyDevs.App_Of_Many_Things:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.FancyDevs.App_Of_Many_Things:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.FancyDevs.App_Of_Many_Things:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.FancyDevs.App_Of_Many_Things:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.FancyDevs.App_Of_Many_Things:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.FancyDevs.App_Of_Many_Things:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.FancyDevs.App_Of_Many_Things:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.FancyDevs.App_Of_Many_Things:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.FancyDevs.App_Of_Many_Things:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.FancyDevs.App_Of_Many_Things:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.FancyDevs.App_Of_Many_Things:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.FancyDevs.App_Of_Many_Things:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.FancyDevs.App_Of_Many_Things:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.FancyDevs.App_Of_Many_Things:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.FancyDevs.App_Of_Many_Things:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.FancyDevs.App_Of_Many_Things:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.FancyDevs.App_Of_Many_Things:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.FancyDevs.App_Of_Many_Things:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.FancyDevs.App_Of_Many_Things:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.fancydevs.appofmanythings:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.fancydevs.appofmanythings:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.fancydevs.appofmanythings:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.fancydevs.appofmanythings:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.fancydevs.appofmanythings:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.fancydevs.appofmanythings:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.fancydevs.appofmanythings:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.fancydevs.appofmanythings:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.fancydevs.appofmanythings:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.fancydevs.appofmanythings:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.fancydevs.appofmanythings:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.fancydevs.appofmanythings:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.fancydevs.appofmanythings:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.fancydevs.appofmanythings:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.fancydevs.appofmanythings:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.fancydevs.appofmanythings:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.fancydevs.appofmanythings:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.fancydevs.appofmanythings:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.fancydevs.appofmanythings:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.fancydevs.appofmanythings:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.fancydevs.appofmanythings:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.fancydevs.appofmanythings:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.fancydevs.appofmanythings:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.fancydevs.appofmanythings:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.fancydevs.appofmanythings:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.fancydevs.appofmanythings:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.fancydevs.appofmanythings:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.fancydevs.appofmanythings:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3584,17 +3603,17 @@ containing a value of this type.
             0x7f010061
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#background}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:background
+          @attr name com.fancydevs.appofmanythings:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3602,11 +3621,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundSplit
+          @attr name com.fancydevs.appofmanythings:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3614,11 +3633,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundStacked
+          @attr name com.fancydevs.appofmanythings:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3630,11 +3649,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetEnd
+          @attr name com.fancydevs.appofmanythings:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3646,11 +3665,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetEndWithActions
+          @attr name com.fancydevs.appofmanythings:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3662,11 +3681,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetLeft
+          @attr name com.fancydevs.appofmanythings:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3678,11 +3697,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetRight
+          @attr name com.fancydevs.appofmanythings:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3694,11 +3713,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetStart
+          @attr name com.fancydevs.appofmanythings:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3710,21 +3729,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetStartWithNavigation
+          @attr name com.fancydevs.appofmanythings:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:customNavigationLayout
+          @attr name com.fancydevs.appofmanythings:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3742,21 +3761,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:displayOptions
+          @attr name com.fancydevs.appofmanythings:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:divider
+          @attr name com.fancydevs.appofmanythings:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3768,11 +3787,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#height}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3784,11 +3803,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:height
+          @attr name com.fancydevs.appofmanythings:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3798,51 +3817,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:hideOnContentScroll
+          @attr name com.fancydevs.appofmanythings:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:homeAsUpIndicator
+          @attr name com.fancydevs.appofmanythings:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:homeLayout
+          @attr name com.fancydevs.appofmanythings:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:icon
+          @attr name com.fancydevs.appofmanythings:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:indeterminateProgressStyle
+          @attr name com.fancydevs.appofmanythings:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3854,21 +3873,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:itemPadding
+          @attr name com.fancydevs.appofmanythings:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:logo
+          @attr name com.fancydevs.appofmanythings:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3882,21 +3901,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:navigationMode
+          @attr name com.fancydevs.appofmanythings:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:popupTheme
+          @attr name com.fancydevs.appofmanythings:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3908,21 +3927,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:progressBarPadding
+          @attr name com.fancydevs.appofmanythings:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:progressBarStyle
+          @attr name com.fancydevs.appofmanythings:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3932,21 +3951,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitle
+          @attr name com.fancydevs.appofmanythings:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitleTextStyle
+          @attr name com.fancydevs.appofmanythings:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#title}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3956,17 +3975,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:title
+          @attr name com.fancydevs.appofmanythings:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:titleTextStyle
+          @attr name com.fancydevs.appofmanythings:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4018,12 +4037,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.FancyDevs.App_Of_Many_Things:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.FancyDevs.App_Of_Many_Things:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.FancyDevs.App_Of_Many_Things:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.FancyDevs.App_Of_Many_Things:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.FancyDevs.App_Of_Many_Things:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.FancyDevs.App_Of_Many_Things:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.fancydevs.appofmanythings:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.fancydevs.appofmanythings:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.fancydevs.appofmanythings:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.fancydevs.appofmanythings:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.fancydevs.appofmanythings:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.fancydevs.appofmanythings:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4037,17 +4056,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010012, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#background}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:background
+          @attr name com.fancydevs.appofmanythings:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4055,21 +4074,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundSplit
+          @attr name com.fancydevs.appofmanythings:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:closeItemLayout
+          @attr name com.fancydevs.appofmanythings:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#height}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4081,27 +4100,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:height
+          @attr name com.fancydevs.appofmanythings:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitleTextStyle
+          @attr name com.fancydevs.appofmanythings:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:titleTextStyle
+          @attr name com.fancydevs.appofmanythings:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4110,8 +4129,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.FancyDevs.App_Of_Many_Things:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.FancyDevs.App_Of_Many_Things:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.fancydevs.appofmanythings:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.fancydevs.appofmanythings:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4120,17 +4139,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010023, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:expandActivityOverflowButtonDrawable
+          @attr name com.fancydevs.appofmanythings:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4140,7 +4159,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:initialActivityCount
+          @attr name com.fancydevs.appofmanythings:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4150,12 +4169,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.FancyDevs.App_Of_Many_Things:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.FancyDevs.App_Of_Many_Things:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.FancyDevs.App_Of_Many_Things:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.FancyDevs.App_Of_Many_Things:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.FancyDevs.App_Of_Many_Things:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.FancyDevs.App_Of_Many_Things:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.fancydevs.appofmanythings:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.fancydevs.appofmanythings:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.fancydevs.appofmanythings:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.fancydevs.appofmanythings:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.fancydevs.appofmanythings:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.fancydevs.appofmanythings:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4176,47 +4195,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonPanelSideLayout
+          @attr name com.fancydevs.appofmanythings:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listItemLayout
+          @attr name com.fancydevs.appofmanythings:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listLayout
+          @attr name com.fancydevs.appofmanythings:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:multiChoiceItemLayout
+          @attr name com.fancydevs.appofmanythings:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4226,17 +4245,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:showTitle
+          @attr name com.fancydevs.appofmanythings:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:singleChoiceItemLayout
+          @attr name com.fancydevs.appofmanythings:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4246,8 +4265,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.FancyDevs.App_Of_Many_Things:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.fancydevs.appofmanythings:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4263,7 +4282,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4275,11 +4294,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4289,7 +4308,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expanded
+          @attr name com.fancydevs.appofmanythings:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4298,8 +4317,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.FancyDevs.App_Of_Many_Things:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.FancyDevs.App_Of_Many_Things:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.fancydevs.appofmanythings:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.fancydevs.appofmanythings:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4308,7 +4327,7 @@ containing a value of this type.
             0x7f0100ec, 0x7f0100ed
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4318,11 +4337,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:state_collapsed
+          @attr name com.fancydevs.appofmanythings:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4332,7 +4351,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:state_collapsible
+          @attr name com.fancydevs.appofmanythings:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4341,8 +4360,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.FancyDevs.App_Of_Many_Things:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.FancyDevs.App_Of_Many_Things:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.fancydevs.appofmanythings:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.fancydevs.appofmanythings:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4351,7 +4370,7 @@ containing a value of this type.
             0x7f0100ee, 0x7f0100ef
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4367,17 +4386,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_scrollFlags
+          @attr name com.fancydevs.appofmanythings:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_scrollInterpolator
+          @attr name com.fancydevs.appofmanythings:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4387,9 +4406,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.FancyDevs.App_Of_Many_Things:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint com.FancyDevs.App_Of_Many_Things:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode com.FancyDevs.App_Of_Many_Things:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.fancydevs.appofmanythings:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint com.fancydevs.appofmanythings:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode com.fancydevs.appofmanythings:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4406,17 +4425,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:srcCompat
+          @attr name com.fancydevs.appofmanythings:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4427,11 +4446,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tint
+          @attr name com.fancydevs.appofmanythings:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4447,7 +4466,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:tintMode
+          @attr name com.fancydevs.appofmanythings:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4457,9 +4476,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.FancyDevs.App_Of_Many_Things:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.FancyDevs.App_Of_Many_Things:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.FancyDevs.App_Of_Many_Things:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.fancydevs.appofmanythings:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.fancydevs.appofmanythings:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.fancydevs.appofmanythings:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4476,17 +4495,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:tickMark
+          @attr name com.fancydevs.appofmanythings:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4497,11 +4516,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tickMarkTint
+          @attr name com.fancydevs.appofmanythings:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4518,7 +4537,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:tickMarkTintMode
+          @attr name com.fancydevs.appofmanythings:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4596,7 +4615,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.FancyDevs.App_Of_Many_Things:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.fancydevs.appofmanythings:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4611,14 +4630,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAllCaps
+          @attr name com.fancydevs.appofmanythings:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4627,122 +4646,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.FancyDevs.App_Of_Many_Things:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.FancyDevs.App_Of_Many_Things:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.FancyDevs.App_Of_Many_Things:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.FancyDevs.App_Of_Many_Things:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.FancyDevs.App_Of_Many_Things:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.FancyDevs.App_Of_Many_Things:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.FancyDevs.App_Of_Many_Things:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.FancyDevs.App_Of_Many_Things:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.FancyDevs.App_Of_Many_Things:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.FancyDevs.App_Of_Many_Things:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.FancyDevs.App_Of_Many_Things:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.FancyDevs.App_Of_Many_Things:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.FancyDevs.App_Of_Many_Things:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.FancyDevs.App_Of_Many_Things:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.FancyDevs.App_Of_Many_Things:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.FancyDevs.App_Of_Many_Things:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.FancyDevs.App_Of_Many_Things:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.FancyDevs.App_Of_Many_Things:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.FancyDevs.App_Of_Many_Things:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.FancyDevs.App_Of_Many_Things:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.FancyDevs.App_Of_Many_Things:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.FancyDevs.App_Of_Many_Things:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.FancyDevs.App_Of_Many_Things:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.FancyDevs.App_Of_Many_Things:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.FancyDevs.App_Of_Many_Things:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.FancyDevs.App_Of_Many_Things:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.FancyDevs.App_Of_Many_Things:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.FancyDevs.App_Of_Many_Things:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.FancyDevs.App_Of_Many_Things:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.FancyDevs.App_Of_Many_Things:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.FancyDevs.App_Of_Many_Things:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.FancyDevs.App_Of_Many_Things:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.FancyDevs.App_Of_Many_Things:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.FancyDevs.App_Of_Many_Things:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.FancyDevs.App_Of_Many_Things:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.fancydevs.appofmanythings:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.fancydevs.appofmanythings:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.fancydevs.appofmanythings:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.fancydevs.appofmanythings:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.fancydevs.appofmanythings:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.fancydevs.appofmanythings:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.fancydevs.appofmanythings:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.fancydevs.appofmanythings:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.fancydevs.appofmanythings:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.fancydevs.appofmanythings:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.fancydevs.appofmanythings:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.fancydevs.appofmanythings:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.fancydevs.appofmanythings:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.fancydevs.appofmanythings:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.fancydevs.appofmanythings:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.fancydevs.appofmanythings:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.fancydevs.appofmanythings:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.fancydevs.appofmanythings:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.fancydevs.appofmanythings:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.fancydevs.appofmanythings:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.fancydevs.appofmanythings:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.fancydevs.appofmanythings:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.fancydevs.appofmanythings:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.fancydevs.appofmanythings:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.fancydevs.appofmanythings:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.fancydevs.appofmanythings:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.fancydevs.appofmanythings:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.fancydevs.appofmanythings:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.fancydevs.appofmanythings:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.fancydevs.appofmanythings:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.fancydevs.appofmanythings:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.fancydevs.appofmanythings:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.fancydevs.appofmanythings:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.fancydevs.appofmanythings:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.fancydevs.appofmanythings:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.FancyDevs.App_Of_Many_Things:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.FancyDevs.App_Of_Many_Things:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.FancyDevs.App_Of_Many_Things:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.FancyDevs.App_Of_Many_Things:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.FancyDevs.App_Of_Many_Things:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.FancyDevs.App_Of_Many_Things:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.FancyDevs.App_Of_Many_Things:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.FancyDevs.App_Of_Many_Things:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.FancyDevs.App_Of_Many_Things:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.FancyDevs.App_Of_Many_Things:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.FancyDevs.App_Of_Many_Things:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.FancyDevs.App_Of_Many_Things:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.FancyDevs.App_Of_Many_Things:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.FancyDevs.App_Of_Many_Things:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.FancyDevs.App_Of_Many_Things:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.FancyDevs.App_Of_Many_Things:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.FancyDevs.App_Of_Many_Things:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.FancyDevs.App_Of_Many_Things:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.FancyDevs.App_Of_Many_Things:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.FancyDevs.App_Of_Many_Things:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.FancyDevs.App_Of_Many_Things:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.FancyDevs.App_Of_Many_Things:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.FancyDevs.App_Of_Many_Things:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.FancyDevs.App_Of_Many_Things:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.FancyDevs.App_Of_Many_Things:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.FancyDevs.App_Of_Many_Things:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.FancyDevs.App_Of_Many_Things:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.FancyDevs.App_Of_Many_Things:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.FancyDevs.App_Of_Many_Things:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.FancyDevs.App_Of_Many_Things:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.FancyDevs.App_Of_Many_Things:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.FancyDevs.App_Of_Many_Things:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.FancyDevs.App_Of_Many_Things:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.FancyDevs.App_Of_Many_Things:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.FancyDevs.App_Of_Many_Things:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.FancyDevs.App_Of_Many_Things:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.FancyDevs.App_Of_Many_Things:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.FancyDevs.App_Of_Many_Things:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.FancyDevs.App_Of_Many_Things:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.FancyDevs.App_Of_Many_Things:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.FancyDevs.App_Of_Many_Things:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.FancyDevs.App_Of_Many_Things:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.FancyDevs.App_Of_Many_Things:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.FancyDevs.App_Of_Many_Things:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.FancyDevs.App_Of_Many_Things:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.FancyDevs.App_Of_Many_Things:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.FancyDevs.App_Of_Many_Things:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.FancyDevs.App_Of_Many_Things:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.FancyDevs.App_Of_Many_Things:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.FancyDevs.App_Of_Many_Things:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.FancyDevs.App_Of_Many_Things:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.FancyDevs.App_Of_Many_Things:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.FancyDevs.App_Of_Many_Things:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.FancyDevs.App_Of_Many_Things:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.FancyDevs.App_Of_Many_Things:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.FancyDevs.App_Of_Many_Things:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.FancyDevs.App_Of_Many_Things:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.FancyDevs.App_Of_Many_Things:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.FancyDevs.App_Of_Many_Things:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.FancyDevs.App_Of_Many_Things:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.FancyDevs.App_Of_Many_Things:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.FancyDevs.App_Of_Many_Things:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.FancyDevs.App_Of_Many_Things:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.FancyDevs.App_Of_Many_Things:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.FancyDevs.App_Of_Many_Things:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.FancyDevs.App_Of_Many_Things:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.FancyDevs.App_Of_Many_Things:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.FancyDevs.App_Of_Many_Things:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.FancyDevs.App_Of_Many_Things:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.FancyDevs.App_Of_Many_Things:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.FancyDevs.App_Of_Many_Things:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.FancyDevs.App_Of_Many_Things:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.FancyDevs.App_Of_Many_Things:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.FancyDevs.App_Of_Many_Things:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.FancyDevs.App_Of_Many_Things:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.FancyDevs.App_Of_Many_Things:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.FancyDevs.App_Of_Many_Things:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.FancyDevs.App_Of_Many_Things:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.FancyDevs.App_Of_Many_Things:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.fancydevs.appofmanythings:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.fancydevs.appofmanythings:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.fancydevs.appofmanythings:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.fancydevs.appofmanythings:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.fancydevs.appofmanythings:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.fancydevs.appofmanythings:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.fancydevs.appofmanythings:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.fancydevs.appofmanythings:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.fancydevs.appofmanythings:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.fancydevs.appofmanythings:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.fancydevs.appofmanythings:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.fancydevs.appofmanythings:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.fancydevs.appofmanythings:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.fancydevs.appofmanythings:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.fancydevs.appofmanythings:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.fancydevs.appofmanythings:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.fancydevs.appofmanythings:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.fancydevs.appofmanythings:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.fancydevs.appofmanythings:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.fancydevs.appofmanythings:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.fancydevs.appofmanythings:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.fancydevs.appofmanythings:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.fancydevs.appofmanythings:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.fancydevs.appofmanythings:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.fancydevs.appofmanythings:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.fancydevs.appofmanythings:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.fancydevs.appofmanythings:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.fancydevs.appofmanythings:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.fancydevs.appofmanythings:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.fancydevs.appofmanythings:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.fancydevs.appofmanythings:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.fancydevs.appofmanythings:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.fancydevs.appofmanythings:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.fancydevs.appofmanythings:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.fancydevs.appofmanythings:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.fancydevs.appofmanythings:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.fancydevs.appofmanythings:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.fancydevs.appofmanythings:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.fancydevs.appofmanythings:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.fancydevs.appofmanythings:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.fancydevs.appofmanythings:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.fancydevs.appofmanythings:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.fancydevs.appofmanythings:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.fancydevs.appofmanythings:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.fancydevs.appofmanythings:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.fancydevs.appofmanythings:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.fancydevs.appofmanythings:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.fancydevs.appofmanythings:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.fancydevs.appofmanythings:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.fancydevs.appofmanythings:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.fancydevs.appofmanythings:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.fancydevs.appofmanythings:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.fancydevs.appofmanythings:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.fancydevs.appofmanythings:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.fancydevs.appofmanythings:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.fancydevs.appofmanythings:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.fancydevs.appofmanythings:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.fancydevs.appofmanythings:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.fancydevs.appofmanythings:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.fancydevs.appofmanythings:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.fancydevs.appofmanythings:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.fancydevs.appofmanythings:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.fancydevs.appofmanythings:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.fancydevs.appofmanythings:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.fancydevs.appofmanythings:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.fancydevs.appofmanythings:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.fancydevs.appofmanythings:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.fancydevs.appofmanythings:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.fancydevs.appofmanythings:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.fancydevs.appofmanythings:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.fancydevs.appofmanythings:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.fancydevs.appofmanythings:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.fancydevs.appofmanythings:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.fancydevs.appofmanythings:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.fancydevs.appofmanythings:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.fancydevs.appofmanythings:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.fancydevs.appofmanythings:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.fancydevs.appofmanythings:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.fancydevs.appofmanythings:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4893,37 +4912,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarDivider
+          @attr name com.fancydevs.appofmanythings:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarItemBackground
+          @attr name com.fancydevs.appofmanythings:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarPopupTheme
+          @attr name com.fancydevs.appofmanythings:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4943,111 +4962,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarSize
+          @attr name com.fancydevs.appofmanythings:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarSplitStyle
+          @attr name com.fancydevs.appofmanythings:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarStyle
+          @attr name com.fancydevs.appofmanythings:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarTabBarStyle
+          @attr name com.fancydevs.appofmanythings:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarTabStyle
+          @attr name com.fancydevs.appofmanythings:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarTabTextStyle
+          @attr name com.fancydevs.appofmanythings:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarTheme
+          @attr name com.fancydevs.appofmanythings:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionBarWidgetTheme
+          @attr name com.fancydevs.appofmanythings:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionButtonStyle
+          @attr name com.fancydevs.appofmanythings:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionDropDownStyle
+          @attr name com.fancydevs.appofmanythings:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionMenuTextAppearance
+          @attr name com.fancydevs.appofmanythings:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5055,181 +5074,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionMenuTextColor
+          @attr name com.fancydevs.appofmanythings:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeBackground
+          @attr name com.fancydevs.appofmanythings:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeCloseButtonStyle
+          @attr name com.fancydevs.appofmanythings:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeCloseDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeCopyDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeCutDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeFindDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModePasteDrawable
+          @attr name com.fancydevs.appofmanythings:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModePopupWindowStyle
+          @attr name com.fancydevs.appofmanythings:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeSelectAllDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeShareDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeSplitBackground
+          @attr name com.fancydevs.appofmanythings:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeStyle
+          @attr name com.fancydevs.appofmanythings:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionModeWebSearchDrawable
+          @attr name com.fancydevs.appofmanythings:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionOverflowButtonStyle
+          @attr name com.fancydevs.appofmanythings:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionOverflowMenuStyle
+          @attr name com.fancydevs.appofmanythings:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:activityChooserViewStyle
+          @attr name com.fancydevs.appofmanythings:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:alertDialogButtonGroupStyle
+          @attr name com.fancydevs.appofmanythings:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5239,27 +5258,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:alertDialogCenterButtons
+          @attr name com.fancydevs.appofmanythings:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:alertDialogStyle
+          @attr name com.fancydevs.appofmanythings:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:alertDialogTheme
+          @attr name com.fancydevs.appofmanythings:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5275,117 +5294,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:autoCompleteTextViewStyle
+          @attr name com.fancydevs.appofmanythings:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:borderlessButtonStyle
+          @attr name com.fancydevs.appofmanythings:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonBarButtonStyle
+          @attr name com.fancydevs.appofmanythings:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonBarNegativeButtonStyle
+          @attr name com.fancydevs.appofmanythings:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonBarNeutralButtonStyle
+          @attr name com.fancydevs.appofmanythings:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonBarPositiveButtonStyle
+          @attr name com.fancydevs.appofmanythings:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonBarStyle
+          @attr name com.fancydevs.appofmanythings:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonStyle
+          @attr name com.fancydevs.appofmanythings:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonStyleSmall
+          @attr name com.fancydevs.appofmanythings:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:checkboxStyle
+          @attr name com.fancydevs.appofmanythings:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:checkedTextViewStyle
+          @attr name com.fancydevs.appofmanythings:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5396,11 +5415,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorAccent
+          @attr name com.fancydevs.appofmanythings:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5411,11 +5430,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorBackgroundFloating
+          @attr name com.fancydevs.appofmanythings:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5426,11 +5445,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorButtonNormal
+          @attr name com.fancydevs.appofmanythings:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5441,11 +5460,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorControlActivated
+          @attr name com.fancydevs.appofmanythings:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5456,11 +5475,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorControlHighlight
+          @attr name com.fancydevs.appofmanythings:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5471,11 +5490,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorControlNormal
+          @attr name com.fancydevs.appofmanythings:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5486,11 +5505,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorPrimary
+          @attr name com.fancydevs.appofmanythings:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5501,11 +5520,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorPrimaryDark
+          @attr name com.fancydevs.appofmanythings:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5516,21 +5535,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:colorSwitchThumbNormal
+          @attr name com.fancydevs.appofmanythings:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:controlBackground
+          @attr name com.fancydevs.appofmanythings:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5542,51 +5561,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:dialogPreferredPadding
+          @attr name com.fancydevs.appofmanythings:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:dialogTheme
+          @attr name com.fancydevs.appofmanythings:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:dividerHorizontal
+          @attr name com.fancydevs.appofmanythings:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:dividerVertical
+          @attr name com.fancydevs.appofmanythings:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:dropDownListViewStyle
+          @attr name com.fancydevs.appofmanythings:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5598,21 +5617,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:dropdownListPreferredItemHeight
+          @attr name com.fancydevs.appofmanythings:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:editTextBackground
+          @attr name com.fancydevs.appofmanythings:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5620,81 +5639,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:editTextColor
+          @attr name com.fancydevs.appofmanythings:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:editTextStyle
+          @attr name com.fancydevs.appofmanythings:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:homeAsUpIndicator
+          @attr name com.fancydevs.appofmanythings:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:imageButtonStyle
+          @attr name com.fancydevs.appofmanythings:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listChoiceBackgroundIndicator
+          @attr name com.fancydevs.appofmanythings:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listDividerAlertDialog
+          @attr name com.fancydevs.appofmanythings:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listMenuViewStyle
+          @attr name com.fancydevs.appofmanythings:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:listPopupWindowStyle
+          @attr name com.fancydevs.appofmanythings:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5706,11 +5725,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:listPreferredItemHeight
+          @attr name com.fancydevs.appofmanythings:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5722,11 +5741,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:listPreferredItemHeightLarge
+          @attr name com.fancydevs.appofmanythings:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5738,11 +5757,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:listPreferredItemHeightSmall
+          @attr name com.fancydevs.appofmanythings:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5754,11 +5773,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:listPreferredItemPaddingLeft
+          @attr name com.fancydevs.appofmanythings:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5770,31 +5789,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:listPreferredItemPaddingRight
+          @attr name com.fancydevs.appofmanythings:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:panelBackground
+          @attr name com.fancydevs.appofmanythings:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:panelMenuListTheme
+          @attr name com.fancydevs.appofmanythings:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5806,221 +5825,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:panelMenuListWidth
+          @attr name com.fancydevs.appofmanythings:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:popupMenuStyle
+          @attr name com.fancydevs.appofmanythings:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:popupWindowStyle
+          @attr name com.fancydevs.appofmanythings:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:radioButtonStyle
+          @attr name com.fancydevs.appofmanythings:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:ratingBarStyle
+          @attr name com.fancydevs.appofmanythings:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:ratingBarStyleIndicator
+          @attr name com.fancydevs.appofmanythings:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:ratingBarStyleSmall
+          @attr name com.fancydevs.appofmanythings:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:searchViewStyle
+          @attr name com.fancydevs.appofmanythings:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:seekBarStyle
+          @attr name com.fancydevs.appofmanythings:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:selectableItemBackground
+          @attr name com.fancydevs.appofmanythings:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:selectableItemBackgroundBorderless
+          @attr name com.fancydevs.appofmanythings:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:spinnerDropDownItemStyle
+          @attr name com.fancydevs.appofmanythings:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:spinnerStyle
+          @attr name com.fancydevs.appofmanythings:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:switchStyle
+          @attr name com.fancydevs.appofmanythings:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceLargePopupMenu
+          @attr name com.fancydevs.appofmanythings:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceListItem
+          @attr name com.fancydevs.appofmanythings:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceListItemSecondary
+          @attr name com.fancydevs.appofmanythings:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceListItemSmall
+          @attr name com.fancydevs.appofmanythings:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearancePopupMenuHeader
+          @attr name com.fancydevs.appofmanythings:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceSearchResultSubtitle
+          @attr name com.fancydevs.appofmanythings:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceSearchResultTitle
+          @attr name com.fancydevs.appofmanythings:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAppearanceSmallPopupMenu
+          @attr name com.fancydevs.appofmanythings:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6028,11 +6047,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textColorAlertDialogListItem
+          @attr name com.fancydevs.appofmanythings:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6040,31 +6059,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textColorSearchUrl
+          @attr name com.fancydevs.appofmanythings:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:toolbarNavigationButtonStyle
+          @attr name com.fancydevs.appofmanythings:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:toolbarStyle
+          @attr name com.fancydevs.appofmanythings:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6074,11 +6093,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowActionBar
+          @attr name com.fancydevs.appofmanythings:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6088,11 +6107,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowActionBarOverlay
+          @attr name com.fancydevs.appofmanythings:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6102,11 +6121,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowActionModeOverlay
+          @attr name com.fancydevs.appofmanythings:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6121,11 +6140,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowFixedHeightMajor
+          @attr name com.fancydevs.appofmanythings:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6140,11 +6159,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowFixedHeightMinor
+          @attr name com.fancydevs.appofmanythings:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6159,11 +6178,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowFixedWidthMajor
+          @attr name com.fancydevs.appofmanythings:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6178,11 +6197,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowFixedWidthMinor
+          @attr name com.fancydevs.appofmanythings:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6197,11 +6216,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowMinWidthMajor
+          @attr name com.fancydevs.appofmanythings:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6216,11 +6235,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowMinWidthMinor
+          @attr name com.fancydevs.appofmanythings:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6230,7 +6249,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:windowNoTitle
+          @attr name com.fancydevs.appofmanythings:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6239,11 +6258,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.FancyDevs.App_Of_Many_Things:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.FancyDevs.App_Of_Many_Things:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.FancyDevs.App_Of_Many_Things:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.FancyDevs.App_Of_Many_Things:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.fancydevs.appofmanythings:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.fancydevs.appofmanythings:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.fancydevs.appofmanythings:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.fancydevs.appofmanythings:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6256,7 +6275,7 @@ containing a value of this type.
             0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6268,21 +6287,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:itemBackground
+          @attr name com.fancydevs.appofmanythings:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6293,11 +6312,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:itemIconTint
+          @attr name com.fancydevs.appofmanythings:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6308,17 +6327,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:itemTextColor
+          @attr name com.fancydevs.appofmanythings:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:menu
+          @attr name com.fancydevs.appofmanythings:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6327,9 +6346,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.FancyDevs.App_Of_Many_Things:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.FancyDevs.App_Of_Many_Things:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.FancyDevs.App_Of_Many_Things:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.fancydevs.appofmanythings:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.fancydevs.appofmanythings:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.fancydevs.appofmanythings:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6339,7 +6358,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f0, 0x7f0100f1, 0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6349,11 +6368,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:behavior_hideable
+          @attr name com.fancydevs.appofmanythings:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6373,11 +6392,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:behavior_peekHeight
+          @attr name com.fancydevs.appofmanythings:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6387,7 +6406,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:behavior_skipCollapsed
+          @attr name com.fancydevs.appofmanythings:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6396,7 +6415,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.FancyDevs.App_Of_Many_Things:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.fancydevs.appofmanythings:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6404,7 +6423,7 @@ containing a value of this type.
             0x7f0100a4
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6414,7 +6433,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:allowStacking
+          @attr name com.fancydevs.appofmanythings:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6423,22 +6442,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.FancyDevs.App_Of_Many_Things:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.FancyDevs.App_Of_Many_Things:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.FancyDevs.App_Of_Many_Things:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.FancyDevs.App_Of_Many_Things:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.FancyDevs.App_Of_Many_Things:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.FancyDevs.App_Of_Many_Things:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.FancyDevs.App_Of_Many_Things:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.FancyDevs.App_Of_Many_Things:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.FancyDevs.App_Of_Many_Things:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.FancyDevs.App_Of_Many_Things:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.FancyDevs.App_Of_Many_Things:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.FancyDevs.App_Of_Many_Things:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.FancyDevs.App_Of_Many_Things:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.FancyDevs.App_Of_Many_Things:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.FancyDevs.App_Of_Many_Things:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.FancyDevs.App_Of_Many_Things:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.fancydevs.appofmanythings:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.fancydevs.appofmanythings:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.fancydevs.appofmanythings:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.fancydevs.appofmanythings:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.fancydevs.appofmanythings:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.fancydevs.appofmanythings:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.fancydevs.appofmanythings:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.fancydevs.appofmanythings:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.fancydevs.appofmanythings:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.fancydevs.appofmanythings:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.fancydevs.appofmanythings:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.fancydevs.appofmanythings:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.fancydevs.appofmanythings:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.fancydevs.appofmanythings:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.fancydevs.appofmanythings:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.fancydevs.appofmanythings:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6464,7 +6483,7 @@ containing a value of this type.
             0x7f0100fe, 0x7f0100ff, 0x7f010100, 0x7f010101
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6485,21 +6504,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:collapsedTitleGravity
+          @attr name com.fancydevs.appofmanythings:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:collapsedTitleTextAppearance
+          @attr name com.fancydevs.appofmanythings:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6510,11 +6529,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentScrim
+          @attr name com.fancydevs.appofmanythings:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6535,11 +6554,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleGravity
+          @attr name com.fancydevs.appofmanythings:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6551,11 +6570,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleMargin
+          @attr name com.fancydevs.appofmanythings:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6567,11 +6586,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleMarginBottom
+          @attr name com.fancydevs.appofmanythings:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6583,11 +6602,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleMarginEnd
+          @attr name com.fancydevs.appofmanythings:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6599,11 +6618,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleMarginStart
+          @attr name com.fancydevs.appofmanythings:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6615,21 +6634,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleMarginTop
+          @attr name com.fancydevs.appofmanythings:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:expandedTitleTextAppearance
+          @attr name com.fancydevs.appofmanythings:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6639,11 +6658,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:scrimAnimationDuration
+          @attr name com.fancydevs.appofmanythings:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6655,11 +6674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:scrimVisibleHeightTrigger
+          @attr name com.fancydevs.appofmanythings:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6670,11 +6689,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:statusBarScrim
+          @attr name com.fancydevs.appofmanythings:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#title}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6684,11 +6703,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:title
+          @attr name com.fancydevs.appofmanythings:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6698,17 +6717,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleEnabled
+          @attr name com.fancydevs.appofmanythings:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:toolbarId
+          @attr name com.fancydevs.appofmanythings:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6717,8 +6736,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.FancyDevs.App_Of_Many_Things:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.FancyDevs.App_Of_Many_Things:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.fancydevs.appofmanythings:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.fancydevs.appofmanythings:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6727,7 +6746,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010102, 0x7f010103
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6741,11 +6760,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_collapseMode
+          @attr name com.fancydevs.appofmanythings:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6755,7 +6774,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_collapseParallaxMultiplier
+          @attr name com.fancydevs.appofmanythings:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6764,7 +6783,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.FancyDevs.App_Of_Many_Things:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.fancydevs.appofmanythings:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6776,7 +6795,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100a5
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6786,7 +6805,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:alpha
+          @attr name com.fancydevs.appofmanythings:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6808,8 +6827,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.FancyDevs.App_Of_Many_Things:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.FancyDevs.App_Of_Many_Things:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.fancydevs.appofmanythings:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.fancydevs.appofmanythings:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6825,7 +6844,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6836,11 +6855,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonTint
+          @attr name com.fancydevs.appofmanythings:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6856,7 +6875,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonTintMode
+          @attr name com.fancydevs.appofmanythings:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6865,8 +6884,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.FancyDevs.App_Of_Many_Things:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.FancyDevs.App_Of_Many_Things:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.fancydevs.appofmanythings:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.fancydevs.appofmanythings:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6875,23 +6894,23 @@ containing a value of this type.
             0x7f010104, 0x7f010105
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:keylines
+          @attr name com.fancydevs.appofmanythings:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:statusBarBackground
+          @attr name com.fancydevs.appofmanythings:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6901,12 +6920,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.FancyDevs.App_Of_Many_Things:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.FancyDevs.App_Of_Many_Things:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.FancyDevs.App_Of_Many_Things:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.FancyDevs.App_Of_Many_Things:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.FancyDevs.App_Of_Many_Things:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.FancyDevs.App_Of_Many_Things:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.fancydevs.appofmanythings:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.fancydevs.appofmanythings:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.fancydevs.appofmanythings:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.fancydevs.appofmanythings:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.fancydevs.appofmanythings:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.fancydevs.appofmanythings:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6927,17 +6946,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_anchor
+          @attr name com.fancydevs.appofmanythings:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6962,11 +6981,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_anchorGravity
+          @attr name com.fancydevs.appofmanythings:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6976,11 +6995,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_behavior
+          @attr name com.fancydevs.appofmanythings:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6999,11 +7018,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_dodgeInsetEdges
+          @attr name com.fancydevs.appofmanythings:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7021,11 +7040,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_insetEdge
+          @attr name com.fancydevs.appofmanythings:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7035,7 +7054,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:layout_keyline
+          @attr name com.fancydevs.appofmanythings:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7044,9 +7063,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.FancyDevs.App_Of_Many_Things:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.FancyDevs.App_Of_Many_Things:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.FancyDevs.App_Of_Many_Things:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.fancydevs.appofmanythings:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.fancydevs.appofmanythings:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.fancydevs.appofmanythings:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7056,27 +7075,27 @@ containing a value of this type.
             0x7f01010c, 0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:bottomSheetDialogTheme
+          @attr name com.fancydevs.appofmanythings:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:bottomSheetStyle
+          @attr name com.fancydevs.appofmanythings:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7087,7 +7106,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:textColorError
+          @attr name com.fancydevs.appofmanythings:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7096,14 +7115,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.FancyDevs.App_Of_Many_Things:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.FancyDevs.App_Of_Many_Things:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.FancyDevs.App_Of_Many_Things:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.FancyDevs.App_Of_Many_Things:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.FancyDevs.App_Of_Many_Things:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.FancyDevs.App_Of_Many_Things:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.FancyDevs.App_Of_Many_Things:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.FancyDevs.App_Of_Many_Things:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.fancydevs.appofmanythings:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.fancydevs.appofmanythings:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.fancydevs.appofmanythings:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.fancydevs.appofmanythings:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.fancydevs.appofmanythings:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.fancydevs.appofmanythings:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.fancydevs.appofmanythings:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.fancydevs.appofmanythings:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7119,7 +7138,7 @@ containing a value of this type.
             0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7131,11 +7150,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:arrowHeadLength
+          @attr name com.fancydevs.appofmanythings:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7147,11 +7166,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:arrowShaftLength
+          @attr name com.fancydevs.appofmanythings:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7163,11 +7182,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:barLength
+          @attr name com.fancydevs.appofmanythings:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#color}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7178,11 +7197,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:color
+          @attr name com.fancydevs.appofmanythings:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7194,11 +7213,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:drawableSize
+          @attr name com.fancydevs.appofmanythings:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7210,11 +7229,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:gapBetweenBars
+          @attr name com.fancydevs.appofmanythings:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7224,11 +7243,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:spinBars
+          @attr name com.fancydevs.appofmanythings:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7240,7 +7259,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:thickness
+          @attr name com.fancydevs.appofmanythings:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7249,14 +7268,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.FancyDevs.App_Of_Many_Things:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.FancyDevs.App_Of_Many_Things:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.FancyDevs.App_Of_Many_Things:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.FancyDevs.App_Of_Many_Things:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.FancyDevs.App_Of_Many_Things:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.FancyDevs.App_Of_Many_Things:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.FancyDevs.App_Of_Many_Things:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.fancydevs.appofmanythings:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.fancydevs.appofmanythings:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.fancydevs.appofmanythings:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.fancydevs.appofmanythings:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.fancydevs.appofmanythings:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.fancydevs.appofmanythings:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.fancydevs.appofmanythings:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7272,7 +7291,7 @@ containing a value of this type.
             0x7f010110, 0x7f010111, 0x7f010112, 0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7283,11 +7302,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundTint
+          @attr name com.fancydevs.appofmanythings:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7303,11 +7322,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundTintMode
+          @attr name com.fancydevs.appofmanythings:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7319,11 +7338,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:borderWidth
+          @attr name com.fancydevs.appofmanythings:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7335,11 +7354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7353,11 +7372,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:fabSize
+          @attr name com.fancydevs.appofmanythings:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7369,11 +7388,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:pressedTranslationZ
+          @attr name com.fancydevs.appofmanythings:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7384,11 +7403,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:rippleColor
+          @attr name com.fancydevs.appofmanythings:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7398,7 +7417,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:useCompatPadding
+          @attr name com.fancydevs.appofmanythings:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7407,7 +7426,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.FancyDevs.App_Of_Many_Things:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.fancydevs.appofmanythings:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7415,7 +7434,7 @@ containing a value of this type.
             0x7f010114
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7425,7 +7444,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:behavior_autoHide
+          @attr name com.fancydevs.appofmanythings:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7436,7 +7455,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.FancyDevs.App_Of_Many_Things:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.fancydevs.appofmanythings:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7458,7 +7477,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7468,7 +7487,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:foregroundInsidePadding
+          @attr name com.fancydevs.appofmanythings:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7482,10 +7501,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.FancyDevs.App_Of_Many_Things:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.FancyDevs.App_Of_Many_Things:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.FancyDevs.App_Of_Many_Things:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.FancyDevs.App_Of_Many_Things:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.fancydevs.appofmanythings:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.fancydevs.appofmanythings:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.fancydevs.appofmanythings:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.fancydevs.appofmanythings:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7533,17 +7552,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:divider
+          @attr name com.fancydevs.appofmanythings:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7555,11 +7574,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:dividerPadding
+          @attr name com.fancydevs.appofmanythings:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7569,11 +7588,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:measureWithLargestChild
+          @attr name com.fancydevs.appofmanythings:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7588,7 +7607,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:showDividers
+          @attr name com.fancydevs.appofmanythings:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7727,9 +7746,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.FancyDevs.App_Of_Many_Things:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.FancyDevs.App_Of_Many_Things:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.FancyDevs.App_Of_Many_Things:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.fancydevs.appofmanythings:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.fancydevs.appofmanythings:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.fancydevs.appofmanythings:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7743,7 +7762,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.FancyDevs.App_Of_Many_Things:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.fancydevs.appofmanythings:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7771,17 +7790,17 @@ containing a value of this type.
             0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:actionLayout
+          @attr name com.fancydevs.appofmanythings:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7791,11 +7810,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:actionProviderClass
+          @attr name com.fancydevs.appofmanythings:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7805,7 +7824,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:actionViewClass
+          @attr name com.fancydevs.appofmanythings:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7887,7 +7906,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7903,7 +7922,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:showAsAction
+          @attr name com.fancydevs.appofmanythings:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7919,8 +7938,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.FancyDevs.App_Of_Many_Things:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.FancyDevs.App_Of_Many_Things:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.fancydevs.appofmanythings:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.fancydevs.appofmanythings:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7980,7 +7999,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7990,17 +8009,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:preserveIconSpacing
+          @attr name com.fancydevs.appofmanythings:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:subMenuArrow
+          @attr name com.fancydevs.appofmanythings:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a MvxBinding.
@@ -8009,8 +8028,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxBinding_MvxBind com.FancyDevs.App_Of_Many_Things:MvxBind}</code></td><td></td></tr>
-           <tr><td><code>{@link #MvxBinding_MvxLang com.FancyDevs.App_Of_Many_Things:MvxLang}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxBinding_MvxBind com.fancydevs.appofmanythings:MvxBind}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxBinding_MvxLang com.fancydevs.appofmanythings:MvxLang}</code></td><td></td></tr>
            </table>
            @see #MvxBinding_MvxBind
            @see #MvxBinding_MvxLang
@@ -8019,7 +8038,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01013d, 0x7f01013e
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxBind}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxBind}
           attribute's value can be found in the {@link #MvxBinding} array.
 
 
@@ -8029,11 +8048,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxBind
+          @attr name com.fancydevs.appofmanythings:MvxBind
         */
         public static final int MvxBinding_MvxBind = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxLang}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxLang}
           attribute's value can be found in the {@link #MvxBinding} array.
 
 
@@ -8043,7 +8062,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxLang
+          @attr name com.fancydevs.appofmanythings:MvxLang
         */
         public static final int MvxBinding_MvxLang = 1;
         /** Attributes that can be used with a MvxControl.
@@ -8052,7 +8071,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxControl_MvxTemplate com.FancyDevs.App_Of_Many_Things:MvxTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxControl_MvxTemplate com.fancydevs.appofmanythings:MvxTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxControl_MvxTemplate
          */
@@ -8060,7 +8079,7 @@ containing a value of this type.
             0x7f01013f
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxTemplate}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxTemplate}
           attribute's value can be found in the {@link #MvxControl} array.
 
 
@@ -8070,7 +8089,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxTemplate
+          @attr name com.fancydevs.appofmanythings:MvxTemplate
         */
         public static final int MvxControl_MvxTemplate = 0;
         /** Attributes that can be used with a MvxExpandableListView.
@@ -8079,7 +8098,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxExpandableListView_MvxGroupItemTemplate com.FancyDevs.App_Of_Many_Things:MvxGroupItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxExpandableListView_MvxGroupItemTemplate com.fancydevs.appofmanythings:MvxGroupItemTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxExpandableListView_MvxGroupItemTemplate
          */
@@ -8087,7 +8106,7 @@ containing a value of this type.
             0x7f010142
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxGroupItemTemplate}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxGroupItemTemplate}
           attribute's value can be found in the {@link #MvxExpandableListView} array.
 
 
@@ -8097,7 +8116,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxGroupItemTemplate
+          @attr name com.fancydevs.appofmanythings:MvxGroupItemTemplate
         */
         public static final int MvxExpandableListView_MvxGroupItemTemplate = 0;
         /** Attributes that can be used with a MvxImageView.
@@ -8106,7 +8125,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxImageView_MvxSource com.FancyDevs.App_Of_Many_Things:MvxSource}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxImageView_MvxSource com.fancydevs.appofmanythings:MvxSource}</code></td><td></td></tr>
            </table>
            @see #MvxImageView_MvxSource
          */
@@ -8114,7 +8133,7 @@ containing a value of this type.
             0x7f010143
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxSource}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxSource}
           attribute's value can be found in the {@link #MvxImageView} array.
 
 
@@ -8124,7 +8143,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxSource
+          @attr name com.fancydevs.appofmanythings:MvxSource
         */
         public static final int MvxImageView_MvxSource = 0;
         /** Attributes that can be used with a MvxListView.
@@ -8133,8 +8152,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxListView_MvxDropDownItemTemplate com.FancyDevs.App_Of_Many_Things:MvxDropDownItemTemplate}</code></td><td></td></tr>
-           <tr><td><code>{@link #MvxListView_MvxItemTemplate com.FancyDevs.App_Of_Many_Things:MvxItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxListView_MvxDropDownItemTemplate com.fancydevs.appofmanythings:MvxDropDownItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxListView_MvxItemTemplate com.fancydevs.appofmanythings:MvxItemTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxListView_MvxDropDownItemTemplate
            @see #MvxListView_MvxItemTemplate
@@ -8143,7 +8162,7 @@ containing a value of this type.
             0x7f010140, 0x7f010141
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxDropDownItemTemplate}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxDropDownItemTemplate}
           attribute's value can be found in the {@link #MvxListView} array.
 
 
@@ -8153,11 +8172,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxDropDownItemTemplate
+          @attr name com.fancydevs.appofmanythings:MvxDropDownItemTemplate
         */
         public static final int MvxListView_MvxDropDownItemTemplate = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#MvxItemTemplate}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#MvxItemTemplate}
           attribute's value can be found in the {@link #MvxListView} array.
 
 
@@ -8167,7 +8186,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:MvxItemTemplate
+          @attr name com.fancydevs.appofmanythings:MvxItemTemplate
         */
         public static final int MvxListView_MvxItemTemplate = 0;
         /** Attributes that can be used with a NavigationView.
@@ -8179,13 +8198,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.FancyDevs.App_Of_Many_Things:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.FancyDevs.App_Of_Many_Things:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.FancyDevs.App_Of_Many_Things:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.FancyDevs.App_Of_Many_Things:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.FancyDevs.App_Of_Many_Things:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.FancyDevs.App_Of_Many_Things:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.fancydevs.appofmanythings:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.fancydevs.appofmanythings:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.fancydevs.appofmanythings:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.fancydevs.appofmanythings:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.fancydevs.appofmanythings:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.fancydevs.appofmanythings:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8222,7 +8241,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8234,31 +8253,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:headerLayout
+          @attr name com.fancydevs.appofmanythings:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:itemBackground
+          @attr name com.fancydevs.appofmanythings:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8269,21 +8288,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:itemIconTint
+          @attr name com.fancydevs.appofmanythings:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:itemTextAppearance
+          @attr name com.fancydevs.appofmanythings:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8294,17 +8313,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:itemTextColor
+          @attr name com.fancydevs.appofmanythings:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:menu
+          @attr name com.fancydevs.appofmanythings:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8315,7 +8334,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.FancyDevs.App_Of_Many_Things:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.fancydevs.appofmanythings:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8337,7 +8356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8347,7 +8366,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:overlapAnchor
+          @attr name com.fancydevs.appofmanythings:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8356,7 +8375,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.FancyDevs.App_Of_Many_Things:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.fancydevs.appofmanythings:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8364,7 +8383,7 @@ containing a value of this type.
             0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8374,7 +8393,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:state_above_anchor
+          @attr name com.fancydevs.appofmanythings:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8383,8 +8402,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.FancyDevs.App_Of_Many_Things:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.FancyDevs.App_Of_Many_Things:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.fancydevs.appofmanythings:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.fancydevs.appofmanythings:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8393,7 +8412,7 @@ containing a value of this type.
             0x7f0100bb, 0x7f0100bc
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8405,11 +8424,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:paddingBottomNoButtons
+          @attr name com.fancydevs.appofmanythings:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8421,7 +8440,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:paddingTopNoTitle
+          @attr name com.fancydevs.appofmanythings:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8432,10 +8451,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.FancyDevs.App_Of_Many_Things:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.FancyDevs.App_Of_Many_Things:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.FancyDevs.App_Of_Many_Things:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.FancyDevs.App_Of_Many_Things:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.fancydevs.appofmanythings:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.fancydevs.appofmanythings:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.fancydevs.appofmanythings:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.fancydevs.appofmanythings:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8461,7 +8480,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8471,11 +8490,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:layoutManager
+          @attr name com.fancydevs.appofmanythings:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8485,11 +8504,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:reverseLayout
+          @attr name com.fancydevs.appofmanythings:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8499,11 +8518,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:spanCount
+          @attr name com.fancydevs.appofmanythings:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8513,7 +8532,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:stackFromEnd
+          @attr name com.fancydevs.appofmanythings:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8522,7 +8541,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.FancyDevs.App_Of_Many_Things:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.fancydevs.appofmanythings:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8530,7 +8549,7 @@ containing a value of this type.
             0x7f01011c
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8538,7 +8557,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:insetForeground
+          @attr name com.fancydevs.appofmanythings:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8547,7 +8566,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.FancyDevs.App_Of_Many_Things:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.fancydevs.appofmanythings:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8555,7 +8574,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8567,7 +8586,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:behavior_overlapTop
+          @attr name com.fancydevs.appofmanythings:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8580,19 +8599,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.FancyDevs.App_Of_Many_Things:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.FancyDevs.App_Of_Many_Things:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.FancyDevs.App_Of_Many_Things:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.FancyDevs.App_Of_Many_Things:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.FancyDevs.App_Of_Many_Things:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.FancyDevs.App_Of_Many_Things:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.FancyDevs.App_Of_Many_Things:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.FancyDevs.App_Of_Many_Things:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.FancyDevs.App_Of_Many_Things:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.FancyDevs.App_Of_Many_Things:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.FancyDevs.App_Of_Many_Things:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.FancyDevs.App_Of_Many_Things:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.FancyDevs.App_Of_Many_Things:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.fancydevs.appofmanythings:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.fancydevs.appofmanythings:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.fancydevs.appofmanythings:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.fancydevs.appofmanythings:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.fancydevs.appofmanythings:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.fancydevs.appofmanythings:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.fancydevs.appofmanythings:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.fancydevs.appofmanythings:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.fancydevs.appofmanythings:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.fancydevs.appofmanythings:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.fancydevs.appofmanythings:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.fancydevs.appofmanythings:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.fancydevs.appofmanythings:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8644,27 +8663,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:closeIcon
+          @attr name com.fancydevs.appofmanythings:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:commitIcon
+          @attr name com.fancydevs.appofmanythings:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8674,21 +8693,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:defaultQueryHint
+          @attr name com.fancydevs.appofmanythings:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:goIcon
+          @attr name com.fancydevs.appofmanythings:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8698,31 +8717,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:iconifiedByDefault
+          @attr name com.fancydevs.appofmanythings:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:layout
+          @attr name com.fancydevs.appofmanythings:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:queryBackground
+          @attr name com.fancydevs.appofmanythings:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8732,57 +8751,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:queryHint
+          @attr name com.fancydevs.appofmanythings:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:searchHintIcon
+          @attr name com.fancydevs.appofmanythings:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:searchIcon
+          @attr name com.fancydevs.appofmanythings:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:submitBackground
+          @attr name com.fancydevs.appofmanythings:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:suggestionRowLayout
+          @attr name com.fancydevs.appofmanythings:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:voiceIcon
+          @attr name com.fancydevs.appofmanythings:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8792,8 +8811,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.FancyDevs.App_Of_Many_Things:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.FancyDevs.App_Of_Many_Things:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.fancydevs.appofmanythings:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.fancydevs.appofmanythings:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8809,7 +8828,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8821,11 +8840,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:elevation
+          @attr name com.fancydevs.appofmanythings:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8837,7 +8856,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:maxActionInlineWidth
+          @attr name com.fancydevs.appofmanythings:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8850,7 +8869,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.FancyDevs.App_Of_Many_Things:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.fancydevs.appofmanythings:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8887,13 +8906,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:popupTheme
+          @attr name com.fancydevs.appofmanythings:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8905,17 +8924,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.FancyDevs.App_Of_Many_Things:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.FancyDevs.App_Of_Many_Things:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.FancyDevs.App_Of_Many_Things:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.FancyDevs.App_Of_Many_Things:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.FancyDevs.App_Of_Many_Things:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.FancyDevs.App_Of_Many_Things:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.FancyDevs.App_Of_Many_Things:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.FancyDevs.App_Of_Many_Things:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.FancyDevs.App_Of_Many_Things:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.FancyDevs.App_Of_Many_Things:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.FancyDevs.App_Of_Many_Things:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.fancydevs.appofmanythings:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.fancydevs.appofmanythings:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.fancydevs.appofmanythings:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.fancydevs.appofmanythings:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.fancydevs.appofmanythings:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.fancydevs.appofmanythings:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.fancydevs.appofmanythings:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.fancydevs.appofmanythings:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.fancydevs.appofmanythings:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.fancydevs.appofmanythings:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.fancydevs.appofmanythings:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8957,7 +8976,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8967,11 +8986,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:showText
+          @attr name com.fancydevs.appofmanythings:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8981,11 +9000,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:splitTrack
+          @attr name com.fancydevs.appofmanythings:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8997,11 +9016,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:switchMinWidth
+          @attr name com.fancydevs.appofmanythings:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9013,21 +9032,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:switchPadding
+          @attr name com.fancydevs.appofmanythings:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:switchTextAppearance
+          @attr name com.fancydevs.appofmanythings:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9039,11 +9058,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:thumbTextPadding
+          @attr name com.fancydevs.appofmanythings:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9054,11 +9073,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:thumbTint
+          @attr name com.fancydevs.appofmanythings:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9075,21 +9094,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:thumbTintMode
+          @attr name com.fancydevs.appofmanythings:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#track}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:track
+          @attr name com.fancydevs.appofmanythings:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9100,11 +9119,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:trackTint
+          @attr name com.fancydevs.appofmanythings:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9121,7 +9140,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:trackTintMode
+          @attr name com.fancydevs.appofmanythings:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9165,22 +9184,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.FancyDevs.App_Of_Many_Things:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.FancyDevs.App_Of_Many_Things:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.FancyDevs.App_Of_Many_Things:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.FancyDevs.App_Of_Many_Things:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.FancyDevs.App_Of_Many_Things:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.FancyDevs.App_Of_Many_Things:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.FancyDevs.App_Of_Many_Things:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.FancyDevs.App_Of_Many_Things:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.FancyDevs.App_Of_Many_Things:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.FancyDevs.App_Of_Many_Things:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.FancyDevs.App_Of_Many_Things:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.FancyDevs.App_Of_Many_Things:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.FancyDevs.App_Of_Many_Things:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.FancyDevs.App_Of_Many_Things:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.FancyDevs.App_Of_Many_Things:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.FancyDevs.App_Of_Many_Things:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.fancydevs.appofmanythings:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.fancydevs.appofmanythings:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.fancydevs.appofmanythings:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.fancydevs.appofmanythings:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.fancydevs.appofmanythings:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.fancydevs.appofmanythings:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.fancydevs.appofmanythings:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.fancydevs.appofmanythings:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.fancydevs.appofmanythings:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.fancydevs.appofmanythings:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.fancydevs.appofmanythings:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.fancydevs.appofmanythings:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.fancydevs.appofmanythings:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.fancydevs.appofmanythings:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.fancydevs.appofmanythings:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.fancydevs.appofmanythings:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9206,17 +9225,17 @@ containing a value of this type.
             0x7f01012b, 0x7f01012c, 0x7f01012d, 0x7f01012e
         };
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:tabBackground
+          @attr name com.fancydevs.appofmanythings:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9228,11 +9247,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabContentStart
+          @attr name com.fancydevs.appofmanythings:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9245,11 +9264,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:tabGravity
+          @attr name com.fancydevs.appofmanythings:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9260,11 +9279,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabIndicatorColor
+          @attr name com.fancydevs.appofmanythings:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9276,11 +9295,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabIndicatorHeight
+          @attr name com.fancydevs.appofmanythings:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9292,11 +9311,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabMaxWidth
+          @attr name com.fancydevs.appofmanythings:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9308,11 +9327,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabMinWidth
+          @attr name com.fancydevs.appofmanythings:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9325,11 +9344,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:tabMode
+          @attr name com.fancydevs.appofmanythings:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9341,11 +9360,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabPadding
+          @attr name com.fancydevs.appofmanythings:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9357,11 +9376,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabPaddingBottom
+          @attr name com.fancydevs.appofmanythings:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9373,11 +9392,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabPaddingEnd
+          @attr name com.fancydevs.appofmanythings:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9389,11 +9408,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabPaddingStart
+          @attr name com.fancydevs.appofmanythings:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9405,11 +9424,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabPaddingTop
+          @attr name com.fancydevs.appofmanythings:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9420,21 +9439,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabSelectedTextColor
+          @attr name com.fancydevs.appofmanythings:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:tabTextAppearance
+          @attr name com.fancydevs.appofmanythings:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9445,7 +9464,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:tabTextColor
+          @attr name com.fancydevs.appofmanythings:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9463,7 +9482,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.FancyDevs.App_Of_Many_Things:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.fancydevs.appofmanythings:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9536,14 +9555,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:textAllCaps
+          @attr name com.fancydevs.appofmanythings:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9554,20 +9573,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.FancyDevs.App_Of_Many_Things:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.FancyDevs.App_Of_Many_Things:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.FancyDevs.App_Of_Many_Things:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.FancyDevs.App_Of_Many_Things:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.FancyDevs.App_Of_Many_Things:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.FancyDevs.App_Of_Many_Things:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.FancyDevs.App_Of_Many_Things:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.FancyDevs.App_Of_Many_Things:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.FancyDevs.App_Of_Many_Things:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.FancyDevs.App_Of_Many_Things:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.FancyDevs.App_Of_Many_Things:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.FancyDevs.App_Of_Many_Things:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.FancyDevs.App_Of_Many_Things:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.FancyDevs.App_Of_Many_Things:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.fancydevs.appofmanythings:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.fancydevs.appofmanythings:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.fancydevs.appofmanythings:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.fancydevs.appofmanythings:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.fancydevs.appofmanythings:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.fancydevs.appofmanythings:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.fancydevs.appofmanythings:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.fancydevs.appofmanythings:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.fancydevs.appofmanythings:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.fancydevs.appofmanythings:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.fancydevs.appofmanythings:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.fancydevs.appofmanythings:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.fancydevs.appofmanythings:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.fancydevs.appofmanythings:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9605,7 +9624,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9615,11 +9634,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:counterEnabled
+          @attr name com.fancydevs.appofmanythings:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9629,31 +9648,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:counterMaxLength
+          @attr name com.fancydevs.appofmanythings:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:counterOverflowTextAppearance
+          @attr name com.fancydevs.appofmanythings:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:counterTextAppearance
+          @attr name com.fancydevs.appofmanythings:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9663,21 +9682,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:errorEnabled
+          @attr name com.fancydevs.appofmanythings:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:errorTextAppearance
+          @attr name com.fancydevs.appofmanythings:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9687,11 +9706,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:hintAnimationEnabled
+          @attr name com.fancydevs.appofmanythings:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9701,21 +9720,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:hintEnabled
+          @attr name com.fancydevs.appofmanythings:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:hintTextAppearance
+          @attr name com.fancydevs.appofmanythings:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9725,21 +9744,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:passwordToggleContentDescription
+          @attr name com.fancydevs.appofmanythings:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:passwordToggleDrawable
+          @attr name com.fancydevs.appofmanythings:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9749,11 +9768,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:passwordToggleEnabled
+          @attr name com.fancydevs.appofmanythings:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9764,11 +9783,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:passwordToggleTint
+          @attr name com.fancydevs.appofmanythings:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9784,7 +9803,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:passwordToggleTintMode
+          @attr name com.fancydevs.appofmanythings:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9795,33 +9814,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.FancyDevs.App_Of_Many_Things:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.FancyDevs.App_Of_Many_Things:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.FancyDevs.App_Of_Many_Things:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.FancyDevs.App_Of_Many_Things:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.FancyDevs.App_Of_Many_Things:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.FancyDevs.App_Of_Many_Things:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.FancyDevs.App_Of_Many_Things:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.FancyDevs.App_Of_Many_Things:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.FancyDevs.App_Of_Many_Things:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.FancyDevs.App_Of_Many_Things:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.FancyDevs.App_Of_Many_Things:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.FancyDevs.App_Of_Many_Things:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.FancyDevs.App_Of_Many_Things:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.FancyDevs.App_Of_Many_Things:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.FancyDevs.App_Of_Many_Things:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.FancyDevs.App_Of_Many_Things:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.FancyDevs.App_Of_Many_Things:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.FancyDevs.App_Of_Many_Things:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.FancyDevs.App_Of_Many_Things:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.FancyDevs.App_Of_Many_Things:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.FancyDevs.App_Of_Many_Things:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.FancyDevs.App_Of_Many_Things:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.FancyDevs.App_Of_Many_Things:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.FancyDevs.App_Of_Many_Things:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.FancyDevs.App_Of_Many_Things:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.FancyDevs.App_Of_Many_Things:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.FancyDevs.App_Of_Many_Things:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.fancydevs.appofmanythings:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.fancydevs.appofmanythings:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.fancydevs.appofmanythings:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.fancydevs.appofmanythings:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.fancydevs.appofmanythings:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.fancydevs.appofmanythings:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.fancydevs.appofmanythings:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.fancydevs.appofmanythings:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.fancydevs.appofmanythings:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.fancydevs.appofmanythings:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.fancydevs.appofmanythings:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.fancydevs.appofmanythings:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.fancydevs.appofmanythings:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.fancydevs.appofmanythings:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.fancydevs.appofmanythings:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.fancydevs.appofmanythings:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.fancydevs.appofmanythings:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.fancydevs.appofmanythings:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.fancydevs.appofmanythings:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.fancydevs.appofmanythings:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.fancydevs.appofmanythings:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.fancydevs.appofmanythings:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.fancydevs.appofmanythings:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.fancydevs.appofmanythings:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.fancydevs.appofmanythings:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.fancydevs.appofmanythings:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.fancydevs.appofmanythings:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9876,7 +9895,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9889,11 +9908,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:buttonGravity
+          @attr name com.fancydevs.appofmanythings:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9903,21 +9922,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:collapseContentDescription
+          @attr name com.fancydevs.appofmanythings:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:collapseIcon
+          @attr name com.fancydevs.appofmanythings:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9929,11 +9948,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetEnd
+          @attr name com.fancydevs.appofmanythings:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9945,11 +9964,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetEndWithActions
+          @attr name com.fancydevs.appofmanythings:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9961,11 +9980,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetLeft
+          @attr name com.fancydevs.appofmanythings:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9977,11 +9996,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetRight
+          @attr name com.fancydevs.appofmanythings:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9993,11 +10012,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetStart
+          @attr name com.fancydevs.appofmanythings:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10009,21 +10028,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:contentInsetStartWithNavigation
+          @attr name com.fancydevs.appofmanythings:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:logo
+          @attr name com.fancydevs.appofmanythings:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10033,11 +10052,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:logoDescription
+          @attr name com.fancydevs.appofmanythings:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10049,11 +10068,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:maxButtonHeight
+          @attr name com.fancydevs.appofmanythings:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10063,31 +10082,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:navigationContentDescription
+          @attr name com.fancydevs.appofmanythings:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:navigationIcon
+          @attr name com.fancydevs.appofmanythings:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:popupTheme
+          @attr name com.fancydevs.appofmanythings:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10097,21 +10116,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitle
+          @attr name com.fancydevs.appofmanythings:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitleTextAppearance
+          @attr name com.fancydevs.appofmanythings:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10122,11 +10141,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:subtitleTextColor
+          @attr name com.fancydevs.appofmanythings:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#title}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10136,11 +10155,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:title
+          @attr name com.fancydevs.appofmanythings:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10152,11 +10171,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMargin
+          @attr name com.fancydevs.appofmanythings:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10168,11 +10187,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMarginBottom
+          @attr name com.fancydevs.appofmanythings:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10184,11 +10203,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMarginEnd
+          @attr name com.fancydevs.appofmanythings:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10200,11 +10219,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMarginStart
+          @attr name com.fancydevs.appofmanythings:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10216,11 +10235,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMarginTop
+          @attr name com.fancydevs.appofmanythings:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10232,21 +10251,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleMargins
+          @attr name com.fancydevs.appofmanythings:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:titleTextAppearance
+          @attr name com.fancydevs.appofmanythings:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10257,7 +10276,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:titleTextColor
+          @attr name com.fancydevs.appofmanythings:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10268,9 +10287,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.FancyDevs.App_Of_Many_Things:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.FancyDevs.App_Of_Many_Things:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.FancyDevs.App_Of_Many_Things:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.fancydevs.appofmanythings:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.fancydevs.appofmanythings:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.fancydevs.appofmanythings:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10295,7 +10314,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10307,11 +10326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:paddingEnd
+          @attr name com.fancydevs.appofmanythings:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10323,17 +10342,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:paddingStart
+          @attr name com.fancydevs.appofmanythings:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.FancyDevs.App_Of_Many_Things:theme
+          @attr name com.fancydevs.appofmanythings:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10343,8 +10362,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.FancyDevs.App_Of_Many_Things:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.FancyDevs.App_Of_Many_Things:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.fancydevs.appofmanythings:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.fancydevs.appofmanythings:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10360,7 +10379,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10371,11 +10390,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundTint
+          @attr name com.fancydevs.appofmanythings:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.FancyDevs.App_Of_Many_Things.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.fancydevs.appofmanythings.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10391,7 +10410,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.FancyDevs.App_Of_Many_Things:backgroundTintMode
+          @attr name com.fancydevs.appofmanythings:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

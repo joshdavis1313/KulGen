@@ -23,27 +23,25 @@ namespace KulGen.Droid.Views.CombatTracker
 		protected override int LayoutResId => Resource.Layout.combat_tracker_layout;
 
 		MvxListView combatantList;
+		FloatingActionButton fabClear;
+		FloatingActionButton fabAdd;
 
 		protected override void OnInitializeComponents ()
 		{
 			base.OnInitializeComponents ();
 
 			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
-			var fab = FindViewById<FloatingActionButton> (Resource.Id.fab_add);
+			fabAdd = FindViewById<FloatingActionButton> (Resource.Id.fab_add);
+			fabClear = FindViewById<FloatingActionButton> (Resource.Id.fab_clear_checkboxes);
 			combatantList = FindViewById<MvxListView> (Resource.Id.list_combat);
 
-			combatantList.Adapter = new CombatantAdapter (this, BindingContext as IMvxAndroidBindingContext);
-
-			SetActionBar (toolbar);
-			ActionBar.Title = "Combat Tracker";
-
-			fab.Click += AddCharacter;
+			SetupActionBar ("Combat Tracker");
 		}
 
 		protected override void SetupBindings (MvvmCross.Binding.BindingContext.MvxFluentBindingDescriptionSet<CombatTrackerView, CombatTrackerViewModel> bindingSet)
 		{
 			bindingSet.Bind (combatantList).For (x => x.ItemsSource).To (vm => vm.CombatantList);
-			bindingSet.Bind (combatantList).For (combatantList.ItemClickEvent ()).To (vm => vm.EditItem);
+			bindingSet.Bind (fabClear).For ("Visibility").To (vm => vm.IsCheckBoxInitiative).WithConversion ("Visibility");
 			base.SetupBindings (bindingSet);
 		}
 
@@ -53,26 +51,46 @@ namespace KulGen.Droid.Views.CombatTracker
 			return base.OnCreateOptionsMenu (menu);
 		}
 
+		protected override void OnResume ()
+		{
+			fabAdd.Click += AddCombatant;
+			fabClear.Click += ClearCheckboxes;
+			ViewModel.UpdateCombatantList.Execute (null);
+			base.OnResume ();
+		}
+
+		protected override void OnPause()
+		{
+			fabAdd.Click -= AddCombatant;
+			fabClear.Click -= ClearCheckboxes;
+			base.OnPause ();
+		}
+
 		public override bool OnOptionsItemSelected (IMenuItem item)
 		{
 			switch (item.ItemId) {
 				case Resource.Id.menu_clear:
 					ViewModel.ClearCombatants.Execute (null);
 					break;
+				case Resource.Id.menu_options:
+					ViewModel.GoToOptions.Execute (null);
+					break;
+				case Resource.Id.menu_help:
+					ViewModel.GoToHelp.Execute (null);
+					break;
 			}
 
 			return base.OnOptionsItemSelected (item);
 		}
 
-		void AddCharacter (object sender, EventArgs e)
+		void AddCombatant (object sender, EventArgs e)
 		{
 			ViewModel.AddCombatItem.Execute (null);
 		}
 
-		protected override void OnResume ()
+		void ClearCheckboxes (object sender, EventArgs e)
 		{
-			ViewModel.UpdateCombatantList.Execute (null);
-			base.OnResume ();
+			ViewModel.ClearCheckBoxes.Execute (null);
 		}
 	}
 }

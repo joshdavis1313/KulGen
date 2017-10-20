@@ -27,7 +27,7 @@ public abstract class MvxEventSourcePreferenceFragment
 	}
 
 
-	public MvxEventSourcePreferenceFragment () throws java.lang.Throwable
+	public MvxEventSourcePreferenceFragment ()
 	{
 		super ();
 		if (getClass () == MvxEventSourcePreferenceFragment.class)

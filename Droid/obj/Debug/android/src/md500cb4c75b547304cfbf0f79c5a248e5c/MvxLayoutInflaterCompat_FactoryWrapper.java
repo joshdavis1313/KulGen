@@ -17,7 +17,7 @@ public class MvxLayoutInflaterCompat_FactoryWrapper
 	}
 
 
-	public MvxLayoutInflaterCompat_FactoryWrapper () throws java.lang.Throwable
+	public MvxLayoutInflaterCompat_FactoryWrapper ()
 	{
 		super ();
 		if (getClass () == MvxLayoutInflaterCompat_FactoryWrapper.class)

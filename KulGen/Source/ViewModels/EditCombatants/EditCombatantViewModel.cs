@@ -22,6 +22,7 @@ namespace KulGen.ViewModels.EditCombatants
 
 		int combatantId;
 		int health;
+		bool hasGone;
 
 		public EditCombatantViewModel (ILocalSettings settings) : base (settings) { }
 
@@ -37,6 +38,7 @@ namespace KulGen.ViewModels.EditCombatants
 				health = nav.Health;
 				ArmorClass.Value = nav.ArmorClass;
 				PassivePerception.Value = nav.PassivePerception;
+				hasGone = nav.HasGone;
 			}
 		}
 
@@ -51,7 +53,8 @@ namespace KulGen.ViewModels.EditCombatants
 				Health = health,
 				MaxHealth = MaxHealth.Value,
 				ArmorClass = ArmorClass.Value,
-				PassivePerception = PassivePerception.Value
+				PassivePerception = PassivePerception.Value,
+				HasGone = hasGone
 			};
 
 			settings.SQLiteDatabase.Update (combatant);
@@ -79,6 +82,7 @@ namespace KulGen.ViewModels.EditCombatants
 			public int Health { get; set; }
 			public int ArmorClass { get; set; }
 			public int PassivePerception { get; set; }
+			public bool HasGone { get; set; }
 		}
 	}
 }

@@ -15,7 +15,7 @@ public class MvxJavaContainer_1
 	}
 
 
-	public MvxJavaContainer_1 () throws java.lang.Throwable
+	public MvxJavaContainer_1 ()
 	{
 		super ();
 		if (getClass () == MvxJavaContainer_1.class)

@@ -8,74 +8,74 @@
     <include
         layout="@layout/top_toolbar" />
     <LinearLayout
-        style="@style/AddCombatantLayout"
+        style="@style/AddEditCombatantLayout"
         android:background="@color/secondary_color">
         <TextView
-            style="@style/AddCombatantTextView"
+            style="@style/AddEditCombatantTextView"
             android:text="Combatant Name" />
         <EditText
-            style="@style/AddCombatantEditText"
+            style="@style/AddEditCombatantEditText"
             android:id="@+id/edit_character_name"
             android:inputType="textCapSentences" />
     </LinearLayout>
     <LinearLayout
-        style="@style/AddCombatantLayout"
+        style="@style/AddEditCombatantLayout"
         android:background="@color/white">
         <LinearLayout
-            style="@style/AddCombatantLayout"
+            style="@style/AddEditCombatantLayout"
             android:layout_weight="1">
             <TextView
-                style="@style/AddCombatantTextView"
+                style="@style/AddEditCombatantTextView"
                 android:text="Initiative" />
             <EditText
-                style="@style/AddCombatantEditText.Stat"
+                style="@style/AddEditCombatantEditText.Stat"
                 android:id="@+id/edit_initiative" />
         </LinearLayout>
         <LinearLayout
-            style="@style/AddCombatantLayout"
+            style="@style/AddEditCombatantLayout"
             android:layout_weight="1">
             <TextView
-                style="@style/AddCombatantTextView"
+                style="@style/AddEditCombatantTextView"
                 android:text="Max Health" />
             <EditText
-                style="@style/AddCombatantEditText.Stat"
+                style="@style/AddEditCombatantEditText.Stat"
                 android:id="@+id/edit_max_health"
                 android:maxLength="4" />
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
-        style="@style/AddCombatantLayout"
+        style="@style/AddEditCombatantLayout"
         android:background="@color/secondary_color">
         <LinearLayout
-            style="@style/AddCombatantLayout"
+            style="@style/AddEditCombatantLayout"
             android:layout_weight="1">
             <TextView
-                style="@style/AddCombatantTextView"
+                style="@style/AddEditCombatantTextView"
                 android:text="Perception" />
             <EditText
-                style="@style/AddCombatantEditText.Stat"
+                style="@style/AddEditCombatantEditText.Stat"
                 android:id="@+id/edit_perception" />
         </LinearLayout>
         <LinearLayout
-            style="@style/AddCombatantLayout"
+            style="@style/AddEditCombatantLayout"
             android:layout_weight="1">
             <TextView
-                style="@style/AddCombatantTextView"
+                style="@style/AddEditCombatantTextView"
                 android:text="Armor Class" />
             <EditText
-                style="@style/AddCombatantEditText.Stat"
+                style="@style/AddEditCombatantEditText.Stat"
                 android:id="@+id/edit_armor" />
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
-        style="@style/AddCombatantLayout"
+        style="@style/AddEditCombatantLayout"
         android:id="@+id/layout_edit_player_name"
         android:background="@color/white">
         <TextView
-            style="@style/AddCombatantTextView"
+            style="@style/AddEditCombatantTextView"
             android:text="Player Name" />
         <EditText
-            style="@style/AddCombatantEditText"
+            style="@style/AddEditCombatantEditText"
             android:id="@+id/edit_player_name"
             android:inputType="textCapSentences" />
     </LinearLayout>

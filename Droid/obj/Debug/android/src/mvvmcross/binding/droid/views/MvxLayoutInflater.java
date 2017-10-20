@@ -21,7 +21,7 @@ public class MvxLayoutInflater
 	}
 
 
-	public MvxLayoutInflater (android.content.Context p0) throws java.lang.Throwable
+	public MvxLayoutInflater (android.content.Context p0)
 	{
 		super (p0);
 		if (getClass () == MvxLayoutInflater.class)
@@ -29,7 +29,7 @@ public class MvxLayoutInflater
 	}
 
 
-	public MvxLayoutInflater (android.view.LayoutInflater p0, android.content.Context p1) throws java.lang.Throwable
+	public MvxLayoutInflater (android.view.LayoutInflater p0, android.content.Context p1)
 	{
 		super (p0, p1);
 		if (getClass () == MvxLayoutInflater.class)

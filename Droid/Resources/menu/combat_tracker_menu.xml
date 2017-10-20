@@ -9,10 +9,6 @@
        android:showAsAction="never"
        android:title="Options" />
   <item
-       android:id="@+id/menu_upgrade"
-       android:showAsAction="never"
-       android:title="Upgrade" />
-  <item
        android:id="@+id/menu_help"
        android:showAsAction="never"
        android:title="Help" />

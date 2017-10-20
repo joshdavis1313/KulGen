@@ -32,14 +32,14 @@ public class MvxAdapterWithChangedEvent
 	}
 
 
-	public MvxAdapterWithChangedEvent () throws java.lang.Throwable
+	public MvxAdapterWithChangedEvent ()
 	{
 		super ();
 		if (getClass () == MvxAdapterWithChangedEvent.class)
 			mono.android.TypeManager.Activate ("MvvmCross.Binding.Droid.Views.MvxAdapterWithChangedEvent, MvvmCross.Binding.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
-	public MvxAdapterWithChangedEvent (android.content.Context p0) throws java.lang.Throwable
+	public MvxAdapterWithChangedEvent (android.content.Context p0)
 	{
 		super ();
 		if (getClass () == MvxAdapterWithChangedEvent.class)

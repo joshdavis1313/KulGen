@@ -38,3 +38,4 @@
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csproj.CoreCompileInputs.cache
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.dll
 /Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.pdb
+/Users/joshua.davis/Sites/KulGen/KulGen/obj/Debug/KulGen.csprojResolveAssemblyReference.cache

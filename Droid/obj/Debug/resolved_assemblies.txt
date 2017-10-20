@@ -30,6 +30,8 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/PInvoke.Kernel32.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/PInvoke.NCrypt.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/PInvoke.Windows.Core.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
+/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_green.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/SQLitePCLRaw.core.dll
@@ -67,14 +69,12 @@
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Mono.Security.dll
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.Abstractions.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/SQLite-net.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Linq.Expressions.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Globalization.dll
-/Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Plugin.Settings.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/Microsoft.WindowsAzure.Mobile.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
 /Users/joshua.davis/Sites/KulGen/Droid/obj/Debug/android/assets/System.Net.Primitives.dll

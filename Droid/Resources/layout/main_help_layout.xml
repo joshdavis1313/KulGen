@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include
+            layout="@layout/top_toolbar" />
+        <LinearLayout
+            style="@style/HelpSectionLayout"
+            android:background="@color/secondary_color"
+            android:orientation="vertical">
+            <TextView
+                style="@style/HelpTextView.TopTitle"
+                android:text="Initiative Options" />
+            <TextView
+                style="@style/HelpTextView.Title"
+                android:text="Standard" />
+            <TextView
+                style="@style/HelpTextView.MultiLine"
+                android:text="Combatants roll a D20 and adds their initiative to get there score. Combatants are then sorted in descending order." />
+            <TextView
+                style="@style/HelpTextView.Title"
+                android:text="GreyHawk" />
+            <TextView
+                style="@style/HelpTextView.MultiLine"
+                android:text="Combatants decide what they are going to do before the turn starts, they then roll dice depending on what actions/movement/bonus actions they will be doing. Combatants are then sorted in ascending order." />
+            <TextView
+                style="@style/HelpTextView.Hyperlink"
+                android:id="@+id/text_help_greyhawk_link"
+                android:text="Click here to see detailed rules" />
+            <TextView
+                style="@style/HelpTextView.Title"
+                android:text="Narrative" />
+            <TextView
+                style="@style/HelpTextView.MultiLine"
+                android:text="There is no initiative roll or turn order, combatant turns happen when players want them to and when makes the most narrative sense. Once a combatant has done their turn they can not do so again until all other combatants have gone." />
+            <TextView
+                style="@style/HelpTextView.Hyperlink"
+                android:id="@+id/text_help_narrative_link"
+                android:text="Click here to see detailed rules" />
+        </LinearLayout>
+        <LinearLayout
+            style="@style/HelpSectionLayout"
+            android:background="@color/white">
+            <TextView
+                style="@style/HelpTextView.TopTitle"
+                android:text="Multiple NPC Suffix Options" />
+            <TextView
+                style="@style/HelpTextView.MultiLine"
+                android:text="When you choose to create multiple NPCs of the same kind we add extra text to the end to help distinguish between them. You can choose to either have it be numbered, alphabetic, or enter a custom comma seperated list that the app will go through." />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

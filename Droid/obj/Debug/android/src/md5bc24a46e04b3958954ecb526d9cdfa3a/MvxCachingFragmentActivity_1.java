@@ -15,7 +15,7 @@ public abstract class MvxCachingFragmentActivity_1
 	}
 
 
-	public MvxCachingFragmentActivity_1 () throws java.lang.Throwable
+	public MvxCachingFragmentActivity_1 ()
 	{
 		super ();
 		if (getClass () == MvxCachingFragmentActivity_1.class)

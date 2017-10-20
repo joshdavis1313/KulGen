@@ -15,14 +15,14 @@ public class MvxAdapter_1
 	}
 
 
-	public MvxAdapter_1 () throws java.lang.Throwable
+	public MvxAdapter_1 ()
 	{
 		super ();
 		if (getClass () == MvxAdapter_1.class)
 			mono.android.TypeManager.Activate ("MvvmCross.Binding.Droid.Views.MvxAdapter`1, MvvmCross.Binding.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
-	public MvxAdapter_1 (android.content.Context p0) throws java.lang.Throwable
+	public MvxAdapter_1 (android.content.Context p0)
 	{
 		super ();
 		if (getClass () == MvxAdapter_1.class)

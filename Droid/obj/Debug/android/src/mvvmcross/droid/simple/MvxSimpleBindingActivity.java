@@ -15,7 +15,7 @@ public class MvxSimpleBindingActivity
 	}
 
 
-	public MvxSimpleBindingActivity () throws java.lang.Throwable
+	public MvxSimpleBindingActivity ()
 	{
 		super ();
 		if (getClass () == MvxSimpleBindingActivity.class)

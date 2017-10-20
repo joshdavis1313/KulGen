@@ -16,7 +16,7 @@ public abstract class MvxIntentService
 	}
 
 
-	public MvxIntentService (java.lang.String p0) throws java.lang.Throwable
+	public MvxIntentService (java.lang.String p0)
 	{
 		super (p0);
 		if (getClass () == MvxIntentService.class)
@@ -24,7 +24,7 @@ public abstract class MvxIntentService
 	}
 
 
-	public MvxIntentService () throws java.lang.Throwable
+	public MvxIntentService ()
 	{
 		super ();
 		if (getClass () == MvxIntentService.class)

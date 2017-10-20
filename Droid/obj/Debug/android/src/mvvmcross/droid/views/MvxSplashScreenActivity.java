@@ -18,7 +18,7 @@ public abstract class MvxSplashScreenActivity
 	}
 
 
-	public MvxSplashScreenActivity () throws java.lang.Throwable
+	public MvxSplashScreenActivity ()
 	{
 		super ();
 		if (getClass () == MvxSplashScreenActivity.class)

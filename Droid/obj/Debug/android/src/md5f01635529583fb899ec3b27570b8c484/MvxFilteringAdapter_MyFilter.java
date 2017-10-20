@@ -18,14 +18,14 @@ public class MvxFilteringAdapter_MyFilter
 	}
 
 
-	public MvxFilteringAdapter_MyFilter () throws java.lang.Throwable
+	public MvxFilteringAdapter_MyFilter ()
 	{
 		super ();
 		if (getClass () == MvxFilteringAdapter_MyFilter.class)
 			mono.android.TypeManager.Activate ("MvvmCross.Binding.Droid.Views.MvxFilteringAdapter+MyFilter, MvvmCross.Binding.Droid, Version=5.1.1.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
-	public MvxFilteringAdapter_MyFilter (md5f01635529583fb899ec3b27570b8c484.MvxFilteringAdapter p0) throws java.lang.Throwable
+	public MvxFilteringAdapter_MyFilter (md5f01635529583fb899ec3b27570b8c484.MvxFilteringAdapter p0)
 	{
 		super ();
 		if (getClass () == MvxFilteringAdapter_MyFilter.class)

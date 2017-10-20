@@ -44,6 +44,9 @@
     <Compile Include="Source\PropertyDependency\DependsOnAttribute.cs" />
     <Compile Include="Source\ViewModels\AddCombatants\AddCombatantViewModel.cs" />
     <Compile Include="Source\ViewModels\EditCombatants\EditCombatantViewModel.cs" />
+    <Compile Include="Source\ViewModels\Options\MainOptionsViewModel.cs" />
+    <Compile Include="Source\Util\CustomEnums.cs" />
+    <Compile Include="Source\ViewModels\Help\MainHelpViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
@@ -57,6 +60,8 @@
     <Folder Include="Source\PropertyDependency\" />
     <Folder Include="Source\ViewModels\AddCombatants\" />
     <Folder Include="Source\ViewModels\EditCombatants\" />
+    <Folder Include="Source\ViewModels\Options\" />
+    <Folder Include="Source\ViewModels\Help\" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">

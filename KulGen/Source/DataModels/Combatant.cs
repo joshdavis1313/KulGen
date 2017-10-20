@@ -14,6 +14,7 @@ namespace KulGen.DataModels
 		public int Initiative { get; set; }
 		public int ArmorClass { get; set; }
 		public int PassivePerception { get; set; }
+		public bool HasGone { get; set; }
 
 		public Combatant()
 		{

@@ -37,9 +37,7 @@ namespace KulGen.Droid.Views.EditCombatants
 			editArmorClass = FindViewById<EditText> (Resource.Id.edit_armor);
 			layoutPlayerName = FindViewById<LinearLayout> (Resource.Id.layout_edit_player_name);
 
-			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
-			SetActionBar (toolbar);
-			ActionBar.Title = "Edit Combatant";
+			SetupActionBar ("Edit Combatant");
 		}
 
 		protected override void SetupBindings (MvxFluentBindingDescriptionSet<EditCombatantView, EditCombatantViewModel> bindingSet)

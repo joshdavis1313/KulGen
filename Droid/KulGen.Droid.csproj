@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>KulGen.Droid</RootNamespace>
     <AssemblyName>KulGen.Droid</AssemblyName>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
@@ -26,7 +26,6 @@
     <DefineConstants>DEBUG;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidLinkMode>None</AndroidLinkMode>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -37,6 +36,7 @@
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidLinkMode>None</AndroidLinkMode>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -176,6 +176,12 @@
     <Reference Include="MvvmCross.Plugins.Visibility.Droid">
       <HintPath>..\packages\MvvmCross.Plugin.Visibility.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.Visibility.Droid.dll</HintPath>
     </Reference>
+    <Reference Include="Plugin.Settings.Abstractions">
+      <HintPath>..\packages\Xam.Plugins.Settings.3.0.1\lib\MonoAndroid10\Plugin.Settings.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Settings">
+      <HintPath>..\packages\Xam.Plugins.Settings.3.0.1\lib\MonoAndroid10\Plugin.Settings.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KulGen\KulGen.csproj">
@@ -205,6 +211,9 @@
     <Compile Include="Source\Converters\VisibilityGoneValueConverter.cs" />
     <Compile Include="Bootstrap\VisibilityPluginBootstrap.cs" />
     <Compile Include="Source\Views\EditCombatants\EditCombatantView.cs" />
+    <Compile Include="Source\Views\Options\MainOptionsView.cs" />
+    <Compile Include="Helpers\Settings.cs" />
+    <Compile Include="Source\Views\Help\MainHelpView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -238,6 +247,11 @@
     <AndroidResource Include="Resources\values\Dimens.xml" />
     <AndroidResource Include="Resources\drawable\ic_combat.png" />
     <AndroidResource Include="Resources\drawable\ic_combat_2.png" />
+    <AndroidResource Include="Resources\layout\main_options_layout.xml" />
+    <AndroidResource Include="Resources\menu\main_options_menu.xml" />
+    <AndroidResource Include="Resources\drawable\ic_toolbar.png" />
+    <AndroidResource Include="Resources\drawable\ic_fab_uncheck.png" />
+    <AndroidResource Include="Resources\layout\main_help_layout.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Source\" />
@@ -250,6 +264,8 @@
     <Folder Include="Source\Adapters\" />
     <Folder Include="Source\Views\AddCombatants\" />
     <Folder Include="Source\Views\EditCombatants\" />
+    <Folder Include="Source\Views\Options\" />
+    <Folder Include="Source\Views\Help\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />

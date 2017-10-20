@@ -21,7 +21,7 @@ public class MvxFragment
 	}
 
 
-	public MvxFragment () throws java.lang.Throwable
+	public MvxFragment ()
 	{
 		super ();
 		if (getClass () == MvxFragment.class)

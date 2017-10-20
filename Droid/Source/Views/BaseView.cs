@@ -1,5 +1,6 @@
 ﻿using Android.Content;
 using Android.OS;
+using Android.Widget;
 using KulGen.ViewModels;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Core.ViewModels;
@@ -61,6 +62,14 @@ namespace KulGen.Droid.Views
 			var bindingSet = (this as TView).CreateBindingSet<TView, TViewModel>();
 			SetupBindings(bindingSet);
 			bindingSet.Apply();
+		}
+
+		public void SetupActionBar(string title)
+		{
+			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
+			SetActionBar (toolbar);
+			ActionBar.Title = title;
+			ActionBar.SetIcon (Resource.Drawable.ic_toolbar);
 		}
 
 		// Used to initialize UI 

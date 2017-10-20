@@ -16,7 +16,7 @@ public class MvxContextWrapper
 	}
 
 
-	public MvxContextWrapper (android.content.Context p0) throws java.lang.Throwable
+	public MvxContextWrapper (android.content.Context p0)
 	{
 		super (p0);
 		if (getClass () == MvxContextWrapper.class)

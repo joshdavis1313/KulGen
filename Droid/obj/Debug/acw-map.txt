@@ -1,3 +1,7 @@
+KulGen.Droid.Source.Views.Options.MainOptionsView, KulGen.Droid;md5c2d91f5baeb23a5c765f9a644e97a403.MainOptionsView
+KulGen.Droid.Source.Views.Options.MainOptionsView, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c2d91f5baeb23a5c765f9a644e97a403.MainOptionsView
+KulGen.Droid.Source.Views.Options.MainOptionsView;md5c2d91f5baeb23a5c765f9a644e97a403.MainOptionsView
+kulgen.droid.source.views.options.MainOptionsView;md5c2d91f5baeb23a5c765f9a644e97a403.MainOptionsView
 KulGen.Droid.Adapters.CombatantAdapter, KulGen.Droid;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
 KulGen.Droid.Adapters.CombatantAdapter, KulGen.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter
 KulGen.Droid.Adapters.CombatantAdapter;md59aa2384071be1d7482b8b35776a05c29.CombatantAdapter

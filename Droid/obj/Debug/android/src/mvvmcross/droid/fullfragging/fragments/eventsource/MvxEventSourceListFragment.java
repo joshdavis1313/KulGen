@@ -27,7 +27,7 @@ public class MvxEventSourceListFragment
 	}
 
 
-	public MvxEventSourceListFragment () throws java.lang.Throwable
+	public MvxEventSourceListFragment ()
 	{
 		super ();
 		if (getClass () == MvxEventSourceListFragment.class)

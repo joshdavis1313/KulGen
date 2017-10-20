@@ -19,7 +19,7 @@ public class MvxLayoutInflater_PrivateFactoryWrapper2
 	}
 
 
-	public MvxLayoutInflater_PrivateFactoryWrapper2 () throws java.lang.Throwable
+	public MvxLayoutInflater_PrivateFactoryWrapper2 ()
 	{
 		super ();
 		if (getClass () == MvxLayoutInflater_PrivateFactoryWrapper2.class)

@@ -15,7 +15,7 @@ public abstract class MvxPreferenceFragment_1
 	}
 
 
-	public MvxPreferenceFragment_1 () throws java.lang.Throwable
+	public MvxPreferenceFragment_1 ()
 	{
 		super ();
 		if (getClass () == MvxPreferenceFragment_1.class)

@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.FancyDevs.App_Of_Many_Things">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.1" package="com.FancyDevs.App_Of_Many_Things">
 	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="App Of Many Things">
-	</application>
+	<application android:label="App Of Many Things" android:icon="@drawable/icon_main"></application>
 </manifest>

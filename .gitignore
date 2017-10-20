@@ -19,6 +19,10 @@ test-results
 # VS sometimes writes these for no apparent reason
 _UpgradeReport_Files
 UpgradeLog.*
+*.csproj.bak
+.vs
+*.Android/app.config
+*.UITests/app.config
 
 # Per-user data
 *.DS_Store

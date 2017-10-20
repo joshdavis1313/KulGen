@@ -44,9 +44,7 @@ namespace KulGen.Droid.Views.AddCombatants
 			layoutPlayerName = FindViewById<LinearLayout> (Resource.Id.layout_add_player_name);
 			layoutCreateNumber = FindViewById<LinearLayout> (Resource.Id.layout_add_create_number);
 
-			var toolbar = FindViewById<Toolbar> (Resource.Id.toptoolbar);
-			SetActionBar (toolbar);
-			ActionBar.Title = "Add Combatant";
+			SetupActionBar ("Add Combatant");
 
 			radioNpc.Click += OnNpcClicked;
 			radioPlayer.Click += OnPlayerClicked;
